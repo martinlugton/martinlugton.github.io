@@ -11,7 +11,7 @@ GDS started by bringing together hundreds of disparate government websites into 
 
 To help scale the transformation of government services, and drawing on the insight of all of this work, GDS then created Government as a Platform - a set of platforms and components that teams across government could use to build and run services (e.g. GOV.UK Pay, GOV.UK Notify, GovWifi, Registers, Performance Platform and Platform as a Service). These platforms are focused on doing one thing, and doing it really well. In addition to this, GDS bundled the design and frontend insights gained from its partnerships with departmental service teams into the GOV.UK Design System, GOV.UK Prototype Kit and GOV.UK Frontend. Taken together, these platform products meant that services across government now had easy access, without procurement or financial difficulty, to most of the building blocks needed to create services.
 
-![Diagram showing the transition from no platforms being available across government, to the creation of Government as a Platform](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Moving%20from%20entirely%20separate%20platform%20products%20to%20an%20integrated%20Digital%20Service%20Platform.png)
+![Diagram showing the transition from no platforms being available across government, to the creation of Government as a Platform](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Moving%20from%20before%20government%20as%20a%20platform%20to%20government%20as%20a%20platform.png?raw=true)
 
 At first these platforms were mostly focused on helping teams who already had access to technical capability, as shown by the excellent APIs and developer documentation of these products. But in recent years, these platforms have been expanding into helping teams with less access to technical skills - for example [Pay’s payment links feature](https://www.payments.service.gov.uk/govuk-payment-pages/). These building blocks can be used by large or small services, and the explosive growth of adoption during covid was testament to the quality of what GDS built.
 
@@ -33,7 +33,7 @@ Helping teams without access to technical skills to transform their service allo
 
 With even small, simple services often costing hundreds of thousands of pounds (or more) a year to run, helping the thousands of non-transformed services fully digitise has economic potential in the hundreds of millions of pounds, even with a pessimistic estimate of the percentage of services that would be impacted.
 
-(diagram)
+![Diagram showing the transition from discrete platforms being available to the provision of an integrated Digital Service Platform that allows government users to harness all of these platforms without having to set up, host and configure them separately](https://raw.githubusercontent.com/martinlugton/martinlugton.github.io/main/images/Moving%20from%20entirely%20separate%20platform%20products%20to%20an%20integrated%20Digital%20Service%20Platform.png)
 
 Looking across to the rest of GDS, GOV.UK is soon to start [building a native app](https://gds.blog.gov.uk/2023/06/06/putting-growth-at-the-heart-of-gov-uks-strategy/), with a particular interest in young people, alongside its web estate, and Digital Identity are nearing important adoption milestones with some key departments and services.
 
@@ -66,7 +66,7 @@ We will use AI, the GDS Design System, and Government Design Principles.
 
 If our first shift is to go beyond empowering technical specialists to empowering service teams who don’t have access to technical specialists, our second shift is to empower teams who do not have access to service and digital design expertise. This is how we reach the long tail of thousands of government PDF forms.
 
-(diagram)
+![Diagram showing the addition of service and policy design support to the Digital Service Platform, helping users make better decisions when creating a service](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Adding%20service%20and%20policy%20design%20support%20to%20a%20Digital%20Service%20Platform.png?raw=true)
 
 Artificial intelligence capabilities are improving rapidly. AI can already be used to check content against a style guide, check the reading age of a document, or suggest alternatives to jargon. Soon we will be able to harness AI to help people make better decisions when designing and creating services and their associated content, particularly when we power it with an understanding of our Design System and Government Design Principles.
 
@@ -90,7 +90,7 @@ This joined-up performance data, combined with analytics (that we’ll bake in t
 
 We’ll be able to identify good services and bad services, and suggest improvements to bad services to help them improve outcomes and user experience, based on the [Government Design Principles](https://www.gov.uk/guidance/government-design-principles) and the concrete evidence of good services on the platform. For example: “This step of your service is having problems. We think it’s because you have too many options on your form and because they aren’t clearly expressed. Based on insights from the best services, we suggest that you halve the number of options and change the wording in these specific ways to improve your service...” The next stage from this will be to suggest service improvements and enact them automatically (subject to oversight and approval by the service owner).
 
-(diagram)
+![Diagram showing the addition of data- and AI-driven insight to the Digital Service Platform, driving improvements to individual services and to the overall Platform](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Adding%20data-%20and%20AI-driven%20insight%20to%20a%20Digital%20Service%20Platform.png?raw=true)
 
 So every service on the joined-up Digital Service Platform will benefit from continuous data- and insight-driven optimisation. We’ll surface this insight to the public and policymakers, improving scrutiny and decision-making. This will empower government and enable scrutiny by the public.
 
