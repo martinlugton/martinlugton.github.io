@@ -1,5 +1,5 @@
 ---
-title: "What next for digital government and government as a platform?"
+title: "What next for digital government and Government as a Platform?"
 permalink: /what-next-for-digital-government-and-government-as-a-platform
 ---
 
