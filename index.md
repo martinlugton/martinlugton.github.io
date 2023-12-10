@@ -3,7 +3,7 @@ title: "Martin Lugton"
 permalink: /
 ---
 
-#Martin Lugton
+# Martin Lugton
 
 Welcome to my website. I'm currently migrating and rebuilding. 
 
