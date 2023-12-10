@@ -62,7 +62,7 @@ From there, we’ll be able to take the next step and orient government’s plat
 
 ## We will empower teams to make great design decisions when building digital services
 
-We will use AI, the GDS Design System, and Government Design Principles.
+We will use AI, the GDS Design System, and the [Government Design Principles](https://www.gov.uk/guidance/government-design-principles).
 
 If our first shift is to go beyond empowering technical specialists to empowering service teams who don’t have access to technical specialists, our second shift is to empower teams who do not have access to service and digital design expertise. This is how we reach the long tail of thousands of government PDF forms.
 
@@ -88,7 +88,7 @@ Digital government in the UK has never had good insight into how well services a
 
 This joined-up performance data, combined with analytics (that we’ll bake in to the joined-up Digital Service Platform) and insights from written user feedback data (that we’ll collect and analyse through AI for all services on the Digital Service Platform), will allow us to see how well a service is performing, and how it might be improved. 
 
-We’ll be able to identify good services and bad services, and suggest improvements to bad services to help them improve outcomes and user experience, based on the [Government Design Principles](https://www.gov.uk/guidance/government-design-principles) and the concrete evidence of good services on the platform. For example: “This step of your service is having problems. We think it’s because you have too many options on your form and because they aren’t clearly expressed. Based on insights from the best services, we suggest that you halve the number of options and change the wording in these specific ways to improve your service...” The next stage from this will be to suggest service improvements and enact them automatically (subject to oversight and approval by the service owner).
+We’ll be able to identify good services and bad services, and suggest improvements to bad services to help them improve outcomes and user experience, based on the Government Design Principles and the concrete evidence of good services on the platform. For example: “This step of your service is having problems. We think it’s because you have too many options on your form and because they aren’t clearly expressed. Based on insights from the best services, we suggest that you halve the number of options and change the wording in these specific ways to improve your service...” The next stage from this will be to suggest service improvements and enact them automatically (subject to oversight and approval by the service owner).
 
 ![Diagram showing the addition of data- and AI-driven insight to the Digital Service Platform, driving improvements to individual services and to the overall Platform](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Adding%20data-%20and%20AI-driven%20insight%20to%20a%20Digital%20Service%20Platform.png?raw=true)
 
