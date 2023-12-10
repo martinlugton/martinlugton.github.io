@@ -11,7 +11,7 @@ GDS started by bringing together hundreds of disparate government websites into 
 
 To help scale the transformation of government services, and drawing on the insight of all of this work, GDS then created Government as a Platform - a set of platforms and components that teams across government could use to build and run services (e.g. GOV.UK Pay, GOV.UK Notify, GovWifi, Registers, Performance Platform and Platform as a Service). These platforms are focused on doing one thing, and doing it really well. In addition to this, GDS bundled the design and frontend insights gained from its partnerships with departmental service teams into the GOV.UK Design System, GOV.UK Prototype Kit and GOV.UK Frontend. Taken together, these platform products meant that services across government now had easy access, without procurement or financial difficulty, to most of the building blocks needed to create services.
 
-(diagram)
+![Diagram showing the transition from no platforms being available across government, to the creation of Government as a Platform](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Moving%20from%20entirely%20separate%20platform%20products%20to%20an%20integrated%20Digital%20Service%20Platform.png)
 
 At first these platforms were mostly focused on helping teams who already had access to technical capability, as shown by the excellent APIs and developer documentation of these products. But in recent years, these platforms have been expanding into helping teams with less access to technical skills - for example [Pay’s payment links feature](https://www.payments.service.gov.uk/govuk-payment-pages/). These building blocks can be used by large or small services, and the explosive growth of adoption during covid was testament to the quality of what GDS built.
 
@@ -35,7 +35,7 @@ With even small, simple services often costing hundreds of thousands of pounds (
 
 (diagram)
 
-Looking across to the rest of GDS, GOV.UK is soon to start [building a native app](https://www.google.com/url?q=https://gds.blog.gov.uk/2023/06/06/putting-growth-at-the-heart-of-gov-uks-strategy/), with a particular interest in young people, alongside its web estate, and Digital Identity are nearing important adoption milestones with some key departments and services.
+Looking across to the rest of GDS, GOV.UK is soon to start [building a native app](https://gds.blog.gov.uk/2023/06/06/putting-growth-at-the-heart-of-gov-uks-strategy/), with a particular interest in young people, alongside its web estate, and Digital Identity are nearing important adoption milestones with some key departments and services.
 
 ## Where is GDS going next?
 
