@@ -73,7 +73,7 @@ If our first shift is to go beyond empowering technical specialists to empowerin
 
 Artificial intelligence capabilities are improving rapidly. AI can already be used to check content against a style guide, check the reading age of a document, or suggest alternatives to jargon. Soon we will be able to harness AI to help people make better decisions when designing and creating services and their associated content, particularly when we power it with an understanding of our Design System and Government Design Principles.
 
-TODO: ADD IMAGE
+![Prototype showing suggestions for improvement to the language used on a form question to make it easier to understand](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Using%20a%20large%20language%20model%20to%20suggest%20basic%20content%20improvements.png?raw=true)
 _In this prototype, we use a large language model to suggest improvements to make a form question easier to read._
 
 As these capabilities continue to mature, we’ll be able to help government design and build better services from the start - improving policy formation and service design.
@@ -94,7 +94,7 @@ Digital government in the UK has never had good insight into how well services a
 
 For example, we might pick out a particular step of a service as having an unusually high dropoff rate, and highlight improvements informed by successful examples that we also see on the platform.
 
-TODO: ADD IMAGE
+![Prototype showing suggestions for improvement to a particular step of a form, informed by performance data, suggesting specific improvements to boost clarity](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Using%20machine%20learning%20and%20a%20large%20language%20model%20to%20identify%20a%20problem%20area%20and%20suggest%20an%20improvement.png?raw=true)
 
 Services will be expected to act on these insights in a swift and timely fashion, and CDDO could be given oversight of these across all services, to make sure that this is happening in practice.
 
@@ -104,7 +104,7 @@ In harnessing data and machine learning, we’ll work carefully to scan for pote
 
 So every service on the joined-up Digital Service Platform will benefit from continuous data- and insight-driven optimisation. We’ll surface this insight to the public and to the people building and running services (from policy through design, delivery and operations), improving scrutiny and decision-making. This will empower government and enable oversight by the public, with high-quality visibility of detailed service performance out-of-the-box.
 
-TODO: ADD IMAGE
+![Prototype giving an overview of a service, and calling out 3 priority improvements using analysed performance data and feedback, across all areas of the service](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Using%20machine%20learning%20and%20a%20large%20language%20model%20to%20give%20an%20overview%20of%20a%20service's%20performance%20and%20priority%20areas%20to%20improve,%20from%20different%20sources%20of%20insight.png?raw=true)
 _In this prototype, we use performance data and machine learning to give visibility of a whole service. Key areas for improvement are picked out using machine-analysed data and user feedback. Suggestions for improvement span all aspects of the service, including content, form steps, and notifications._
 
 These insights won’t just be used to drive improvements to individual services: they’ll feed back in to components and guidance, so that the platform as a whole - and all the services on it - becomes better at meeting user needs over time. 
