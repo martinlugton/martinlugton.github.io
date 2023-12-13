@@ -3,11 +3,11 @@ title: "What next for digital government and Government as a Platform?"
 permalink: /what-next-for-digital-government-and-government-as-a-platform
 ---
 
-GDS is thinking about its strategy for 2025-30. I’m Head of Product in the Digital Service Platforms part of GDS - you might have previously known it as ‘Government as a Platform’, or ‘GaaP’. I’m having some conversations with my SMT colleagues and other well-wishers, and wanted to share some early thoughts-in-progress to elicit feedback from the many excellent thinkers on digital government.
+_GDS is thinking about its strategy for 2025-30. I’m Head of Product in the Digital Service Platforms part of GDS - you might have previously known it as ‘Government as a Platform’, or ‘GaaP’. I’m having some conversations with my SMT colleagues and other well-wishers, and wanted to share some early thoughts-in-progress to elicit feedback from the many excellent thinkers on digital government._
 
-I start by reviewing where our platforms have come from and the tremendous value they provide. I then talk about our current work - uncovering an extra layer of service transformation by helping teams without access to technical skills to transform their service. 
+_I start by reviewing where our platforms have come from and the tremendous value they provide. I then talk about our current work - uncovering an extra layer of service transformation by helping teams without access to technical skills to transform their service._
 
-From there I look ahead to the future of our platform offering for 2025-30. I argue that the next step for government as a platform is to directly help services transform. We’ll do this in two ways: first by going much further to help people make better design decisions for their services, and second, by helping services continually optimise themselves. For the first, we can make use of generative artificial intelligence to help people make better decisions when designing and creating services, and for the second, we can make use of platform-scale performance data and machine learning.
+_From there I look ahead to the future of our platform offering for 2025-30. I argue that the next step for government as a platform is to directly help services transform. We’ll do this in two ways: first by going much further to help people make better design decisions for their services, and second, by helping services continually optimise themselves. For the first, we can make use of generative artificial intelligence to help people make better decisions when designing and creating services, and for the second, we can make use of platform-scale performance data and machine learning._
 
 ## Where have we come from? 
 
