@@ -11,7 +11,7 @@ _From there I look ahead to the future of our platform offering for 2025-30. I a
 
 ## Where have we come from? 
 
-GDS started by significantly improving the experience of interacting with the state, at the same time as saving a huge amount of money by working more efficiently. GDS brought together hundreds of disparate government websites into a single domain, with a vastly improved user experience, overhauling content and a number of key transactional services.
+GDS started by significantly improving the online experience of interacting with the state, at the same time as saving a huge amount of money by working more efficiently. GDS brought together hundreds of disparate government websites into a single domain, with a vastly improved user experience, overhauling content and a number of key transactional services.
 
 To help scale the transformation of government services, and drawing on the insight of all of this work, GDS then created Government as a Platform - a set of platforms and components that teams across government could use to build and run services (e.g. GOV.UK Pay, GOV.UK Notify, GovWifi, Registers, Performance Platform, GOV.UK Verify and Platform as a Service). These platforms are focused on doing one thing, and doing it really well. In addition to this, GDS bundled the design and frontend insights gained from its partnerships with departmental service teams into the GOV.UK Design System, GOV.UK Prototype Kit and GOV.UK Frontend. Taken together, these platform products meant that services across government now had easy access, without procurement or financial difficulty, to most of the building blocks needed to create services.
 
