@@ -80,7 +80,9 @@ If your algorithm doesn’t follow the pattern in the training data well, we’d
 If your algorithm is over-optimised for fitting the training data, you might find that it is ‘overfit’. This is because it’s so optimised for perfectly fitting to its training data, that it doesn’t do as good a job of predicting more generally. We’d say that this model has ‘high variance’.
 This can be the case in regression and classification:
 
-[add regression and classification examples]
+![Three graphs, showing the difference between underfit, fit, and overfit for a regression problem](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/overfitting%20-%20regression.png?raw=true)
+
+![Three graphs, showing the difference between underfit, fit, and overfit for a classification problem](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/overfitting%20-%20classification.png?raw=true)
 
 Approaches to address overfitting:
 - Get more training examples
