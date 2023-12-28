@@ -88,3 +88,33 @@ Approaches to address overfitting:
 - Get more training examples
 - Feature selection: use fewer features when training your algorithm. (Lots of features + a small training set generally leads to overfitting)
 - Regularisation: reducing the impact of a given feature, without eliminating it outright. Regularisation lets you keep all your features, but it prevents the features from having an overly large effect.
+
+## Regularization to address overfitting and underfitting
+
+We can update our cost function so that it now trades off between two goals:
+- The mean squared error function encourages the algorithm to fit the training data well.
+- The regularization term encourages the algorithm to avoid overfitting, by keeping parameters small.
+
+![Regularization equation](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/regularization.png?raw=true)
+
+The value you set to lambda determines the tradeoff between these two goals:
+- If lambda is 0, you'll overfit, because you aren’t regularizing at all. 
+- If lambda is huge, then you’ll underfit, because you aren’t using the mean squared error value to make sure that the algorithm does a good job of predicting input:output pairings.
+- So you want a lambda value somewhere in the middle
+
+## Neural networks (aka deep learning)
+
+These algorithms are inspired by the way the human brain works. They are great at tasks like speech and image recognition.
+
+Logistic and linear regression (which we have looked at so far) can only scale in performance to an extent with additional data. Neural networks, on the other hand, are much more effective at taking advantage of additional data.
+
+![A graph showing the performance gains afforded by neural networks with additional data, compared with 'traditional' machine learning](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/why%20now.png?raw=true)
+
+As we now have more data, faster processors, and new computational capabilities unlocked by using GPUs for machine learning, we have been able to take advantage of neural networks in recent years.
+
+The smallest component of a neural network is a neuron. A neuron takes an input - or set of inputs - does some computation, and then produces an output (called its ‘activation’)
+
+A layer is a group of neurons that take as an input the same or a similar set of features, and that in turn output a few numbers together.
+
+In the demand prediction example below, in addition to the input and output layers, there is a layer of 3 neurons in the middle.
+
