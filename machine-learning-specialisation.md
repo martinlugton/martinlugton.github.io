@@ -118,3 +118,37 @@ A layer is a group of neurons that take as an input the same or a similar set of
 
 In the demand prediction example below, in addition to the input and output layers, there is a layer of 3 neurons in the middle.
 
+![A diagram of a simple neural network](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/very%20simple%20neural%20network.png?raw=true)
+
+The network will learn, over time, for each neuron, which of the features in the layer to its left are more important in making a prediction.
+
+Neural networks give us the benefits of logistic regression, whilst effectively creating their own features from the input layer, and finding the best way to weight them - e..g affordability, awareness, and perceived quality being more usefully predictive than ‘material’ and ‘shipping cost’ alone.  So instead of manually having to do feature engineering, the neural network figures this out for us.
+
+## Implementing neural networks
+
+Tensorflow and pytorch are great for implementing neural networks.
+
+They do a lot of the mundane work for us, allowing us to follow these steps:
+- define the model (its layers, and their relationships)
+- compile the model
+- fit the model (running gradient descent and fitting weights to the data) 
+
+Then you can use the model to predict the output for new input values.
+
+## How to evaluate and improve a machine learning algorithm
+
+Instead of using all your data for training the algorithm, hold back some of it to use for testing:
+
+- Use 70% of your data for training, then keep 30% back to use for testing against the algorithm that you train.
+- Compute the training error (how well the algorithm performs on the training data): this is called Jtrain
+- Compute the test error amount (how well it performs on the test data): this is called Jtest
+- If you have an overfit model, Jtrain will be low (i.e. the model will perform well against the data used to train itself, meaning that this cost function is low), but Jtest will be high, because the model isn’t good at predicting things not in its training set
+
+(The above steps are for regression. For classification algorithms, work out the % of items that have been misclassified in the training set as Jtrain and the % of items that have been misclassified in the test set as Jtest.)
+
+You can take this a step further, and add a cross-validation set (aka validation or development set). This helps you compare between different models, using the cross-validation set to do so, before subsequently using the test set to independently test its quality. The ideal is a model that performs well on the training and cross-validation sets. This implies that it’s able to learn patterns from the training set without overfitting. (The cost for the cross-validation set is JCV.)
+
+## Diagnosing bias and variance
+
+Your model generally won’t work well the first time. Looking at bias and variance can help you work out what improvements to make.
+
