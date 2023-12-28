@@ -251,7 +251,7 @@ Use an entropy function and maximise ‘information gain’.
 
 We use an entropy function that gives a value of 0 when we hit 0 or 100% cat % in a given grouping. It has a value of 1 (an ‘entropy of 1’) when the group is 50% cats 50% not cats. 
 
-![Graph showing entropy at 0 at 0% and 100% category purity, and rising to 1 at 50% purity](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/example%20cat%20decision%20trees.png?raw=true)
+![Graph showing entropy at 0 at 0% and 100% category purity, and rising to 1 at 50% purity](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/entropy.png?raw=true)
 
 When choosing which feature to split on, go for the one that reduces entropy the most.
 The reduction of entropy is also known as ‘information gain’.
