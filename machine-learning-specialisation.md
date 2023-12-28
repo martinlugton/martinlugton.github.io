@@ -187,3 +187,113 @@ With a high variance model - i.e. one that is overfit to the training set - you 
 
 If you have high variance (as shown by a big gap between JCV and Jtrain), increasing the size of the training set should help improve performance:
 
+![Graph of learning rate with high variance](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/high%20variance.png?raw=true)
+
+If you have high variance:
+- Get more training data
+- Try a smaller set of features
+- Increase the regularisation parameter lambda, so that your algorithm has less flexibility to fit very complex, wiggly curves
+
+If you have high bias:
+- Make your model more powerful, and more flexible to fit more complex data:
+- Add additional features
+- Try adding polynomial features
+- Decrease the regularisation parameter lambda, so that your algorithm has more freedom to fit more complex curves.
+
+## Bias and variance in neural networks
+
+Large neural networks are generally low bias, so the process for refining them looks a little different:
+
+![Flowchart showing how to improve a neural network - if it's not performing well on the training set, increase the size of the network; if it's not performing well on the cross-validation set, add more data](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/neural%20network%20improvement%20flowchart.png?raw=true)
+
+## Machine learning development is an iterative loop
+
+![Flowchart showing architecture choices, training, and diagnosis flowing into each other in sequence in an endless loop](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/iterative%20loop%20of%20machine%20learning%20development.png?raw=true)
+
+## Transfer learning
+
+Transfer learning is using data from one task to accomplish another, similar task.
+
+You can take an existing neural network and apply it to a new task (as long as the inputs are of the same type). e.g. a network trained on identifying different classes of objects in images could be reapplied to identify the digits 1 to 9 in images.
+
+Option 1: Copy over the entire neural network, keeping all the parameters and weights, and just retrain the output layer, as you want it to give a different output. This approach is best for small training sets, and is called 'supervised pretraining'. There are lots of pre-trained neural networks openly licensed and available online, so you can get started on this quickly.
+
+Option 2: Retrain all the parameters, initialised using the values of the parameters that you copied from the other context. This approach is best for anything other than small training sets, and is called ‘fine tuning'.
+
+## Fairness, bias and ethics
+Examples of bias (in the ordinary meaning of the term, rather than the more technical use elsewhere in this course):
+- Hiring tool discriminating against women
+- Facial recognition having an unfair propensity to match dark skinned people to criminal mugshots
+
+Examples of negative use cases:
+- Deepfakes
+- Spreading inflammatory speech by optimising for engagement
+- Generating fake content for commercial or political purposes
+- Using machine learning to build harmful products or commit fraud
+
+Some tips for thinking about fairness, bias and ethics:
+- Get a diverse team to brainstorm things that might go wrong, with an emphasis on vulnerable groups
+- Carry out literature review on guidelines or standards that might exist for your industry
+- Audit systems against possible harm prior to deployment
+- Set up a mitigation plan ahead of deployment, and then monitor for possible harm after deployment, implementing the mitigation plan as required.
+
+## Decision tree algorithms
+
+The job of a decision tree learning algorithm is to create a decision tree that works as well as possible for the training data given, but that also generalises to new input that it hasn’t seen yet.
+
+So it will generate a bunch of possible trees, like below, and then work out which is best:
+
+![Example decision trees for determining whether an animal is a cat](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/example%20cat%20decision%20trees.png?raw=true)
+
+## How to choose which feature to split on at each node, when making a decision tree? 
+
+Use an entropy function and maximise ‘information gain’.
+
+We use an entropy function that gives a value of 0 when we hit 0 or 100% cat % in a given grouping. It has a value of 1 (an ‘entropy of 1’) when the group is 50% cats 50% not cats. 
+
+![Graph showing entropy at 0 at 0% and 100% category purity, and rising to 1 at 50% purity](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/example%20cat%20decision%20trees.png?raw=true)
+
+When choosing which feature to split on, go for the one that reduces entropy the most.
+The reduction of entropy is also known as ‘information gain’.
+
+Keep splitting until the stopping criteria is met. This could be:
+- When a node is 100% one class: i.e. entropy has been reduced to 0
+- When splitting a node will result in the tree exceeding the maximum depth (to minimise complexity of the model and avoid overfitting).
+- Information gain from additional splits would be below a defined threshold
+- When the number of examples in a node is below a given threshold
+
+## Represent non-binary features with ‘one-hot encoding’
+
+You can handle features that could have more than two values using ‘one-hot encoding’ - e.g. instead of having a feature ‘ear shape’ that could have 3 possible values - floppy, pointy or oval, you create 3 features, one for’ floppy ears’, one for ‘pointy ears’, one for ‘round ears’. And you set those as 0 or 1 appropriately.
+
+More generically: “One hot encoding: If a categorical feature can take on k values, create k binary features (0 or 1 values)”. This also works for neural networks, and is a great way to encode categorical information so that it can go into a neural network.
+
+## Use tree ensembles to make decision trees more robust
+
+A weakness of decision trees is that they can be quite sensitive to changes in the data provided. One solution is to build multiple decision trees: a tree ensemble.
+
+Run each of them against a new test example, and then get them to vote on the final prediction.
+
+![An example of a tree ensemble, showing two Cat predictions and one Not Cat prediction, with a final prediction of Cat](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/tree%20ensemble%20example.png?raw=true)
+
+Use ‘sampling with replacement’ to get variants on your training set, to train different trees of your ensemble. You might build something like 64-128 different trees in your ensemble
+
+The XGBoost algorithm is the most common implementation of tree ensembles. It boosts the probability of picking examples that were mis-classified in previously-trained trees.
+
+## When to use decision trees and when to use neural networks
+
+Decision trees and tree ensembles:
+- Work well with tabular (structured) data. (i.e. the kind of thing you’d put in a spreadsheet)
+- Not recommended for unstructured data (images, audio, text)
+- Fast
+- Small decision trees may be human interpretable (but don’t overstate this, particularly if you’re using a forest!)
+
+Neural networks:
+- Work well on all types of data, including tabular (structured) and unstructured
+- May be slower than a decision tree
+- Works with transfer learning. This is very important.
+- When building a system with multiple models, it may be easier to string together several neural networks than several decision trees / ensembles.
+
+
+
+
