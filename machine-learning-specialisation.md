@@ -294,6 +294,85 @@ Neural networks:
 - Works with transfer learning. This is very important.
 - When building a system with multiple models, it may be easier to string together several neural networks than several decision trees / ensembles.
 
+# Unsupervised Learning
+
+In contrast to supervised learning, in which the algorithm is provided with labelled input and output data to train itself, unsupervised learning is just provided with input data. The algorithm’s job is to find structure and pattern in unlabelled data. For example:
+
+- Clustering - finding data points that are similar to each other. (E.g. Grouping similar news articles, Market segmentation and DNA analysis)
+- Anomaly detection - working out if a new example is similar or different to your training set. 
+
+## Choosing between supervised and unsupervised approaches to spotting anomalies
+
+Choosing between supervised and unsupervised approaches to spotting anomalies can be subtle. 
+
+Generally, anomaly detection is best if you only have a very small number of positive examples (e.g. 0-20). 
+
+Anomaly detection is better than supervised learning if you think that you might encounter deviations from what you’ve seen in the training set. If you want to be able to identify types of fraud or engine failure that haven’t happened yet, use anomaly detection. 
+
+A supervised learning approach learns in a positive way what an anomaly is, and tries to spot it - anomaly detection learns what normal looks like, and flags things that differ from normal.
+
+| Anomaly detection | Supervised learning |
+| ----------- | ----------- |
+| Fraud detection | Email spam classification |
+| Manufacturing - finding new, previously unseen defects | Manufacturing - finding known, previously-seen defects |
+| Monitoring machines in a data centre | Disease classification |
+
+# Reinforcement learning
+
+Reinforcement learning trains an algorithm by giving it rewards to tell it when it’s performing well.
+
+The reward function tells the algorithm when it’s doing well and when it’s doing poorly.
+So reinforcement learning focuses on describing the outcome that you want, rather than describing the behaviour to get there. So it gives much more freedom for that to emerge organically.
+
+Example applications:
+- Controlling robots
+- Factory optimisation
+- Financial (stock) trading
+- Playing games and computer games
+
+Reinforcement learning isn’t used as much commercially yet, but is a bit of a frontier of research:
+- Much of it has been done in simulations, which are easier than the real world
+- There are far fewer applications of reinforcement learning than supervised or unsupervised learning
 
 
+At each step, the agent is in a state, and chooses an action, in the pursuit of maximising a reward function. And as a result of these actions it will get to a new state.
 
+## Choosing between rewards
+
+The agent needs to be able to work out tradeoffs between lower rewards that are quicker to obtain, and greater rewards that take longer to obtain. To allow it to do this, we specify a ‘discount factor’, by which we exponentially multiply rewards that happen later in time. 
+
+You can change the discount factor depending on how much you want to encourage aggressive pursuit of immediate rewards over long-term rewards:
+- A discount factor of 0.99 encourages the algorithm to optimise for long-term rewards.
+- A discount factor of 0.5 means that the reward is getting much smaller very quickly into the future, so it will likely try and optimise for immediate gains.
+
+## Markov Decision Process
+
+The ‘return’ is the sum of the rewards that the agent gets, each of them weighted by the discount factor raised to the appropriate power based on the delay.
+
+The goal of reinforcement learning is to work out what actions, given an input state, maximise the return.
+
+This paradigm is called the Markov Decision Process. One key aspect is that the current state and future states are all that matters - it doesn’t hold context or baggage from the past.
+The future depends only on where you are now, not on how you got here.
+
+![Markov Decision Process diagram, showing the agent taking actions, impacting on the environment, leading to a state and reward, going back to the agent to make a decision](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/markov%20decision%20process.png?raw=true)
+
+## Reinforcement learning and uncertainty
+
+In some situations, the outcome of an action is not completely reliable.
+
+In a stochastic (random) problem, there isn’t one sequence of rewards that we can perceive with confidence. So our focus can’t be on optimising the Return, as that’s a random number, but instead in maximising the _average_ value of the sum of the discounted rewards.
+This is called the ‘expected return’, and it’s the average reward that the agent obtained after running the full sequence through many times.
+
+## Specifying rewards (positive and negative) is central to reinforcement learning
+
+Specifying rewards incentivizes the behaviours you want to see (and not see) your agent perform.
+
+For example, a lunar lander might have the following rewards specified:
+- Getting to the landing pad: 100
+- Crash: -150
+- Soft landing: 100
+- Leg grounded: 10
+- Fire main engine -0.3
+- Fire side thruster: -0.03
+
+The negative reward for crashing is a clear disincentive, as we definitely want to avoid that result. The small negative rewards for using the thrusters are to encourage economical use of fuel.
