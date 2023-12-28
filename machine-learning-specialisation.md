@@ -152,3 +152,38 @@ You can take this a step further, and add a cross-validation set (aka validation
 
 Your model generally won’t work well the first time. Looking at bias and variance can help you work out what improvements to make.
 
+![A diagram showing underfit and overfit, similar to the earlier regression diagram](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/bias%20and%20variance.png?raw=true)
+
+You want a model with low Jtrain and low JCV - this shows that it isn’t overfit, and that it isn’t underfit (biased).
+
+![A diagram showing Jtrain and Jtest varying with the degree of polynomial](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/JCV%20and%20Jtrain%20with%20degree%20of%20polynomial.png?raw=true)
+
+![A diagram showing how to use JCV and Jtrain to assess a model](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/analysing%20JCV%20and%20Jtest.png?raw=true)
+
+(“>>” in the above means “much greater than”. I.e. JCV being much greater than Jtrain is a sign of overfit.)
+
+## How to establish a baseline level of performance
+
+It’s useful to establish a baseline level of performance, against which to compare JCV and Jtrain. You could use:
+
+- Human level performance
+- Performance of similar, competing algorithms
+- A guess, based on your prior experience
+
+If you have a big difference between your baseline and the training error, you have a bias problem.
+If you have a big difference between your training error and JCV, you have a variance problem.
+
+## Working out whether it’s useful to add more training data
+
+Graph the learning rate to see how far it is useful to add training data. To do this, plot the size of the training set as the x axis, and the error as the y axis.
+
+If a model has high bias, adding more training data will not, by itself, help much. Resolve the bias problem before adding any more training data.
+
+High bias:
+
+![Graph of learning rate with high bias](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/high%20bias.png?raw=true)
+
+With a high variance model - i.e. one that is overfit to the training set - you may find that your Jtrain is better (i.e. that this error rate is lower) than human performance. But that’s illusory, as it’s overfit - you will see that JCV has a higher error rate.
+
+If you have high variance (as shown by a big gap between JCV and Jtrain), increasing the size of the training set should help improve performance:
+
