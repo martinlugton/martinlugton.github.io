@@ -51,7 +51,6 @@ Types of assumptions:
  * Feasibility: can we build it? E.g. is it technically viable?
  * Usability: are people able to use it? 
  * Ethical: is there potential harm in building this?
-
 How to identify assumptions:
  * Story map your idea. Show explicitly the steps that the user (and anyone else involved) must go through to get value. Review each step for the 5 assumption types.
  * Pre-mortems. “Imagine it’s six months in the future: the product launched and it was a complete failure. What went wrong?”. It’s crucial to frame this as certain failure - i.e. it did fail - otherwise we don’t generate good ideas.
