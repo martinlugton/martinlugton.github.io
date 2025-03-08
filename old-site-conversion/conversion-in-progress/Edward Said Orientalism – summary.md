@@ -1,4 +1,3 @@
-
 ---
 title: "Edward Said: Orientalism – summary"
 permalink: /edward-said-orientalism-summary
