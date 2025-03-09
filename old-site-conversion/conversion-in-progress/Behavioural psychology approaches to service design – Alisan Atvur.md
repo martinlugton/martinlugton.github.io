@@ -2,6 +2,8 @@
 title: "Behavioural psychology approaches to service design – Alisan Atvur"
 permalink: /behavioural-psychology-approaches-service-design-alisan-atvur
 date: 2016-05-12T14:23:00+00:00
+redirect_from:
+  - /behavioural-psychology-approaches-service-design-alisan-atvur/
 ---
 
 # Behavioural psychology approaches to service design – Alisan Atvur
