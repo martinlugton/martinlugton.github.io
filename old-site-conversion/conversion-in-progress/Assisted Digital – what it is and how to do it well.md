@@ -2,6 +2,8 @@
 title: "Assisted Digital – what it is and how to do it well"
 permalink: /assisted-digital-what-it-is-and-how-to-do-it-well
 date: 2017-03-15T09:45:00+00:00
+redirect_from:
+  - /assisted-digital-what-it-is-and-how-to-do-it-well/
 ---
 
 # Assisted Digital – what it is and how to do it well

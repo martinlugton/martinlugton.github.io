@@ -2,6 +2,8 @@
 title: "Achieving Extraordinary Results with Ordinary People – Marty Cagan"
 permalink: /achieving-extraordinary-results-with-ordinary-people-marty-cagan
 date: 2018-10-21T20:56:40+00:00
+redirect_from:
+  - /achieving-extraordinary-results-with-ordinary-people-marty-cagan/
 ---
 
 # Achieving Extraordinary Results with Ordinary People – Marty Cagan

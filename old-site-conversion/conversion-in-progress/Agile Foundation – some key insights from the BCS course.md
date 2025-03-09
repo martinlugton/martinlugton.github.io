@@ -2,6 +2,8 @@
 title: "Agile Foundation – some key insights from the BCS course"
 permalink: /agile-foundation-key-insights-bcs-course
 date: 2016-07-24T20:10:53+00:00
+redirect_from:
+  - /agile-foundation-key-insights-bcs-course/
 ---
 
 # Agile Foundation – some key insights from the BCS course

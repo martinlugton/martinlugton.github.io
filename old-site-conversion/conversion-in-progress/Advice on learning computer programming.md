@@ -2,6 +2,8 @@
 title: "Advice on learning computer programming"
 permalink: /advice-on-learning-computer-programming
 date: 2013-01-15T14:22:53+00:00
+redirect_from:
+  - /advice-on-learning-computer-programming/
 ---
 
 # Advice on learning computer programming

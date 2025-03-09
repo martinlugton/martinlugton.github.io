@@ -2,6 +2,8 @@
 title: "2014: The Year People Continued Caring about MOOCs"
 date: 2014-12-31T10:00:00+00:00
 permalink: /2014-the-year-people-continued-caring-about-moocs
+redirect_from:
+  - /2014-the-year-people-continued-caring-about-moocs/
 ---
 
 # 2014: The Year People Continued Caring about MOOCs

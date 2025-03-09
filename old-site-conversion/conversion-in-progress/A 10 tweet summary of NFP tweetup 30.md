@@ -2,6 +2,8 @@
 title: "A 10 tweet summary of NFP tweetup 30"
 permalink: /10-tweet-summary-nfp-tweetup-30
 date: 2016-06-10T20:10:53+00:00
+redirect_from:
+  - /10-tweet-summary-nfp-tweetup-30
 ---
 
 # A 10 tweet summary of NFP tweetup 30

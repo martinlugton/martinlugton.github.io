@@ -2,6 +2,8 @@
 title: "Agile innovation in income generation for charities"
 permalink: /agile-innovation-in-income-generation-for-charities
 date: 2013-07-14T10:09:03+00:00
+redirect_from:
+  - /agile-innovation-in-income-generation-for-charities/
 ---
 
 # Agile innovation in income generation for charities

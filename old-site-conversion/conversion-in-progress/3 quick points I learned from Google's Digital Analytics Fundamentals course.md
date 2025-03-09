@@ -2,6 +2,8 @@
 title: "3 quick points I learned from Google's Digital Analytics Fundamentals course"
 permalink: /3-quick-points-i-learned-from-googles-analytics-fundamentals
 date: 2014-02-08T11:00:47+00:00
+redirect_from:
+  - /3-quick-points-i-learned-from-googles-analytics-fundamentals/
 ---
 
 # 3 quick points I learned from Google's Digital Analytics Fundamentals course

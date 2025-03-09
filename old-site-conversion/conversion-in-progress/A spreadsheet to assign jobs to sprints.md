@@ -2,6 +2,8 @@
 title: "A spreadsheet to assign jobs to sprints"
 permalink: /spreadsheet-assign-jobs-sprints
 date: 2016-10-15T14:22:53+00:00
+redirect_from:
+  - /spreadsheet-assign-jobs-sprints/
 ---
 
 # A spreadsheet to assign jobs to sprints

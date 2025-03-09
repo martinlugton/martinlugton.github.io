@@ -2,6 +2,8 @@
 title: "Agile Planning – How to plan quickly and collaboratively"
 permalink: /agile-planning-plan-quickly-collaboratively
 date: 2016-08-02T18:30:00+00:00
+redirect_from:
+  - /agile-planning-plan-quickly-collaboratively/
 ---
 
 # Agile Planning – How to plan quickly and collaboratively

@@ -2,6 +2,8 @@
 title: "10 tweet summary of NFP Tweetup 32 – Getting off to a good start"
 date: 2017-01-25T10:00:00+00:00
 permalink: /10-tweet-summary-nfp-tweetup-32-getting-off-to-a-good-start
+redirect_from:
+  - /10-tweet-summary-nfp-tweetup-32-getting-off-to-a-good-start/
 ---
 
 # 10 tweet summary of NFP Tweetup 32 – Getting off to a good start
