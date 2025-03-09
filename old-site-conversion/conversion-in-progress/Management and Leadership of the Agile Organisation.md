@@ -2,6 +2,8 @@
 title: "Management and Leadership of the Agile Organisation – Martin Lugton"
 permalink: /management-leadership-agile-organisation
 date: 2017-03-09T20:00:00+00:00
+redirect_from:
+  - /management-leadership-agile-organisation/
 ---
 
 # Management and Leadership of the Agile Organisation

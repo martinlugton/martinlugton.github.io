@@ -2,6 +2,8 @@
 title: "Play with your music – Module 4: Creative Audio Effects and Automation"
 permalink: /play-with-your-music-module-4-creative-audio-effects-and-automation
 date: 2014-03-09T17:45:00+00:00
+redirect_from:
+  - /play-with-your-music-module-4-creative-audio-effects-and-automation/
 ---
 
 # Play with your music – Module 4: Creative Audio Effects and Automation

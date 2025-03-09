@@ -2,6 +2,8 @@
 title: "Why page load speed is important – the impact of site speed on conversions and revenue"
 permalink: /page-load-speed-important-impact-site-speed-conversions-revenue
 date: 2015-06-28T16:58:31+00:00
+redirect_from:
+  - /page-load-speed-important-impact-site-speed-conversions-revenue/
 ---
 
 # Why page load speed is important – the impact of site speed on conversions and revenue

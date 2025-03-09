@@ -2,6 +2,8 @@
 title: "Interoperability, Open Standards and APIs – Martin Lugton"
 permalink: /interoperability-open-standards-and-apis
 date: 2020-02-15T11:14:47+00:00
+redirect_from:
+  - /interoperability-open-standards-and-apis/
 ---
 
 # Interoperability, Open Standards and APIs

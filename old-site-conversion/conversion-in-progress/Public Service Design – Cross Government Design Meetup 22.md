@@ -2,6 +2,8 @@
 title: "Public Service Design – Cross Government Design Meetup 22 – Martin Lugton"
 permalink: /public-service-design-cross-government-design-meetup-22
 date: 2017-09-18T16:30:00+00:00
+redirect_from:
+  - /public-service-design-cross-government-design-meetup-22/
 ---
 
 # Public Service Design – Cross Government Design Meetup 22

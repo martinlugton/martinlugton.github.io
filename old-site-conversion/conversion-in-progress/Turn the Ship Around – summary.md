@@ -2,6 +2,8 @@
 title: "Turn the Ship Around – summary – Martin Lugton"
 permalink: /turn-the-ship-around-summary
 date: 2021-12-06T15:47:10+00:00
+redirect_from:
+  - /turn-the-ship-around-summary/
 ---
 
 # Turn the Ship Around – summary

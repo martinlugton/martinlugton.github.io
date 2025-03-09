@@ -2,6 +2,8 @@
 title: "Open standards- a cross government technical architecture workshop – Martin Lugton"
 permalink: /open-standards-a-cross-government-technical-architecture-workshop
 date: 2019-07-29T10:00:00+00:00
+redirect_from:
+  - /open-standards-a-cross-government-technical-architecture-workshop/
 ---
 
 # Open standards- a cross government technical architecture workshop

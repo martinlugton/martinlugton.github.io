@@ -2,6 +2,8 @@
 title: "Google announces 2 changes to Google Grants for 28 January 2013"
 permalink: /google-announces-2-changes-google-grants-28-january-2013
 date: 2013-01-25T09:15:00+00:00
+redirect_from:
+  - /google-announces-2-changes-google-grants-28-january-2013/
 ---
 
 # Google announces 2 changes to Google Grants for 28 January 2013

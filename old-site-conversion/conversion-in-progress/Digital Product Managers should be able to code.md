@@ -2,6 +2,8 @@
 title: "Digital Product Managers should be able to code"
 permalink: /digital-product-managers-should-be-able-to-code
 date: 2016-07-08T16:45:00+00:00
+redirect_from:
+  - /digital-product-managers-should-be-able-to-code/
 ---
 
 # Digital Product Managers should be able to code

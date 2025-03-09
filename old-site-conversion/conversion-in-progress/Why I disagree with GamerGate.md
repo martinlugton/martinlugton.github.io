@@ -2,6 +2,8 @@
 title: "Why I disagree with GamerGate"
 permalink: /why-i-disagree-with-gamergate
 date: 2014-11-01T00:05:19+00:00
+redirect_from:
+  - /why-i-disagree-with-gamergate/
 ---
 
 I oppose GamerGate, and I’d like to explain why. Please be aware that much of what follows is unpleasant and NSFW.

@@ -2,6 +2,8 @@
 title: "How to create better confirm and reject popups"
 date: 2013-02-15T14:22:00+00:00
 permalink: /how-to-create-better-confirm-and-reject-popups
+redirect_from:
+  - /how-to-create-better-confirm-and-reject-popups/
 ---
 
 # How to create better confirm and reject popups

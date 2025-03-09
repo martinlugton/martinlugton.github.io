@@ -2,6 +2,8 @@
 title: "The value of opening up government data"
 permalink: /the-value-of-opening-up-government-data
 date: 2019-02-02T21:01:36+00:00
+redirect_from:
+  - /the-value-of-opening-up-government-data/
 ---
 
 # The value of opening up government data

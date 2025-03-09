@@ -2,6 +2,8 @@
 title: "Social sharing – observations and recommendations"
 permalink: /social-sharing-design-recommendations
 date: 2015-08-12T12:36:40+00:00
+redirect_from:
+  - /social-sharing-design-recommendations/
 ---
 
 # Social sharing – observations and recommendations

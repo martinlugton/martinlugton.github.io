@@ -2,6 +2,8 @@
 title: "This is how I work"
 permalink: /this-is-how-i-work
 date: 2018-11-30T22:03:48+00:00
+redirect_from:
+  - /this-is-how-i-work/
 ---
 
 **Location**: London

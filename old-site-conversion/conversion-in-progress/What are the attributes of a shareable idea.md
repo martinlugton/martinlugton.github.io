@@ -2,6 +2,8 @@
 title: "What are the attributes of a shareable idea?"
 permalink: /attributes-shareable-idea
 date: 2014-02-02T13:27:45+00:00
+redirect_from:
+  - /attributes-shareable-idea/
 ---
 
 # What are the attributes of a shareable idea?

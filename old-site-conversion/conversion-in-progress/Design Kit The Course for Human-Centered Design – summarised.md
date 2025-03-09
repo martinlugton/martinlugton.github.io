@@ -2,6 +2,8 @@
 title: "​​Design Kit: The Course for Human-Centered Design – summarised"
 date: 2015-06-01T10:00:00+00:00
 permalink: /design-kit-course-human-centered-design-summarised
+redirect_from:
+  - /design-kit-course-human-centered-design-summarised/
 ---
 
 # ​​Design Kit: The Course for Human-Centered Design – summarised

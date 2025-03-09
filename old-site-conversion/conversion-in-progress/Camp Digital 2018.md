@@ -2,6 +2,8 @@
 title: "Camp Digital 2018"
 permalink: /camp-digital-2018
 date: 2018-05-06T22:01:38+00:00
+redirect_from:
+  - /camp-digital-2018/
 ---
 
 *A summary of the talks I attended at Camp Digital 2018 at the Royal Exchange Theatre, Manchester.*

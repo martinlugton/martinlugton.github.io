@@ -2,6 +2,8 @@
 title: "Doing the hard work to make it simple – Tom Loosemore"
 permalink: /hard-work-make-simple-tom-loosemore
 date: 2016-05-20T11:30:00+00:00
+redirect_from:
+  - /hard-work-make-simple-tom-loosemore/
 ---
 
 # Doing the hard work to make it simple – Tom Loosemore

@@ -2,6 +2,8 @@
 title: "Towards digital service provision by charities"
 permalink: /towards-digital-service-provision-by-charities
 date: 2013-01-07T21:55:14+00:00
+redirect_from:
+  - /towards-digital-service-provision-by-charities/
 ---
 
 # Towards digital service provision by charities

@@ -2,6 +2,8 @@
 title: "Fred Kofman – Conscious Business"
 permalink: /fred-kofman-conscious-business
 date: 2022-04-04T11:30:00+00:00
+redirect_from:
+  - /fred-kofman-conscious-business/
 ---
 
 # Fred Kofman – Conscious Business

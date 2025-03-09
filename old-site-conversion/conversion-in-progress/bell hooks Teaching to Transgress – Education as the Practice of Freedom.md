@@ -2,6 +2,8 @@
 title: "bell hooks: Teaching to Transgress – Education as the Practice of Freedom"
 permalink: /bell-hooks-teaching-transgress-education-practice-freedom
 date: 2017-08-22T20:52:31+00:00
+redirect_from:
+  - /bell-hooks-teaching-transgress-education-practice-freedom/
 ---
 
 *Some key quotations from bell hooks' 'Teaching to Transgress'. 1994 / Routledge.*

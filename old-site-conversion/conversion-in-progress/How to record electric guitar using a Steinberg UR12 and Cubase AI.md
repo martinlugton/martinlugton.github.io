@@ -2,6 +2,8 @@
 title: "How to record electric guitar using a Steinberg UR12 and Cubase AI"
 permalink: /how-to-record-electric-guitar-using-steinberg-ur12-cubase-ai
 date: 2017-12-29T20:48:16+00:00
+redirect_from:
+  - /how-to-record-electric-guitar-using-steinberg-ur12-cubase-ai/
 ---
 
 # How to record electric guitar using a Steinberg UR12 and Cubase AI

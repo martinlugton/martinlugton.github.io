@@ -2,6 +2,8 @@
 title: "How might we broaden political discourse and understanding in people age 25-35 in the UK? – Design project from the Design Kit course"
 date: 2013-03-01T15:30:00+00:00
 permalink: /how-might-we-broaden-political-discourse-understanding-people-age-25-35-uk-design-project-design-kit-course
+redirect_from:
+  - /how-might-we-broaden-political-discourse-understanding-people-age-25-35-uk-design-project-design-kit-course/
 ---
 
 # How might we broaden political discourse and understanding in people age 25-35 in the UK? – Design project from the Design Kit course

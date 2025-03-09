@@ -2,6 +2,8 @@
 title: "How to add MIDI drums to a Cubase track"
 date: 2013-04-12T09:15:00+00:00
 permalink: /how-to-add-midi-drums-to-a-cubase-track
+redirect_from:
+  - /how-to-add-midi-drums-to-a-cubase-track/
 ---
 
 # How to add MIDI drums to a Cubase track

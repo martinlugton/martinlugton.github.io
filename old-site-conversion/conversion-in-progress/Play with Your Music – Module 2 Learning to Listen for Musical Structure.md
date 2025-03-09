@@ -2,6 +2,8 @@
 title: "Play with Your Music – Module 2: Learning to Listen for Musical Structure"
 permalink: /play-with-your-music-module-2-learning-to-listen-for-musical-structure
 date: 2014-02-22T15:45:00+00:00
+redirect_from:
+  - /play-with-your-music-module-2-learning-to-listen-for-musical-structure/
 ---
 
 # Play with Your Music – Module 2: Learning to Listen for Musical Structure

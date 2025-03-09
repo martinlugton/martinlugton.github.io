@@ -2,6 +2,8 @@
 title: "Paul Boag: Digital Adaptation – summary"
 permalink: /paul-boag-digital-adaptation-summary
 date: 2016-12-14T21:41:45+00:00
+redirect_from:
+  - /paul-boag-digital-adaptation-summary/
 ---
 
 # Paul Boag: Digital Adaptation – summary

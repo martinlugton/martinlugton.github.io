@@ -2,6 +2,8 @@
 title: "How charities could use digital to change the world"
 permalink: /how-charities-could-use-digital-to-change-the-world
 date: 2013-10-05T11:15:00+00:00
+redirect_from:
+  - /how-charities-could-use-digital-to-change-the-world/
 ---
 
 # How charities could use digital to change the world

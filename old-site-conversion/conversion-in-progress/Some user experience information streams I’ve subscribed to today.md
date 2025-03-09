@@ -2,6 +2,8 @@
 title: "Some user experience information streams I’ve subscribed to today"
 permalink: /some-user-experience-information-streams-ive-subscribed-to-today
 date: 2013-11-30T15:42:32+00:00
+redirect_from:
+  - /some-user-experience-information-streams-ive-subscribed-to-today/
 ---
 
 # Some user experience information streams I’ve subscribed to today

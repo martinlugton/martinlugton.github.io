@@ -2,6 +2,8 @@
 title: "Learning from corporates? – a 10 tweet summary of NFP tweetup 28 – Martin Lugton"
 permalink: /learning-from-corporates-10-tweet-summary-nfp-tweetup-28
 date: 2015-09-17T19:00:00+00:00
+redirect_from:
+  - /learning-from-corporates-10-tweet-summary-nfp-tweetup-28/
 ---
 
 # Learning from corporates? – a 10 tweet summary of NFP tweetup 28

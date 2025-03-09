@@ -2,6 +2,8 @@
 title: "Personalisation – a summary of Together We’re Better, September 2015"
 permalink: /personalisation-summary-together-better-september-2015
 date: 2015-09-30T21:27:08+00:00
+redirect_from:
+  - /personalisation-summary-together-better-september-2015/
 ---
 
 A summary of key points from an event hosted by [Together We’re Better](http://www.togetherwerebetter.org.uk/).

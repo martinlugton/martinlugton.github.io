@@ -2,6 +2,8 @@
 title: "Paulo Freire: Pedagogy of the Oppressed – revolutionary structures and methods"
 permalink: /paulo-freire-pedagogy-oppressed-revolutionary-structures-methods
 date: 2015-02-28T09:23:52+00:00
+redirect_from:
+  - /paulo-freire-pedagogy-oppressed-revolutionary-structures-methods/
 ---
 
 *This is a set of quotes summarising Paulo Freire’s thoughts on 

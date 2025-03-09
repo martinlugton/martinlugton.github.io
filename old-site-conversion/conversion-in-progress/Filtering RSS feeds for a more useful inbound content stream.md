@@ -2,6 +2,8 @@
 title: "Filtering RSS feeds for a more useful inbound content stream"
 permalink: /filtering-rss-feeds-more-useful-inbound-content-stream
 date: 2013-06-15T09:45:00+00:00
+redirect_from:
+  - /filtering-rss-feeds-more-useful-inbound-content-stream/
 ---
 
 # Filtering RSS feeds for a more useful inbound content stream

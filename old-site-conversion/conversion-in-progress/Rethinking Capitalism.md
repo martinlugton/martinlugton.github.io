@@ -2,6 +2,8 @@
 title: "Rethinking Capitalism"
 permalink: /rethinking-capitalism
 date: 2019-06-15T14:35:00+00:00
+redirect_from:
+  - /rethinking-capitalism/
 ---
 
 # Rethinking Capitalism

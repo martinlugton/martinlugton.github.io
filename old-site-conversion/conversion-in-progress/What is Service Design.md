@@ -2,6 +2,8 @@
 title: "What is Service Design?"
 permalink: /what-is-service-design
 date: 2018-01-20T20:50:08+00:00
+redirect_from:
+  - /what-is-service-design/
 ---
 
 # What is Service Design?

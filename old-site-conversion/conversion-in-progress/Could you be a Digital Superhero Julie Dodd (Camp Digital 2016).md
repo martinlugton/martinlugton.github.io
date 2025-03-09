@@ -2,6 +2,8 @@
 title: "Could you be a Digital Superhero? Julie Dodd (Camp Digital 2016)"
 permalink: /digital-superhero-julie-dodd-camp-digital-2016
 date: 2016-10-23T11:05:50+00:00
+redirect_from:
+  - /digital-superhero-julie-dodd-camp-digital-2016/
 ---
 
 *Here's a summary of Julie Dodd's talk at this year's [Camp Digital conference](http://campdigital.wearesigma.com/).*

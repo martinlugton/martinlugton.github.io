@@ -2,6 +2,8 @@
 title: "How to design usable multi-page articles"
 permalink: /how-to-design-usable-multi-page-articles
 date: 2014-03-05T16:23:56+00:00
+redirect_from:
+  - /how-to-design-usable-multi-page-articles/
 ---
 
 # How to design usable multi-page articles

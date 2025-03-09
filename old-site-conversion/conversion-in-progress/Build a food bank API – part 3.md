@@ -2,6 +2,8 @@
 title: "Build a food bank API – part 3"
 permalink: /build-a-food-bank-api-part-3
 date: 2020-01-15T10:30:00+00:00
+redirect_from:
+  - /build-a-food-bank-api-part-3/
 ---
 
 # Build a food bank API – part 3

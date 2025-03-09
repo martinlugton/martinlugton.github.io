@@ -2,6 +2,8 @@
 title: "Using wordpress for open courses – #ocTEL chat summarised"
 permalink: /using-wordpress-open-courses-octel-chat-summarised
 date: 2014-05-05T17:23:54+00:00
+redirect_from:
+  - /using-wordpress-open-courses-octel-chat-summarised/
 ---
 
 # Using wordpress for open courses – #ocTEL chat summarised

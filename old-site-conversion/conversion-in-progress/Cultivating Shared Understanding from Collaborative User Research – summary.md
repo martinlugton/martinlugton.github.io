@@ -2,6 +2,8 @@
 title: "Cultivating Shared Understanding from Collaborative User Research – summary"
 permalink: /cultivating-shared-understanding-collaborative-user-research-summary
 date: 2017-04-17T15:33:49+00:00
+redirect_from:
+  - /cultivating-shared-understanding-collaborative-user-research-summary/
 ---
 
 # Cultivating Shared Understanding from Collaborative User Research – summary

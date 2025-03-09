@@ -2,6 +2,8 @@
 title: "The DSDM Agile Project Framework for Scrum – Martin Lugton"
 permalink: /dsdm-agile-project-framework-scrum
 date: 2016-02-11T11:32:09+00:00
+redirect_from:
+  - /dsdm-agile-project-framework-scrum/
 ---
 
 # The DSDM Agile Project Framework for Scrum

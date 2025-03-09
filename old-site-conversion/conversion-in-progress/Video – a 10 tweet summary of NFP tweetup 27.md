@@ -2,6 +2,8 @@
 title: "Video – a 10 tweet summary of NFP tweetup 27"
 permalink: /video-10-tweet-summary-nfp-tweetup-27
 date: 2015-05-22T10:20:53+00:00
+redirect_from:
+  - /video-10-tweet-summary-nfp-tweetup-27/
 ---
 
 # Video – a 10 tweet summary of NFP tweetup 27

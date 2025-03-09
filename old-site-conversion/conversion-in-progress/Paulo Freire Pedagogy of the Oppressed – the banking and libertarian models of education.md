@@ -2,6 +2,8 @@
 title: "Paulo Freire: Pedagogy of the Oppressed – the banking and libertarian models of education"
 permalink: /paulo-freire-pedagogy-oppressed-banking-and-libertarian-models-of-education
 date: 2015-01-20T21:21:24+00:00
+redirect_from:
+  - /paulo-freire-pedagogy-oppressed-banking-and-libertarian-models-of-education/
 ---
 
 # Paulo Freire: Pedagogy of the Oppressed – the banking and libertarian models of education

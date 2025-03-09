@@ -2,6 +2,8 @@
 title: "What is Scrum@Scale?"
 permalink: /what-is-scrum-at-scale
 date: 2018-08-09T21:54:14+00:00
+redirect_from:
+  - /what-is-scrum-at-scale/
 ---
 
 # What is Scrum@Scale?

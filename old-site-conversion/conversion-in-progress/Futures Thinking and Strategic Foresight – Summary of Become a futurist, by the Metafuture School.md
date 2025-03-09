@@ -2,6 +2,8 @@
 title: "Futures Thinking and Strategic Foresight – Summary of Become a futurist, by the Metafuture School"
 permalink: /futures-thinking-strategic-foresight-summary-become-futurist-metafuture-school
 date: 2015-09-10T14:20:00+00:00
+redirect_from:
+  - /futures-thinking-strategic-foresight-summary-become-futurist-metafuture-school/
 ---
 
 # Futures Thinking and Strategic Foresight – Summary of Become a futurist, by the Metafuture School

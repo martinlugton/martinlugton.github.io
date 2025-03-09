@@ -2,6 +2,8 @@
 title: "Rose: What Makes People Tick – the three hidden worlds of Settlers, Prospectors and Pioneers"
 permalink: /rose-what-makes-people-tick-the-three-hidden-worlds-of-settlers-prospectors-and-pioneers
 date: 2015-09-18T13:06:21+00:00
+redirect_from:
+  - /rose-what-makes-people-tick-the-three-hidden-worlds-of-settlers-prospectors-and-pioneers/
 ---
 
 # Rose: What Makes People Tick – the three hidden worlds of Settlers, Prospectors and Pioneers

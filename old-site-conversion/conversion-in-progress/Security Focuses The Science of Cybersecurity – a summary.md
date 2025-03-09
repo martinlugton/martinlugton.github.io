@@ -2,6 +2,8 @@
 title: "Security Focuses: The Science of Cybersecurity – a summary"
 date: 2015-01-01T10:00:00+00:00
 permalink: /security-focuses-science-cybersecurity-summary
+redirect_from:
+  - /security-focuses-science-cybersecurity-summary/
 ---
 
 *Today I attended [Security Focuses: The Science of Cybersecurity](https://www.secdata.com/events/security-focuses-2015/). Here’s my inexpert summary of the event.*

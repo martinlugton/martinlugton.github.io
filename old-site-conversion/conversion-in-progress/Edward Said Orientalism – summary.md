@@ -2,6 +2,8 @@
 title: "Edward Said: Orientalism – summary"
 permalink: /edward-said-orientalism-summary
 date: 2014-08-31T23:59:31+00:00
+redirect_from:
+  - /edward-said-orientalism-summary/
 ---
 
 *Ideas created and presented in an academic context are often brilliant but hard to unwrap and digest. I've attempted to pull out some quotations from Edward Said's Orientalism that I hope will help summarise some of its key points. (Page references in square brackets are from Edward W. Said, Orientalism, Penguin Classics, 2003)*

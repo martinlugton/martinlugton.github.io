@@ -2,6 +2,8 @@
 title: "Digital communicators need to keep learning"
 permalink: /digital-communicators-need-keep-learning
 date: 2013-08-20T13:15:00+00:00
+redirect_from:
+  - /digital-communicators-need-keep-learning/
 ---
 
 # Digital communicators need to keep learning

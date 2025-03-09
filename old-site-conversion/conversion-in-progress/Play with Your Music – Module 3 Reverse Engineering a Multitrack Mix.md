@@ -2,6 +2,8 @@
 title: "Play with Your Music – Module 3: Reverse Engineering a Multitrack Mix"
 permalink: /play-with-your-music-module-3-reverse-engineering-a-multitrack-mix
 date: 2014-03-02T16:30:00+00:00
+redirect_from:
+  - /play-with-your-music-module-3-reverse-engineering-a-multitrack-mix/
 ---
 
 # Play with Your Music – Module 3: Reverse Engineering a Multitrack Mix

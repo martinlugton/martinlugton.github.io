@@ -2,6 +2,8 @@
 title: "Let Them Drown – a 10 tweet summary of the 2016 Edward Said London Lecture, delivered by Naomi Klein"
 permalink: /let-them-drown-10-tweet-summary-2016-edward-said-london-lecture-delivered-naomi-klein
 date: 2016-05-09T07:04:15+00:00
+redirect_from:
+  - /let-them-drown-10-tweet-summary-2016-edward-said-london-lecture-delivered-naomi-klein/
 ---
 
 *The [2016 Edward W. Said London Lecture](http://mosaicrooms.org/event/the-2016-edward-w-said-london-lecture/) was delivered by Naomi Klein at the Royal Festival Hall; entitled “Let Them Drown: The Violence of Othering in a Warming World”. Here’s a short summary of this excellent lecture:*

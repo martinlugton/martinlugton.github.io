@@ -2,6 +2,8 @@
 title: "Sources of insight and inspiration used by GOV.UK Product Managers"
 permalink: /sources-insight-inspiration-used-gov-uk-product-managers
 date: 2018-02-18T15:01:26+00:00
+redirect_from:
+  - /sources-insight-inspiration-used-gov-uk-product-managers/
 ---
 
 # Sources of insight and inspiration used by GOV.UK Product Managers

@@ -2,6 +2,8 @@
 title: "Don’t worry about starting with a blank canvas"
 permalink: /dont-worry-starting-blank-canvas
 date: 2013-09-12T09:15:00+00:00
+redirect_from:
+  - /dont-worry-starting-blank-canvas/
 ---
 
 # Don’t worry about starting with a blank canvas

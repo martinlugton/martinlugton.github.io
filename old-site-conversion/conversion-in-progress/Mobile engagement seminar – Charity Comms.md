@@ -2,6 +2,8 @@
 title: "Mobile engagement seminar – Charity Comms – Martin Lugton"
 permalink: /mobile-engagement-seminar-charity-comms
 date: 2016-03-24T10:00:00+00:00
+redirect_from:
+  - /mobile-engagement-seminar-charity-comms/
 ---
 
 # Mobile engagement seminar – Charity Comms

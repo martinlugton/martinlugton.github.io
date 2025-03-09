@@ -2,6 +2,8 @@
 title: "Kate Manne: Down Girl – Summary"
 permalink: /kate-manne-down-girl-summary
 date: 2019-06-30T23:59:45+00:00
+redirect_from:
+  - /kate-manne-down-girl-summary/
 ---
 
 #Kate Manne: Down Girl – Summary

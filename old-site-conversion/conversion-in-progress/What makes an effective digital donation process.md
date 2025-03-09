@@ -2,6 +2,8 @@
 title: "What makes an effective digital donation process?"
 permalink: /what-makes-an-effective-digital-donation-process
 date: 2016-01-31T23:01:26+00:00
+redirect_from:
+  - /what-makes-an-effective-digital-donation-process/
 ---
 
 # What makes an effective digital donation process?

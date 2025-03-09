@@ -2,6 +2,8 @@
 title: "Camp Digital 2015 – a 20 tweet summary"
 permalink: /camp-digital-2015-20-tweet-summary
 date: 2015-04-23T16:00:00+00:00
+redirect_from:
+  - /camp-digital-2015-20-tweet-summary/
 ---
 
 # Camp Digital 2015 – a 20 tweet summary

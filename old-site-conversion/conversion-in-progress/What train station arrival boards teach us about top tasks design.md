@@ -2,6 +2,8 @@
 title: "What train station arrival boards teach us about top tasks design"
 permalink: /train-station-arrival-boards-teach-us-top-tasks-design
 date: 2014-01-30T10:29:08+00:00
+redirect_from:
+  - /train-station-arrival-boards-teach-us-top-tasks-design/
 ---
 
 # What train station arrival boards teach us about top tasks design

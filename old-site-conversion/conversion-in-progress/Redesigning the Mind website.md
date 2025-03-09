@@ -2,6 +2,8 @@
 title: "Redesigning the Mind website – Martin Lugton"
 permalink: /redesigning-mind-website
 date: 2013-11-15T09:42:00+00:00
+redirect_from:
+  - /redesigning-mind-website/
 ---
 
 # Redesigning the Mind website

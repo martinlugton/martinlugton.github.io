@@ -2,6 +2,8 @@
 title: "Delivering Digital Transformation – How charity IT and digital teams can work together effectively"
 permalink: /delivering-digital-transformation-how-charity-it-digital-teams-can-work-together-effectively
 date: 2015-03-10T11:00:00+00:00
+redirect_from:
+  - /delivering-digital-transformation-how-charity-it-digital-teams-can-work-together-effectively/
 ---
 
 # Delivering Digital Transformation – How charity IT and digital teams can work together effectively

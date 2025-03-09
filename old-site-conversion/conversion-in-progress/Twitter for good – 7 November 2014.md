@@ -2,6 +2,8 @@
 title: "Twitter for good – 7 November 2014"
 permalink: /twitter-for-good
 date: 2014-11-10T19:12:46+00:00
+redirect_from:
+  - /twitter-for-good/
 ---
 
 # Twitter for good – 7 November 2014

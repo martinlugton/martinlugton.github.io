@@ -2,6 +2,8 @@
 title: "Tom Loosemore on Digital Government at the Science and Technology Committee, 27 November 2018"
 permalink: /tom-loosemore-on-digital-government-at-the-science-and-technology-committee-27-november-2018
 date: 2019-01-18T22:13:27+00:00
+redirect_from:
+  - /tom-loosemore-on-digital-government-at-the-science-and-technology-committee-27-november-2018/
 ---
 
 # Tom Loosemore on Digital Government at the Science and Technology Committee, 27 November 2018

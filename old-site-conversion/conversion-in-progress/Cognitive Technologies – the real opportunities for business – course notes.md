@@ -2,6 +2,8 @@
 title: "Cognitive Technologies – the real opportunities for business – course notes"
 permalink: /cognitive-technologies-real-opportunities-business-course-notes
 date: 2016-01-15T11:45:00+00:00
+redirect_from:
+  - /cognitive-technologies-real-opportunities-business-course-notes/
 ---
 
 # Cognitive Technologies – the real opportunities for business – course notes

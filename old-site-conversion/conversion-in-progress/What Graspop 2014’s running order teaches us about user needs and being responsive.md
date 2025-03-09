@@ -2,6 +2,8 @@
 title: "What Graspop 2014’s running order teaches us about user needs and being responsive"
 permalink: /what-graspop-2014s-running-order-teaches-us-about-user-needs-and-being-responsive
 date: 2014-04-30T21:21:59+00:00
+redirect_from:
+  - /what-graspop-2014s-running-order-teaches-us-about-user-needs-and-being-responsive/
 ---
 
 # What Graspop 2014’s running order teaches us about user needs and being responsive

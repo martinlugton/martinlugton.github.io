@@ -2,6 +2,8 @@
 title: "How to change the world – Mike Monteiro – Martin Lugton"
 permalink: /how-to-change-the-world-mike-monteiro-martin-lugton
 date: 2017-02-25T14:55:54+00:00
+redirect_from:
+  - /how-to-change-the-world-mike-monteiro-martin-lugton/
 ---
 
 *Below is a video and summary of a recent talk by Mike Monteiro. A [transcript](https://beyondtellerrand.com/events/berlin-2016/speakers/mike-monteiro) is available. N.B. NSFW language.*

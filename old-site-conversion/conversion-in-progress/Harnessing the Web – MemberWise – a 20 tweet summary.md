@@ -2,6 +2,8 @@
 title: "Harnessing the Web – MemberWise – a 20 tweet summary"
 permalink: /harnessing-web-memberwise-20-tweet-summary
 date: 2014-10-22T14:45:00+00:00
+redirect_from:
+  - /harnessing-web-memberwise-20-tweet-summary/
 ---
 
 # Harnessing the Web – MemberWise – a 20 tweet summary

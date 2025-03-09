@@ -2,6 +2,8 @@
 title: "Play with Your Music – Module 1: Analyse your favourite tune and share it"
 permalink: /play-with-your-music-module-1-analyse-your-favourite-tune-and-share-it
 date: 2014-02-15T14:30:00+00:00
+redirect_from:
+  - /play-with-your-music-module-1-analyse-your-favourite-tune-and-share-it/
 ---
 
 # Play with Your Music – Module 1: Analyse your favourite tune and share it

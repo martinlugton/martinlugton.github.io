@@ -2,6 +2,8 @@
 title: "Gamify This! – NFP Tweetup 18, 13 March 2013"
 permalink: /gamify-nfp-tweetup-18-13-march-2013
 date: 2013-03-14T11:30:00+00:00
+redirect_from:
+  - /gamify-nfp-tweetup-18-13-march-2013/
 ---
 
 # Gamify This! – NFP Tweetup 18

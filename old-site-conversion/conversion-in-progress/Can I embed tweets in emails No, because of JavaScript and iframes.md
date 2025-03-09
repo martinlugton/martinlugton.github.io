@@ -2,6 +2,8 @@
 title: "Can I embed tweets in emails? No, because of JavaScript and iframes"
 permalink: /can-embed-tweets-emails-javascript-iframes
 date: 2014-03-01T14:20:00+00:00
+redirect_from:
+  - /can-embed-tweets-emails-javascript-iframes/
 ---
 
 # Can I embed tweets in emails? No, because of JavaScript and iframes

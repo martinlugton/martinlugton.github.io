@@ -2,6 +2,8 @@
 title: "Managing Change"
 permalink: /managing-change
 date: 2019-03-19T12:35:39+00:00
+redirect_from:
+  - /managing-change/
 ---
 
 # Managing Change

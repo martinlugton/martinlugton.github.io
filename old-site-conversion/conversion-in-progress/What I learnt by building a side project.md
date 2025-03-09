@@ -2,6 +2,8 @@
 title: "What I learnt by building a side project"
 permalink: /what-i-learnt-by-building-a-side-project
 date: 2017-01-01T17:43:56+00:00
+redirect_from:
+  - /what-i-learnt-by-building-a-side-project/
 ---
 
 # What I learnt by building a side project

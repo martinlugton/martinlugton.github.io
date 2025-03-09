@@ -2,6 +2,8 @@
 title: "Digital Transformation – Charity Comms networking event"
 permalink: /digital-transformation-charity-comms-networking-event
 date: 2015-02-18T14:30:00+00:00
+redirect_from:
+  - /digital-transformation-charity-comms-networking-event/
 ---
 
 # Digital Transformation – Charity Comms networking event

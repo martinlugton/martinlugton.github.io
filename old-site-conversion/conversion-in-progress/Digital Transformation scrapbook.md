@@ -2,6 +2,8 @@
 title: "Digital Transformation scrapbook"
 permalink: /digital-transformation-scrapbook
 date: 2017-03-03T21:41:34+00:00
+redirect_from:
+  - /digital-transformation-scrapbook/
 ---
 
 *Here are some key insights from articles I've read on digital transformation.*

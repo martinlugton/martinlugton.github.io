@@ -2,6 +2,8 @@
 title: "Why it’s better to manage Products than Projects"
 permalink: /why-its-better-to-manage-products-than-projects
 date: 2018-06-30T22:59:48+00:00
+redirect_from:
+  - /why-its-better-to-manage-products-than-projects/
 ---
 
 # Why it’s better to manage Products than Projects

@@ -2,6 +2,8 @@
 title: "What I learnt from Coursera’s Operations Management course"
 permalink: /what-i-learnt-from-courseras-operations-management-course
 date: 2014-07-12T20:06:14+00:00
+redirect_from:
+  - /what-i-learnt-from-courseras-operations-management-course/
 ---
 
 # What I learnt from Coursera’s Operations Management course

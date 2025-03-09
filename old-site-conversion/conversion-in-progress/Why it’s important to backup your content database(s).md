@@ -2,6 +2,8 @@
 title: "Why it’s important to backup your content database(s)"
 permalink: /why-its-important-to-backup-your-content-databases
 date: 2013-01-09T23:58:36+00:00
+redirect_from:
+  - /why-its-important-to-backup-your-content-databases/
 ---
 
 # Why it’s important to backup your content database(s)

@@ -2,6 +2,8 @@
 title: "One way of running an agile team – Martin Lugton"
 permalink: /one-way-of-running-an-agile-team
 date: 2017-03-09T20:00:00+00:00
+redirect_from:
+  - /one-way-of-running-an-agile-team/
 ---
 
 # One way of running an agile team

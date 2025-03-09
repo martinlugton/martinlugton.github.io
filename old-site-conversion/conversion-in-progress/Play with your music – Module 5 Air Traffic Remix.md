@@ -2,6 +2,8 @@
 title: "Play with your music – Module 5: Air Traffic Remix"
 permalink: /play-with-your-music-module-5-air-traffic-remix
 date: 2014-05-15T14:22:00+00:00
+redirect_from:
+  - /play-with-your-music-module-5-air-traffic-remix/
 ---
 
 # Play with your music – Module 5: Air Traffic Remix

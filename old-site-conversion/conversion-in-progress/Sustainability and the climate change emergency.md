@@ -2,6 +2,8 @@
 title: "Sustainability and the climate change emergency"
 permalink: /sustainability-and-the-climate-change-emergency
 date: 2019-10-13T12:06:12+00:00
+redirect_from:
+  - /sustainability-and-the-climate-change-emergency/
 ---
 
 # Sustainability and the climate change emergency

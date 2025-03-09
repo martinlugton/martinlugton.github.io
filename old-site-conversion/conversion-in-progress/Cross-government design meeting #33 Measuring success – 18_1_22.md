@@ -2,6 +2,8 @@
 title: "Cross-government design meeting #33: Measuring success – 18/1/22"
 permalink: /cross-government-design-meeting-33-measuring-success-18-1-22
 date: 2022-01-25T10:15:00+00:00
+redirect_from:
+  - /cross-government-design-meeting-33-measuring-success-18-1-22/
 ---
 
 # Cross-government design meeting #33: Measuring success – 18/1/22

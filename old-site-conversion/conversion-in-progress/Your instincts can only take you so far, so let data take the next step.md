@@ -2,6 +2,8 @@
 title: "Your instincts can only take you so far, so let data take the next step"
 permalink: /your-instincts-can-only-take-you-so-far-so-let-data-take-the-next-step
 date: 2013-02-11T21:09:14+00:00
+redirect_from:
+  - /your-instincts-can-only-take-you-so-far-so-let-data-take-the-next-step/
 ---
 
 # Your instincts can only take you so far, so let data take the next step

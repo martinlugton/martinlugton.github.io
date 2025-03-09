@@ -2,6 +2,8 @@
 title: "ODI Summit 2019 – summary – Martin Lugton"
 permalink: /odi-summit-2019-summary
 date: 2019-11-12T14:00:00+00:00
+redirect_from:
+  - /odi-summit-2019-summary/
 ---
 
 # ODI Summit 2019 – summary

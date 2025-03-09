@@ -2,6 +2,8 @@
 title: "Eyal: Hooked – How to build habit-forming products"
 permalink: /eyal-hooked-build-habit-forming-products
 date: 2014-11-20T16:45:00+00:00
+redirect_from:
+  - /eyal-hooked-build-habit-forming-products/
 ---
 
 # Eyal: Hooked – How to build habit-forming products

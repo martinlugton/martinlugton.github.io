@@ -2,6 +2,8 @@
 title: "Design for Real Life"
 permalink: /design-for-real-life
 date: 2016-04-12T09:30:00+00:00
+redirect_from:
+  - /design-for-real-life/
 ---
 
 # Design for Real Life

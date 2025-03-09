@@ -2,6 +2,8 @@
 title: "How to create review apps in Heroku from Gitlab"
 permalink: /how-to-create-review-apps-in-heroku-from-gitlab
 date: 2018-06-04T20:18:45+00:00
+redirect_from:
+  - /how-to-create-review-apps-in-heroku-from-gitlab/
 ---
 
 # How to create review apps in Heroku from Gitlab

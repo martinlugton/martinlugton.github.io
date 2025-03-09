@@ -2,6 +2,8 @@
 title: "Setting up your twitter command centre"
 permalink: /setting-up-your-twitter-command-centre
 date: 2012-12-26T10:07:56+00:00
+redirect_from:
+  - /setting-up-your-twitter-command-centre/
 ---
 
 # Setting up your twitter command centre

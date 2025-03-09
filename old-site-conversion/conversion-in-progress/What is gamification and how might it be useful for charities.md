@@ -2,6 +2,8 @@
 title: "What is gamification and how might it be useful for charities?"
 permalink: /what-is-gamification-and-how-might-it-be-useful-for-charities
 date: 2013-03-14T17:39:48+00:00
+redirect_from:
+  - /what-is-gamification-and-how-might-it-be-useful-for-charities/
 ---
 
 # What is gamification and how might it be useful for charities?

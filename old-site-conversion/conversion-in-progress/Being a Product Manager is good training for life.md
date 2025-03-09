@@ -2,6 +2,8 @@
 title: "Being a Product Manager is good training for life"
 permalink: /being-a-product-manager-is-good-training-for-life
 date: 2016-09-14T15:32:00+00:00
+redirect_from:
+  - /being-a-product-manager-is-good-training-for-life/
 ---
 
 # Being a Product Manager is good training for life

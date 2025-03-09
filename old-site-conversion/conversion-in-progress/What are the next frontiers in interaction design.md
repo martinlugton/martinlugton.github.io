@@ -2,6 +2,8 @@
 title: "What are the next frontiers in interaction design?"
 permalink: /next-frontiers-interaction-design
 date: 2017-10-31T21:53:43+00:00
+redirect_from:
+  - /next-frontiers-interaction-design/
 ---
 
 # What are the next frontiers in interaction design?

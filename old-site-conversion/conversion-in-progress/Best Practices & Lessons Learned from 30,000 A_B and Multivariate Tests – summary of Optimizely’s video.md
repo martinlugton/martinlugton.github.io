@@ -2,6 +2,8 @@
 title: "Best Practices & Lessons Learned from 30,000 A/B and Multivariate Tests – summary of Optimizely’s video"
 permalink: /best-practices-lessons-learned-30000-ab-multivariate-tests-summary-optimizely-video
 date: 2014-03-22T11:15:00+00:00
+redirect_from:
+  - /best-practices-lessons-learned-30000-ab-multivariate-tests-summary-optimizely-video/
 ---
 
 # Best Practices & Lessons Learned from 30,000 A/B and Multivariate Tests – summary of Optimizely’s video

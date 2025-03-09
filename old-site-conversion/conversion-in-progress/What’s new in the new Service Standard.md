@@ -2,6 +2,8 @@
 title: "What’s new in the new Service Standard"
 permalink: /whats-new-in-the-new-service-standard
 date: 2019-05-31T23:59:22+00:00
+redirect_from:
+  - /whats-new-in-the-new-service-standard/
 ---
 
 # What’s new in the new Service Standard
