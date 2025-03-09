@@ -4,7 +4,6 @@ date: 2013-01-15T10:00:00+00:00
 permalink: /10-interview-questions-to-ask-a-digital-communications-manager
 redirect_from:
   - /10-interview-questions-to-ask-a-digital-communications-manager/
-  - /test-redirect
 ---
 
 # 10 interview questions to ask a digital communications manager
