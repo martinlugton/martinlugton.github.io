@@ -3,13 +3,13 @@ title: "Martin Lugton"
 permalink: /
 ---
 
-I work in tech for good and digital government. I'm Head of Product for Digital Service Platforms at the Government Digital Service.
+I work in tech for good and digital government. I'm Head of Product for [Digital Service Platforms](https://platforms.service.gov.uk/) at the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service).
 
 I enjoy both launching new products and the challenges of driving value from established, large-scale products.
 
 Some recent highlights include:
-- launching GOV.UK Forms into beta, and growing it from 0 services to over 100
-- growing GOV.UK Notify at a record pace of 203 new services in September 2024, using a product-led growth model
+- launching [GOV.UK Forms](https://www.forms.service.gov.uk/) into beta, and growing it from 0 services to over 100
+- growing [GOV.UK Notify](https://www.notifications.service.gov.uk/) at a record pace of 203 new services in September 2024, using a product-led growth model
 - securing 3 billion pieces of PPE for the UK during covid
 - helping boost staff satisfaction and trust in leadership in my deputy-directorate at GDS
 
