@@ -6,8 +6,6 @@ redirect_from:
   - /camp-digital-2015-20-tweet-summary/
 ---
 
-# Camp Digital 2015 – a 20 tweet summary
-
 *Camp Digital describes itself as “an inspirational conference that brings together the digital, design and UX communities for a series of seminars and workshops exploring the latest thinking in our industry.”*
 
 ### The Importance of Research and Partnership in Tackling Digital Exclusion – Sarah Bridges, Go ON UK

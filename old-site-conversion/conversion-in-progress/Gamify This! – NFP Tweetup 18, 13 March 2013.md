@@ -6,8 +6,6 @@ redirect_from:
   - /gamify-nfp-tweetup-18-13-march-2013/
 ---
 
-# Gamify This! – NFP Tweetup 18
-
 *Here's a summary of NFP Tweetup 18, which focused on gamification.*
 
 1. "Gamification is about taking game mechanics & applying them to real world situations" - @robjones

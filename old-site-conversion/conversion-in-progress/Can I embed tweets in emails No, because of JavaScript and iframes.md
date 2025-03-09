@@ -6,8 +6,6 @@ redirect_from:
   - /can-embed-tweets-emails-javascript-iframes/
 ---
 
-# Can I embed tweets in emails? No, because of JavaScript and iframes
-
 A tweet is an individual message posted by someone inside the twitter social media platform. An [embeddable tweet](https://dev.twitter.com/docs/embedded-tweets) is a version of this message that can be copied and used outside twitter. Embedding tweets is a great feature, allowing conversations and ideas to be spread beyond twitter’s walls, and is great for curation and analysis.
 
 But the way that twitter have constructed this feature means that you can’t embed tweets in emails.

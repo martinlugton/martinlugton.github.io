@@ -6,8 +6,6 @@ redirect_from:
   - /build-a-food-bank-api-part-1/
 ---
 
-# Build a food bank API – part 1
-
 I’m going to try and build an API that tells you the items needed by nearby foodbanks.
 
 An API is a tool that lets you quickly interface between bits of technology. If a tool has an API, it means that web developers can quickly interact with it: either taking information out of it or sending information or instructions to it. Using an API to interact with a bit of software is generally quick and easy, meaning that you can spend your time and energy working on doing something special and interesting with the interaction, rather than spending your effort working out how to get the things to talk to each other in the first place. [Twitter has an API](https://developer.twitter.com/en/docs) which lets you search, view or post tweets; [Google Maps has an API](https://developers.google.com/maps/documentation) that lets you build maps into your website or software. [I built a tool around the twitter API a few years ago](https://mysocialsummary.com/) and found it a real thrill.

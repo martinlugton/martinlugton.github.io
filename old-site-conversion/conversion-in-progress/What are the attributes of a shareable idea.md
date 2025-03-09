@@ -6,8 +6,6 @@ redirect_from:
   - /attributes-shareable-idea/
 ---
 
-# What are the attributes of a shareable idea?
-
 Ideas are powerful. But any power they have has to be realised through people applying them, either in their own thoughts, or in interaction with the world or other people.
 
 So ideas are worthless if they aren’t shared.

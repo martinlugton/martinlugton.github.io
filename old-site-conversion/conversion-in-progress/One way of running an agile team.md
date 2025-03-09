@@ -6,8 +6,6 @@ redirect_from:
   - /one-way-of-running-an-agile-team/
 ---
 
-# One way of running an agile team
-
 At the Government Digital Service (GDS), we divide our work up into 3-month missions. We’ll give a multi-disciplinary team of about 10 people a particular problem to solve or a high-level idea of a piece of value to deliver within 3 months. We vary scope as we go, with time and resources being fixed. We build our understanding as we go, and change our approach as necessary to deliver the most value in the timebox. We’ll generally plan work to increase our understanding of what the right thing to do.
 
 As Product Manager, my role is to make sure that we’re solving the right problems, and that we’re getting the most value from the work we do.

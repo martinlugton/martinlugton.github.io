@@ -6,8 +6,6 @@ redirect_from:
   - /how-to-create-better-confirm-and-reject-popups/
 ---
 
-# How to create better confirm and reject popups
-
 Computers often ask us to confirm our intentions. Asking ‘Are you sure you want to do that?’ is a useful way to reduce input errors, but the way this question is posed is inconsistent. We could improve the user experience – and reduce errors – by making it more consistent.
 
 Here are a couple of current inconsistencies that introduce unnecessary mental overhead, and making error prevention less effective:

@@ -6,8 +6,6 @@ redirect_from:
   - /digital-product-managers-should-be-able-to-code/
 ---
 
-# Digital Product Managers should be able to code
-
 Aspiring Digital Product Managers often ask me if they need to know programming to do their job. I always used to say ‘no’, but now I’ve changed my mind.
 
 As a Digital Product Manager, you own the value and purpose of your team’s work. You are responsible for the vision and the ‘why’. Understanding ‘how’ is the job of your colleagues who are all focused on delivering the vision.

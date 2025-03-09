@@ -6,8 +6,6 @@ redirect_from:
   - /using-wordpress-open-courses-octel-chat-summarised/
 ---
 
-# Using wordpress for open courses – #ocTEL chat summarised
-
 The 2014 version of [Open Course in Technology Enhanced Learning (ocTEL)](http://octel.alt.ac.uk/) started last week. The course is free and open to all.
 
 My plan for this course is to keep half an eye out for things that might interest me. I don’t expect to be closely involved in conversations, or in knowledge creation, as I’m not sure how much time I’ll have to commit.

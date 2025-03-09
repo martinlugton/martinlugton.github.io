@@ -6,8 +6,6 @@ redirect_from:
   - /how-to-create-review-apps-in-heroku-from-gitlab/
 ---
 
-# How to create review apps in Heroku from Gitlab
-
 A review app is a temporary application created to help you review in-progress code changes. You’ll use a [review app](https://about.gitlab.com/2016/11/22/introducing-review-apps/) because you’re working on a code branch and want to see what the changes will be like in a production-like environment, or because you’re reviewing a pull or merge request from someone else.
 
 Gitlab doesn’t explicitly outline how to setup review apps with Heroku, but the [Heroku API](https://devcenter.heroku.com/articles/platform-api-reference) is well-documented, and it’s quite straightforward to get this up and running. You’ll need to set up a few [environment variables](https://docs.gitlab.com/ee/ci/variables/). And make sure that the length of your branch name and your project name is no greater than 29 characters (Heroku has an app name length limit).

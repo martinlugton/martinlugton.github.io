@@ -6,8 +6,6 @@ redirect_from:
   - /cultivating-shared-understanding-collaborative-user-research-summary/
 ---
 
-# Cultivating Shared Understanding from Collaborative User Research – summary
-
 *I've pulled out some of the key points in a discussion about user research, between [Jared Spool and Erika Hall on the UI20 podcast](https://ui20.uie.com/blog/cultivating-shared-understanding-from-collaborative-user-research-a-podcast-with-erika-hall). A transcript is available on that page.*
 
 ### What makes for good user research?

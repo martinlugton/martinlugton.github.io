@@ -6,8 +6,6 @@ redirect_from:
   - /video-10-tweet-summary-nfp-tweetup-27/
 ---
 
-# Video – a 10 tweet summary of NFP tweetup 27
-
 A discussion of film and video in the charity sector.
 
 Featuring “The power of supporter-focused video to drive fundraising” – Francis Mason and Rebecca Highfield, Anthony Nolan; “Delivering for public health and fundraising? How Breakthrough Breast Cancer did it with TLC” – Matthew Jupe, Breakthrough Breast Cancer; “MyStory: Lessons learnt from delighting users through video content” – Jamie Parkins, JustGiving; and a panel discussion.

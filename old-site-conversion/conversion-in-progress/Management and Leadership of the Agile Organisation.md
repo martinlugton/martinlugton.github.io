@@ -6,8 +6,6 @@ redirect_from:
   - /management-leadership-agile-organisation/
 ---
 
-# Management and Leadership of the Agile Organisation
-
 *Notes from a talk on [Agile management and leadership culture at the Digital Project Managers meetup](https://www.meetup.com/agileDPML/events/236872368/) on 9 March by [Chris Davies](http://www.aterny.co.uk/). [Video available](https://skillsmatter.com/skillscasts/9614-dpml-march).*
 
 <iframe title="Agile leadership" src="Management%20and%20Leadership%20of%20the%20Agile%20Organisation%20%E2%80%93%20Martin%20Lugton_files/w52AEUPYatItrU.htm" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen=""> </iframe>

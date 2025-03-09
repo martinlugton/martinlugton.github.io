@@ -6,8 +6,6 @@ redirect_from:
   - /how-charities-could-use-digital-to-change-the-world/
 ---
 
-# How charities could use digital to change the world
-
 ### Charities can go beyond one-sided interactions with supporters
 
 In an earlier post I looked at [how charities can use digital to improve their provision of static information, and to provide proactive advice and support](http://www.martinlugton.com/towards-digital-service-provision-by-charities/). But that is still quite a one-sided interaction, with organisations being in a position of power and enlightening their beneficiaries. What could happen if we go beyond the idea of service provision?

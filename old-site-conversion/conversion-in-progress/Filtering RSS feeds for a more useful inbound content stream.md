@@ -6,8 +6,6 @@ redirect_from:
   - /filtering-rss-feeds-more-useful-inbound-content-stream/
 ---
 
-# Filtering RSS feeds for a more useful inbound content stream
-
 Noise is the price we pay for volume and diversity of content.  
 I’m hopeful that we can reap the rewards of the wealth of information around us, while minimising the price we pay having to filter through it to get to the good stuff.
 

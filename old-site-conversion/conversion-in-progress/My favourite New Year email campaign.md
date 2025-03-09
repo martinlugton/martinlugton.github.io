@@ -6,8 +6,6 @@ redirect_from:
   - /my-favourite-new-year-email-campaign/
 ---
 
-# My favourite New Year email campaign
-
 This evening a sharp email campaign arrived in my inbox. It’s from [Meetup](http://www.meetup.com/), a platform for people to arrange in-person meetups around shared interests.
 
 With talk of New Year’s Resolutions becoming a little tiresome, the one-word subject line “Unresolutions” feels liberating and iconoclastic.

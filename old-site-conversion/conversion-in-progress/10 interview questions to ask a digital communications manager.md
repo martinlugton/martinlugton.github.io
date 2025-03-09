@@ -6,8 +6,6 @@ redirect_from:
   - /10-interview-questions-to-ask-a-digital-communications-manager/
 ---
 
-# 10 interview questions to ask a digital communications manager
-
 Lots of organisations are recruiting digital communications managers right now. This role requires a wide range of skills: strategic thinking, creativity, flair and instinct for written and oral communications, combined with sharp technical skills, an enquiring mind and an enthusiasm to dive deep into intricate problems and emerge with practical results.
 
 But if you’re not a digital specialist yourself, it can be hard to know what questions to ask your candidate. And if you’re not confident in technical matters the power balance can be the wrong way round.

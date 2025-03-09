@@ -6,8 +6,6 @@ redirect_from:
   - /odi-summit-2019-summary/
 ---
 
-# ODI Summit 2019 – summary
-
 *Summary of the sessions I attended at the Open Data Institute’s Summit on 12 November 2019*
 
 ### Tim Berners-Lee and Nigel Shadbolt, interviewed by Zoe Kleinman

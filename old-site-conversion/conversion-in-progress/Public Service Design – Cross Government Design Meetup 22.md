@@ -6,8 +6,6 @@ redirect_from:
   - /public-service-design-cross-government-design-meetup-22/
 ---
 
-# Public Service Design – Cross Government Design Meetup 22
-
 *Today I attended a [Cross Government Design Meetup](https://www.eventbrite.co.uk/e/cross-government-design-meetup-22-tickets-37028221407) at the Design Museum in London. Here are some of the highlights I took away.*
 
 ### Introduction – Lou Downe

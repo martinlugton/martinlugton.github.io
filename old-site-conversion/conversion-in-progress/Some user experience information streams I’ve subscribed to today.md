@@ -6,8 +6,6 @@ redirect_from:
   - /some-user-experience-information-streams-ive-subscribed-to-today/
 ---
 
-# Some user experience information streams I’ve subscribed to today
-
 Today I’ve spent some time reviewing which RSS feeds I subscribe to. I’ve decided that I’m missing out on user experience material. So I’ve been hunting out some streams of UX inspiration and ideas.
 
 I’ve added the following feeds to my RSS subscriptions, and will be reviewing their usefulness over the next couple of months:

@@ -6,8 +6,6 @@ redirect_from:
   - /what-i-learnt-by-building-a-side-project/
 ---
 
-# What I learnt by building a side project
-
 A few years ago I completed Harvard’s [CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) – an online computer science course. My favourite part of the course was the self-directed final project. I’m interested in the question of how we can filter the mass of digital information that we’re confronted with every day, so that we can enjoy the best bits without spending all of our time scanning and processing. In my own life, I’d found that I had less time to keep an eye on Twitter. I really wanted a tool to keep an eye on Twitter activity while I was at work. So I explored this in my final project. I built a tool to monitor Twitter activity for a given list.
 
 What I built was pretty basic – it was running on an old laptop in the corner of my flat, and it just displayed the results on the laptop screen after a specified number of hours had elapsed. A solid final project, but it only ever felt like a proof of concept. I wanted to build this into something I could use, and something that other people could use too.

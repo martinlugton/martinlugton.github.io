@@ -6,8 +6,6 @@ redirect_from:
   - /digital-transformation-charity-comms-networking-event/
 ---
 
-# Digital Transformation – Charity Comms networking event
-
 *“What does it actually mean, and what does it look like for your charity?” This post is a quick summary of the most interesting ideas that came up in discussion at this Heads of Digital networking event, 15 March 2017. The event was held under the Chatham House Rule, so I won’t be sharing anything identifiable.*
 
 Upskilling everyone equally might not be as useful as significantly upskilling some key individuals.  

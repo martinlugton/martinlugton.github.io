@@ -6,8 +6,6 @@ redirect_from:
   - /twitter-for-good/
 ---
 
-# Twitter for good – 7 November 2014
-
 On Friday 7 November, Twitter UK hosted ‘Twitter for Good’ at their London offices.
 
 There was an initial presentation aimed at a broad group, presumably ranging from people who don’t use twitter through to charities making heavy use of the platform. This meant that there was a good range of material explaining and selling the platform as a whole. There were also some good statistics on the behaviour (and, implicitly, value) of twitter users to charities:

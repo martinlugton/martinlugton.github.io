@@ -6,8 +6,6 @@ redirect_from:
   - /build-a-food-bank-api-part-2/
 ---
 
-# Build a food bank API – part 2
-
 I’ve made great progress on this work in the last couple of months. ([Read part 1 of my project to create a foodbank API](https://www.martinlugton.com/build-a-food-bank-api-part-1/))
 
 My goal was “Make an API that, for a given geolocation, returns the nearest 3 foodbanks, with a list of the items that they need.”

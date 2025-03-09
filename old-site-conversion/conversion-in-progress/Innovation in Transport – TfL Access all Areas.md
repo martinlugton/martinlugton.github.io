@@ -6,8 +6,6 @@ redirect_from:
   - /innovation-in-transport-tfl-access-all-areas/
 ---
 
-# Innovation in Transport – TfL Access all Areas
-
 *Notes from a panel discussion I attended at an [event on accessible transport](http://www.cvent.com/events/access-all-areas-exhibition/event-summary-9df6731bbf964fe5b07d6a831bde4b99.aspx?intcmp=57621), hosted by TfL. I attended because I wanted to learn about TfL’s strategic approach to innovation and accessibility.*
 
 ### Individual introductions

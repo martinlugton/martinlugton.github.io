@@ -6,8 +6,6 @@ redirect_from:
   - /design-for-real-life/
 ---
 
-# Design for Real Life
-
 *Design for Real Life argues that we need to take accessibility more seriously. This goes beyond just conforming to a set of content presentation guidelines (e.g. the W3C standards), and goes to your overall design process. You can [buy the book from A Book Apart](https://abookapart.com/products/design-for-real-life)*
 
 1. ## Identify and challenge assumptions

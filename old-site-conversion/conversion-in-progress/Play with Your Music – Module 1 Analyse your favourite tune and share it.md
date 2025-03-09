@@ -6,8 +6,6 @@ redirect_from:
   - /play-with-your-music-module-1-analyse-your-favourite-tune-and-share-it/
 ---
 
-# Play with Your Music – Module 1: Analyse your favourite tune and share it
-
 I’m currently taking a 6-week open online course in mixing and remixing music, called [Play With Your Music](http://www.playwithyourmusic.org/). The first week’s assignment is to describe the sonic landscape of a track I like.
 
 **Why I’ve chosen this track:** Alcest is one of my favourite bands, if not my favourite. Alcest’s music sounds graceful, elegiac and transcendent. It feels like it’s coming from a context beyond every-day worries, concerns and feelings.

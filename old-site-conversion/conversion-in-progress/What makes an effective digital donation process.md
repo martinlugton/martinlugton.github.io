@@ -6,8 +6,6 @@ redirect_from:
   - /what-makes-an-effective-digital-donation-process/
 ---
 
-# What makes an effective digital donation process?
-
 I’ve made donations to a number of top UK charities. They use these techniques to encourage donations:
 
 - Promote regular giving

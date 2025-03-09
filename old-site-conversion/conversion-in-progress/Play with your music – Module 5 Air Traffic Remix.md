@@ -6,8 +6,6 @@ redirect_from:
   - /play-with-your-music-module-5-air-traffic-remix/
 ---
 
-# Play with your music – Module 5: Air Traffic Remix
-
 For this module in the Play With Your Music course, I’ve been remixing ‘Air traffic’ by Clara Berry and Wooldog. Here’s the original track:
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="Play%20with%20your%20music%20%E2%80%93%20Module%205%20Air%20Traffic%20Remix%20%E2%80%93%20Martin%20Lugton_files/a.htm"></iframe>

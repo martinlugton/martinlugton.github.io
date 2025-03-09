@@ -6,8 +6,6 @@ redirect_from:
   - /sustainability-and-the-climate-change-emergency/
 ---
 
-# Sustainability and the climate change emergency
-
 *Notes from [an event](https://www.valtech.com/en-gb/insights/sustainability-and-the-climate-change-emergency/) at the Royal Geographical Society, 9 October 2019. Using data to build public and decision-maker awareness of climate change. (My sense was actually that the event showed that stories are more powerful than data in getting people to care about this kind of thing)*
 
 ### Sophie Adams, Ofgem

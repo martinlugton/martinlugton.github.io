@@ -6,8 +6,6 @@ redirect_from:
   - /futures-thinking-strategic-foresight-summary-become-futurist-metafuture-school/
 ---
 
-# Futures Thinking and Strategic Foresight – Summary of Become a futurist, by the Metafuture School
-
 *I recently completed a course on Futures Studies – [Become a futurist](https://www.metafutureschool.org/courses/enrolled/824706), by the Metafuture School. Here are some of the key insights.*
 
 General planning thinks about one future. Futures thinking, in contrast, thinks about multiple possible futures. (The field of futures/foresight used to be about concrete things like predicting future demand, but there’s so much uncertainty that this was a waste of time.)

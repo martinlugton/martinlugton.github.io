@@ -6,8 +6,6 @@ redirect_from:
   - /agile-innovation-in-income-generation-for-charities/
 ---
 
-# Agile innovation in income generation for charities
-
 Innovation in income generation – NFP Tweetup 19, 11 July 2013 – in 10 tweets.
 
 This tweetup was actually focused more on ways of working than on income generation, and agile methodology was the big discussion point.

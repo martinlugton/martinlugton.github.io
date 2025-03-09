@@ -6,8 +6,6 @@ redirect_from:
   - /dsdm-agile-project-framework-scrum/
 ---
 
-# The DSDM Agile Project Framework for Scrum
-
 *I’ve highlighted a few key points from the DSDM Agile Project Framework for Scrum. I’d strongly recommend reading the 2014 White Paper produced by Andrew Craddock, Keith Richards, Dorothy Tudor, Barbara Roberts and Julia Godwin for the DSDM Consortium. [Download the 22-page white paper.](https://www.dsdm.org/file/145/download?token=Z1sYW_gy) (DSDM is ‘The Dynamic Systems Development Method’.) The paper provides a useful summary of Scrum and Agile methodologies, and reflects on the integration of more granular sprint-focused methodologies with larger strategic project governance frameworks.*
 
 ### The usefulness of combining Scrum with DSDM

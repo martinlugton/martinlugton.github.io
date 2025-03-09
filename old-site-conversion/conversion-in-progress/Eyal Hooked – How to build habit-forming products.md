@@ -6,8 +6,6 @@ redirect_from:
   - /eyal-hooked-build-habit-forming-products/
 ---
 
-# Eyal: Hooked – How to build habit-forming products
-
 *Nir Eyal sets out a framework for building engagement with users of a product, based on repeatedly guiding users through a series of ‘hooks’ to form habits. “The ultimate goal of a habit-forming product is to solve the user’s pain by creating an association so that the user identifies the company’s product or service as the source of relief.” Portfolio/Penguin 2014.*
 
 ### People use their smartphones a lot

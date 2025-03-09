@@ -6,8 +6,6 @@ redirect_from:
   - /managing-change/
 ---
 
-# Managing Change
-
 *Key points from some recent training I attended on managing change.*
 
 Focus on the emotional side more than the concrete aspects of change. Don’t get stuck arguing about logic.

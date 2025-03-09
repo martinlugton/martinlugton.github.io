@@ -6,8 +6,6 @@ redirect_from:
   - /towards-digital-service-provision-by-charities/
 ---
 
-# Towards digital service provision by charities
-
 Charities are still working out how best to harness digital communications for fundraising. (See [Public Zone’s Digital Handbook](http://www.thisiszone.com/sites/default/files/Digital-Fundraising-Handbook-Public_Zone.pdf), for example).
 
 But digital’s untapped potential extends far beyond fundraising. I’m most interested in seeing how we can use digital technology to improve service provision and to directly change the world for the better. In this post I outline two ways of achieving this.

@@ -6,8 +6,6 @@ redirect_from:
   - /how-might-we-broaden-political-discourse-understanding-people-age-25-35-uk-design-project-design-kit-course/
 ---
 
-# How might we broaden political discourse and understanding in people age 25-35 in the UK? – Design project from the Design Kit course
-
 *This is a writeup of the design project I carried out with [Tamsyn Hyatt](https://twitter.com/tamsynhyatt) as part of Ideo and +Acumen’s [Design Kit: The Course for Human-Centered Design](https://www.martinlugton.com/%E2%80%8B%E2%80%8Bdesign-kit-course-human-centered-design-summarised/). Check out the [prototype](https://www.martinlugton.com/wp-content/uploads/2017/03/ideo-prototype-ideologicaly-diverse-news-aggregator-for-user-testing.pdf) we produced.*
 
 ### Inspiration

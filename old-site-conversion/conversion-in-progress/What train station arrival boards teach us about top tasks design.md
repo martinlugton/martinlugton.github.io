@@ -6,8 +6,6 @@ redirect_from:
   - /train-station-arrival-boards-teach-us-top-tasks-design/
 ---
 
-# What train station arrival boards teach us about top tasks design
-
 Helping your users/customers carry out their most important tasks requires you to prioritise. Helping them achieve their top tasks almost always means sacrificing the ease with which other, less important tasks, can be carried out.
 
 Most people going to a train station are interested in leaving, and aren’t there to meet someone who’s arriving. So we should focus on making “Finding out when my train leaves, and from which platform” as easy as possible; if necessary at the expense of “finding out when and where a train will arrive at this station”.

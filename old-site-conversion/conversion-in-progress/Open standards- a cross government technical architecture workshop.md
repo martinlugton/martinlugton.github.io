@@ -6,8 +6,6 @@ redirect_from:
   - /open-standards-a-cross-government-technical-architecture-workshop/
 ---
 
-# Open standards- a cross government technical architecture workshop
-
 *My notes from a cross-government Technical Architecture community workshop on 29 July, hosted at Government Digital Service.*
 
 Open Standards are publicly-available agreements on how technology will work to solve a particular problem, or meet a particular need.

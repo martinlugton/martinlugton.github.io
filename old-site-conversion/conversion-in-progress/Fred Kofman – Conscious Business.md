@@ -6,8 +6,6 @@ redirect_from:
   - /fred-kofman-conscious-business/
 ---
 
-# Fred Kofman – Conscious Business
-
 *Here’s a summary of a [couple](https://www.youtube.com/watch?v=IdMvWLARF1w) of [talks](https://www.youtube.com/watch?v=MZYMyy76v5Y) by Fred Kofman. Thanks to Jen Allum, now leading [X](https://x.company/) (Alphabet’s moonshot factory), who I worked with when she was Director of GOV.UK, for the recommendation.*
 
 ## Your job is the goal you pursue – not the activity you do

@@ -6,8 +6,6 @@ redirect_from:
   - /google-announces-2-changes-google-grants-28-january-2013/
 ---
 
-# Google announces 2 changes to Google Grants for 28 January 2013
-
 I received an email from Google announcing a couple of changes to the Google Grants programme:
 
 > “We are writing to let you know about a few changes to the Google Grants programme.

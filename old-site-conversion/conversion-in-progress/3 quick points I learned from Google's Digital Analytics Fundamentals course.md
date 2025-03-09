@@ -6,8 +6,6 @@ redirect_from:
   - /3-quick-points-i-learned-from-googles-analytics-fundamentals/
 ---
 
-# 3 quick points I learned from Google's Digital Analytics Fundamentals course
-
 *Google's [Digital Analytics Fundamentals](https://analyticsacademy.withgoogle.com/course) course started gently, introducing some good overall concepts about measuring objectives, but soon ramped up the difficulty so that experienced users would probably learn something too. Here are three things I'd like to share with my team:*
 
 1. A "bounce" is a session with only one interaction. Bounce visits are assigned a time on page and a visit duration of zero.

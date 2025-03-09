@@ -6,8 +6,6 @@ redirect_from:
   - /being-a-product-manager-is-good-training-for-life/
 ---
 
-# Being a Product Manager is good training for life
-
 Being a product manager helps you live a good life:
 
 - You become confident in dealing with different domains of knowledge and different types of truth, and arbitrating between them.

@@ -6,8 +6,6 @@ redirect_from:
   - /harnessing-web-memberwise-20-tweet-summary/
 ---
 
-# Harnessing the Web – MemberWise – a 20 tweet summary
-
 *Today I attended MemberWise’s [Harnessing the Web](http://www.harnessingtheweb.com/) conference. I’m largely new to the world of membership, so I was hoping to understand how other organisations were using digital to promote and deliver their membership offers. Below I’ve summarised the key points from the sessions I attended, in 20 tweets.*
 
 ### Chemnet gains – online support for the next generation of membership

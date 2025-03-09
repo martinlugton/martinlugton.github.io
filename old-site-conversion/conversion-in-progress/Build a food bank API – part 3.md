@@ -6,8 +6,6 @@ redirect_from:
   - /build-a-food-bank-api-part-3/
 ---
 
-# Build a food bank API – part 3
-
 *Read [part 1](https://www.martinlugton.com/build-a-food-bank-api-part-1/) or [part 2](https://www.martinlugton.com/build-a-food-bank-api-part-2/) of this project to find out the background to this post.*
 
 The API now exists online.

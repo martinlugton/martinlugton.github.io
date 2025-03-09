@@ -6,8 +6,6 @@ redirect_from:
   - /how-to-design-usable-multi-page-articles/
 ---
 
-# How to design usable multi-page articles
-
 In-depth digital articles can be hard to navigate. Dividing them into different sections can make things easier.
 
 For example, at Mind, we split our information on [depression](http://www.mind.org.uk/information-support/types-of-mental-health-problems/depression/) into subsections, so that if you want to quickly navigate to “Symptoms”, “Causes”, “Self-help, treatment and support”, “How can friends and family help” (etc) you can do so. It also helps people understand the content that the article will cover much more easily than requiring them to navigate through a single long page of text.

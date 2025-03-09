@@ -6,8 +6,6 @@ redirect_from:
   - /paulo-freire-pedagogy-oppressed-banking-and-libertarian-models-of-education/
 ---
 
-# Paulo Freire: Pedagogy of the Oppressed – the banking and libertarian models of education
-
 *This is a summary of Paulo Freire’s explanation of the banking and libertarian models of education, from The Pedagogy of the Oppressed (1996 Penguin Edition).*
 
 The point of education and human action is “the individual’s ontological and historical vocation to be more fully human.” (37)

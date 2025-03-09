@@ -6,8 +6,6 @@ redirect_from:
   - /10-tweet-summary-nfp-tweetup-33/
 ---
 
-# 10 tweet summary of NFP Tweetup 33
-
 *This [NFP Tweetup](https://www.eventbrite.co.uk/e/nfptweetup-33-hosted-by-justgiving-tickets-34253592417) included sessions on PPC, Oxfam’s digital fundraising work – and app – and Cancer Research UK’s digital transformation. Lots of great ideas were shared – I’ve tried to pull out 10 of the very best tweets to summarise the event.*
 
 ### The Case for Investing in Adwords – Kate Sanger, Head of Communications at Jo’s Cervical Cancer Trust

@@ -6,8 +6,6 @@ redirect_from:
   - /what-i-learnt-from-courseras-operations-management-course/
 ---
 
-# What I learnt from Coursera’s Operations Management course
-
 Recently I completed [Coursera’s Introduction to Operations Management](https://class.coursera.org/operations-004) course. The course was made up of 5 units.
 
 ### Course outline

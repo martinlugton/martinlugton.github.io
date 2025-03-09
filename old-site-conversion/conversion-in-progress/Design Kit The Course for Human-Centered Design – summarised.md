@@ -6,8 +6,6 @@ redirect_from:
   - /design-kit-course-human-centered-design-summarised/
 ---
 
-# ​​Design Kit: The Course for Human-Centered Design – summarised
-
 *Some highlights from my notes from Ideo and +Acumen’s [Design Kit](http://www.designkit.org/): The Course for Human-Centered Design.*
 
 ### The steps of the Human-Centered Design process

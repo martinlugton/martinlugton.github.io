@@ -6,8 +6,6 @@ redirect_from:
   - /social-sharing-design-recommendations/
 ---
 
-# Social sharing – observations and recommendations
-
 I’ve surveyed the social sharing options on a number of news publication websites, to see if there are any common or best practices. Here’s what I found:
 
 - **Facebook and twitter are seen as the most important sharing networks**.

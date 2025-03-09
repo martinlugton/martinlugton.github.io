@@ -6,8 +6,6 @@ redirect_from:
   - /next-frontiers-interaction-design/
 ---
 
-# What are the next frontiers in interaction design?
-
 Voice assistants – such as Siri and Alexa – are becoming viable because the accuracy of speech recognition has increased significantly through machine learning.
 
 I’m concerned about the political ramifications of the technical underpinnings of voice interfaces. Voice recognition has advanced through access to lots of data, and machine learning. This means that for people to use this interaction medium, they need to be using tools provided by big providers like Apple, Amazon and Google. How easily will people be able to create their own voice interfaces without relying on a corporate provider? How easily will you be able to identify the thing that you’re interacting with, the logic it’s driven by, and who ultimately owns and controls the means of interaction? What is the product, and what generates value and to/for who?

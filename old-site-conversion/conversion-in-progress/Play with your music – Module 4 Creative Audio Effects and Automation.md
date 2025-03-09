@@ -6,8 +6,6 @@ redirect_from:
   - /play-with-your-music-module-4-creative-audio-effects-and-automation/
 ---
 
-# Play with your music – Module 4: Creative Audio Effects and Automation
-
 This week in Play with your music we’ve been looking at a few basic effects that you can apply to individual tracks of audio while mixing: delay, reverb, EQ and compression. This week’s assignment was to create a version of “Air Traffic” with some effects applied. An optional task was to use this to create a new dynamic mix of air traffic. The optional task sounded like a fun extension so I tackled this too.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="Play%20with%20your%20music%20%E2%80%93%20Module%204%20Creative%20Audio%20Effects%20and%20Automation%20%E2%80%93%20Martin%20Lugton_files/a.htm"></iframe>

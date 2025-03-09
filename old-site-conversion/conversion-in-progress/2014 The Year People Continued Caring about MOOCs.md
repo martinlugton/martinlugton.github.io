@@ -6,8 +6,6 @@ redirect_from:
   - /2014-the-year-people-continued-caring-about-moocs/
 ---
 
-# 2014: The Year People Continued Caring about MOOCs
-
 The Chronicle of Higher Education asks [if 2014 is the year that the media stopped caring about MOOCs](http://chronicle.com/blogs/wiredcampus/2014-the-year-the-media-stopped-caring-about-moocs/51737) (massive open online courses).
 
 Rather than extrapolating from a single incident, as the Chronicle piece does, [Stephen Downes has found media activity on MOOCs be more stable](http://halfanhour.blogspot.ca/2014/04/measuring-mooc-media.html).

@@ -6,8 +6,6 @@ redirect_from:
   - /agile-foundation-key-insights-bcs-course/
 ---
 
-# Agile Foundation – some key insights from the BCS course
-
 In May this year I obtained the BCS Agile Foundation certification. Here are some of the key insights.
 
 ### Project variables

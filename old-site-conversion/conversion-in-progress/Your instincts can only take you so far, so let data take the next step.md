@@ -6,8 +6,6 @@ redirect_from:
   - /your-instincts-can-only-take-you-so-far-so-let-data-take-the-next-step/
 ---
 
-# Your instincts can only take you so far, so let data take the next step
-
 Alternative title: “What ear wax taught me about being a digital communicator”.
 
 Being creative and having lots of different ideas is fantastic. But as a digital communicator this is not the end of your job. You can relentlessly use data and evidence to improve your work and focus in on the best ideas. Or, in the case of Google Adwords, you can let an algorithm do this for you.

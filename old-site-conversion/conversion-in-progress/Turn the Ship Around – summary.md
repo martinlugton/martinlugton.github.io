@@ -6,8 +6,6 @@ redirect_from:
   - /turn-the-ship-around-summary/
 ---
 
-# Turn the Ship Around – summary
-
 *David Marquet’s [Turn the Ship Around](https://davidmarquet.com/turn-the-ship-around-book/) is a great book on the power of intent-based leadership, of working with your team’s intelligence rather than treating people as order-following automatons. Here’s a summary of the key points.*
 
 ## Treating people as followers or as cogs in a machine is wasteful

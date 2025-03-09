@@ -6,8 +6,6 @@ redirect_from:
   - /agile-planning-plan-quickly-collaboratively/
 ---
 
-# Agile Planning – How to plan quickly and collaboratively
-
 *Summary of the 02/08/2016 [Digital Project Managers meetup on agile planning](http://www.meetup.com/london-digital-project-managers/events/232052078/).*
 
 ### Estimating jobs

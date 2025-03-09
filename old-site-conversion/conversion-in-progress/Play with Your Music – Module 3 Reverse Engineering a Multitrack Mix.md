@@ -6,8 +6,6 @@ redirect_from:
   - /play-with-your-music-module-3-reverse-engineering-a-multitrack-mix/
 ---
 
-# Play with Your Music – Module 3: Reverse Engineering a Multitrack Mix
-
 The third module of “Play with your Music” is about the mixing process: taking individual tracks of recorded instruments and vocals, and arranging them together into a cohesive whole.
 
 The first part of this week’s assignment was to reproduce Clara Berry & Wooldog’s “Air traffic”, by setting the volume and pan (left-right) for each track. This reproduction is to create a “convergent” mix. The task was to make a static mix, so we’d just have to find a single setting for each track, rather than adjusting things over the course of the track.

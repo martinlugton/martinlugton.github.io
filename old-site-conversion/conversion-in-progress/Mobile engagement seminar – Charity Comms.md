@@ -6,8 +6,6 @@ redirect_from:
   - /mobile-engagement-seminar-charity-comms/
 ---
 
-# Mobile engagement seminar – Charity Comms
-
 *Summary of [Charity Comms’ Mobile Engagement seminar, 23 March 2016](http://www.charitycomms.org.uk/events/mobile-engagement-seminar). I attended via Periscope, and share a few observations on this experience at the end.*
 
 In August 2015, OFCOM announced that [smartphones are now the most used internet device](http://media.ofcom.org.uk/news/2015/cmr-uk-2015/)  

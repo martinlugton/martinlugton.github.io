@@ -6,8 +6,6 @@ redirect_from:
   - /what-is-scrum-at-scale/
 ---
 
-# What is Scrum@Scale?
-
 *Yesterday’s [Digital Project Managers London meetup](https://www.meetup.com/agileDPML/events/252328300/) looked at the Scrum @ Scale framework.*
 
 *The event was mostly questions and answers, so what follows is a blend of that material, bolstered with content from the [Scrum @ Scale website](https://www.scrumatscale.com/scrum-at-scale-guide-read-online/).*

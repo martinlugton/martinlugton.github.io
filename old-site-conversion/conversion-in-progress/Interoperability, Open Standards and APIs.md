@@ -6,8 +6,6 @@ redirect_from:
   - /interoperability-open-standards-and-apis/
 ---
 
-# Interoperability, Open Standards and APIs
-
 *I recently attended [GDS Tech Talks: Interoperability and Open Standards](https://www.eventbrite.co.uk/e/gds-tech-talks-interoperability-and-open-standards-tickets-89225117729#). Here are my notes on the sessions I attended.*
 
 ## What’s new in Web Standards? – Dan Appelquist

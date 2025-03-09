@@ -6,8 +6,6 @@ redirect_from:
   - /cross-government-design-meeting-33-measuring-success-18-1-22/
 ---
 
-# Cross-government design meeting #33: Measuring success – 18/1/22
-
 *The cross-government design community runs great events. Here are some highlights from my notes from [last week’s session on measuring success](https://www.eventbrite.co.uk/e/cross-government-design-meeting-33-measuring-success-tickets-243676552127).*
 
 ## Measuring the value of service transformation – Matthew Lyon, Head of Economics and Analysis, Central Digital and Data Office (Cabinet Office)

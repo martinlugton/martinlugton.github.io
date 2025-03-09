@@ -6,8 +6,6 @@ redirect_from:
   - /testing-two-wordpress-gutenberg-prototypes/
 ---
 
-# Testing two WordPress Gutenberg prototypes
-
 *I carried out three user testing sessions of two prototypes of the new editor for WordPress. Users were confident in their digital skills. Here are the results.*
 
 ### Key observations

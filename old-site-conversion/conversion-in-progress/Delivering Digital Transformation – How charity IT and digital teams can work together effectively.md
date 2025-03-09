@@ -6,8 +6,6 @@ redirect_from:
   - /delivering-digital-transformation-how-charity-it-digital-teams-can-work-together-effectively/
 ---
 
-# Delivering Digital Transformation – How charity IT and digital teams can work together effectively
-
 Some key points of interest that I gleaned from Charity Comms’ [Digital transformation: How to get it right in your organisation](http://www.charitycomms.org.uk/articles/digital-transformation-how-to-get-it-right-in-your-organisation)
 
 ### The division of work between digital and IT is often unclear

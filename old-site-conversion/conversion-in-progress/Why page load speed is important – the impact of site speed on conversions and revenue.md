@@ -6,8 +6,6 @@ redirect_from:
   - /page-load-speed-important-impact-site-speed-conversions-revenue/
 ---
 
-# Why page load speed is important – the impact of site speed on conversions and revenue
-
 Visitors expect your website to load quickly, and will leave if you make them wait too long. People will leave in a matter of seconds, and fractions of a second are significant here. Designing an attractive and usable website is important, but its performance shapes how it is used in practice. If visitors don’t even load your page, there’s no chance of them converting, and this reduction in conversions hurts your profitability. Taking a positive view of this behaviour, there’s an opportunity to increase conversions simply by improving your page speed.
 
 ### Evidence for the impact of page load speed on business performance

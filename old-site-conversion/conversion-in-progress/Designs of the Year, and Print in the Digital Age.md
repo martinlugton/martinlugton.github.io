@@ -6,8 +6,6 @@ redirect_from:
   - /designs-year-print-digital-age/
 ---
 
-# Designs of the Year, and Print in the Digital Age
-
 *Here are my highlights from the [Designs of the Year exhibition](https://designmuseum.org/exhibitions/beazley-designs-of-the-year) at the London Design Museum.*
 
 ### Warka Water

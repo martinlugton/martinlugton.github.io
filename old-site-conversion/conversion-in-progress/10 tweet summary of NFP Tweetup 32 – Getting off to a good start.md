@@ -6,8 +6,6 @@ redirect_from:
   - /10-tweet-summary-nfp-tweetup-32-getting-off-to-a-good-start/
 ---
 
-# 10 tweet summary of NFP Tweetup 32 – Getting off to a good start
-
 *Here’s a 10 tweet summary of last night’s NFP Tweetup. I wasn’t actually able to attend the event, but that’s no barrier to summarising the best material from twitter 🙂*
 
 ### Innovation and failure – Luke Williams, RNLI

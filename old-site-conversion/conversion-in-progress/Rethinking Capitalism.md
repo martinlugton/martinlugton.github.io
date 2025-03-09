@@ -6,8 +6,6 @@ redirect_from:
   - /rethinking-capitalism/
 ---
 
-# Rethinking Capitalism
-
 *Notes on a lecture by Eric Beinhocker on ‘The economy as a complex and evolving system’*
 
 <iframe title="W5 academic lecture - Eric Beinhocker: The economy as a complex and evolving system" width="640" height="360" src="Rethinking%20Capitalism%20%E2%80%93%20Martin%20Lugton_files/7-RdnoxSZiM.htm" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>

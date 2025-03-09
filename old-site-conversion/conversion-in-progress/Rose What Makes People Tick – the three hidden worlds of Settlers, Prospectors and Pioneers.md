@@ -6,8 +6,6 @@ redirect_from:
   - /rose-what-makes-people-tick-the-three-hidden-worlds-of-settlers-prospectors-and-pioneers/
 ---
 
-# Rose: What Makes People Tick – the three hidden worlds of Settlers, Prospectors and Pioneers
-
 *Chris Rose argues that the population is divided into three ‘values groups’, each of which relate to the world differently. To be effective, communications have to be targeted to the specific needs of each group.*
 
 *The core points can be summarised quite easily, but I’d recommend reading the full text to enjoy the examples and case studies. My edition was published by Matador, 2011 (2013 reprint).*

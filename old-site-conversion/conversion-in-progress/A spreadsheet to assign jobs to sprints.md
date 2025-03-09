@@ -6,8 +6,6 @@ redirect_from:
   - /spreadsheet-assign-jobs-sprints/
 ---
 
-# A spreadsheet to assign jobs to sprints
-
 If you’re following an Agile project management process, and know your development capacity, I’ve made a spreadsheet that automatically assigns a prioritised backlog to sprints, and gives ETAs for each job. You’re welcome to [download this semi-automatic-sprint-planning-spreadsheet](http://www.martinlugton.com/wp-content/uploads/2016/10/semi-automatic-sprint-planning-spreadsheet.ods). (ODS format)
 
 The spreadsheet uses a macro to automatically allocate jobs to sprints.

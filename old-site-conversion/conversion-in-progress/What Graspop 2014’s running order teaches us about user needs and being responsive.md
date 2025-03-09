@@ -6,8 +6,6 @@ redirect_from:
   - /what-graspop-2014s-running-order-teaches-us-about-user-needs-and-being-responsive/
 ---
 
-# What Graspop 2014’s running order teaches us about user needs and being responsive
-
 When attending a music festival, your most important decisions relate to which bands to see, and when and where they are playing.<a href="#smallprint">*</a>
 
 You want to know which bands clash with each other; you want to be able to work out how long you can spend checking out a new band before leaving to get to the front in time for a band you know you’re going to enjoy.

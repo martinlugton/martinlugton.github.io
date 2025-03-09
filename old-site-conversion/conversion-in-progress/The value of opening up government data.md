@@ -6,8 +6,6 @@ redirect_from:
   - /the-value-of-opening-up-government-data/
 ---
 
-# The value of opening up government data
-
 *I presented at the British Library’s event “[Open and Engaged](https://blogs.bl.uk/living-knowledge/2018/11/open-and-engaged-open-access-week-at-the-british-library.html)” as part of Open Access week on 22 October 2018, on the value of opening up government data. [Here are the slides](https://docs.google.com/presentation/d/13Wh3n6FclI7e9vgi1RZCAsg3kVJFdUX5nwOKrFF9dy4/edit?ts=5c20b748#slide=id.g10d42026b8_2_0), which I’ve adapted into the following post, with a post-script of additions generously suggested by the ever-excellent [Steve Messer](https://visitmy.website/).*
 
 ## Why has government opened up data?

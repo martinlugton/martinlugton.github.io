@@ -6,8 +6,6 @@ redirect_from:
   - /learning-from-corporates-10-tweet-summary-nfp-tweetup-28/
 ---
 
-# Learning from corporates? – a 10 tweet summary of NFP tweetup 28
-
 ## Anthony Leung, Social Media Manager at Just Eat
 
 Just Eat base their social strategy on engagement. Reach and audience size arise out of this. Anthony advises against doing things the other way round: focusing on growing follower numbers can be self-defeating as you under-invest in engagement and lose followers in the long-run.

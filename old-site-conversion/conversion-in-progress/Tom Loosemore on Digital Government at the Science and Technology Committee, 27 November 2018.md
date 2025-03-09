@@ -6,8 +6,6 @@ redirect_from:
   - /tom-loosemore-on-digital-government-at-the-science-and-technology-committee-27-november-2018/
 ---
 
-# Tom Loosemore on Digital Government at the Science and Technology Committee, 27 November 2018
-
 *Tom Loosemore was [interviewed by the Parliamentary Science and Technology Committee on 27 November 2018](https://videoplayback.parliamentlive.tv/Player/Index/abfe49d3-f24c-4b93-b8e4-840ff9f03794). Tom was Deputy Director at the Government Digital Service 2011-15. He has a good reputation and I wanted to hear what he had to say. I found him an articulate, expert and passionate advocate of doing digital properly. I pulled out a few notes that struck me.*
 
 He described [Martha Lane Fox’s report on digital government](https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox) as “deliberately a very large stone thrown in a fetid pond”.

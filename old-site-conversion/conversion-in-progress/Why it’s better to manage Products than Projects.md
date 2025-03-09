@@ -6,8 +6,6 @@ redirect_from:
   - /why-its-better-to-manage-products-than-projects/
 ---
 
-# Why it’s better to manage Products than Projects
-
 *The different between* project *and* product *manager might sound semantic, but is actually quite significant. This post gives an overview of the differences, and explains why I think product management is the better approach.*
 
 ### Project management

@@ -6,8 +6,6 @@ redirect_from:
   - /dont-worry-starting-blank-canvas/
 ---
 
-# Don’t worry about starting with a blank canvas
-
 When starting a new project/product job, I used to worry about starting with a blank canvas. Now I’m more alert to the challenges of established systems.
 
 Earlier in my career, when starting a new project I’d wonder: Where will I begin? How will I set up the right structures, ways of thinking?

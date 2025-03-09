@@ -6,8 +6,6 @@ redirect_from:
   - /why-its-important-to-backup-your-content-databases/
 ---
 
-# Why it’s important to backup your content database(s)
-
 I went to share an [exciting hearing research story](http://www.deafnessresearch.org.uk/blog/new-research-on-regenerating-sensory-hair-cells-in-mammals/) on twitter this evening and found that the link wasn’t working properly. Rather than a short blog post on an impressive piece of research, however, I arrived at the following screen:
 
 ![could not complete the search - error message](Why%20it%E2%80%99s%20important%20to%20backup%20your%20content%20database(s)%20%E2%80%93%20Martin%20Lugton_files/could-not-complete-the-search.png)

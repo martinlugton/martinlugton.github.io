@@ -6,8 +6,6 @@ redirect_from:
   - /what-is-service-design/
 ---
 
-# What is Service Design?
-
 A service is a thing to help users to achieve a goal. It’s a series of touchpoints to achieve an outcome. e.g. ‘start a business’, ‘learn to drive a car’.
 
 A service starts with a need and an idea of the outcome, but no clear idea of how this will be achieved.

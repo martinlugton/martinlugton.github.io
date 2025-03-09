@@ -6,8 +6,6 @@ redirect_from:
   - /10-tweet-summary-nfp-tweetup-30
 ---
 
-# A 10 tweet summary of NFP tweetup 30
-
 *After a short hiatus, the [NFP tweetup](http://www.eventbrite.co.uk/e/nfptweetup-30-9-june-2016-tickets-25771964640) has returned – this time held at JustGiving’s offices. Here are ten particularly illuminating tweets from the event:*
 
 ### @LucyCaldicott & @Skipinder set up a Facebook group for fundraising discussion

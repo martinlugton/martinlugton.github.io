@@ -6,8 +6,6 @@ redirect_from:
   - /jobs-to-be-done-on-gov-uk/
 ---
 
-# Jobs to be Done on GOV.UK
-
 A few months ago [Imeh Akpan](https://twitter.com/imeh_akpan) ran a session for GOV.UK Product Managers going over the Jobs to Be Done Framework. She’s been looking into how we might use it to think about our users better.
 
 Jobs to Be Done is about understanding the underlying problem.

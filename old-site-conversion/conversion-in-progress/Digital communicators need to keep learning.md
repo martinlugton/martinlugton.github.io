@@ -6,8 +6,6 @@ redirect_from:
   - /digital-communicators-need-keep-learning/
 ---
 
-# Digital communicators need to keep learning
-
 To be a good digital communicator is to be a lifelong learner.
 
 The digital landscape keeps changing. Google alters its search algorithm; new services and platforms are released; user devices and expectations evolve; web standards develop; a new version of HTML or CSS is released; the legislative context shifts as the EU’s cookie laws are implemented. This means that our practices – and our instincts – need to be forever questioned and improved.

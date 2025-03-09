@@ -6,8 +6,6 @@ redirect_from:
   - /page-load-speed-of-top-10-uk-charity-brand-websites/
 ---
 
-# Page load speed of top 10 UK charity brand websites
-
 Visitors like fast websites, and your [digital performance suffers if your site loads slowly](http://www.martinlugton.com/page-load-speed-important-impact-site-speed-conversions-revenue/). How fast are UK charity websites, and which charity has the fastest website?
 
 I’ve surveyed the websites of the top 10 UK charity brands, as identified by the [2014 Charity Brand Index](http://www.thirdsector.co.uk/cancer-research-uk-named-best-charity-brand-2014/communications/article/1309460). From a performance perspective, the ideal is to have a site that loads quickly, and for the amount of downloading required to be as small as possible. So you want a low ‘load time’ and a low ‘page weight’.

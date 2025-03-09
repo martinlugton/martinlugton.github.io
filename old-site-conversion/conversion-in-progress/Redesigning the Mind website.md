@@ -6,8 +6,6 @@ redirect_from:
   - /redesigning-mind-website/
 ---
 
-# Redesigning the Mind website
-
 In 2013 we redesigned the Mind website, to make it easier for people to use.
 
 Lots of people told us that the old website was hard to use, and sometimes overwhelming. We wanted to make our website easier to use, so that people can seek our help sooner, get behind our campaigns, and support us more generously.

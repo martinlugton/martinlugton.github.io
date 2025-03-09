@@ -6,8 +6,6 @@ redirect_from:
   - /sources-insight-inspiration-used-gov-uk-product-managers/
 ---
 
-# Sources of insight and inspiration used by GOV.UK Product Managers
-
 * A list that came out of a GOV.UK Product Manager community hour I facilitated recently.*
 
 ## Blogs

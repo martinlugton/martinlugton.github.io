@@ -6,8 +6,6 @@ redirect_from:
   - /advice-on-learning-computer-programming/
 ---
 
-# Advice on learning computer programming
-
 I dived into learning programming in 2012. If you’re interested in doing the same I’d like to share some of my recommendations with you.
 
 For the last year or two, there’s been a lot of buzz around efforts to introduce more people to programming. We’ve seen the launch of online platforms like Coursera, Udacity, and EdX, all leading their offerings with computer science courses. The Code Academy startup offers interactive coding lessons. We’ve seen changes to the UK’s secondary ICT / Computer Science curriculum to make things more about programming and less about subservient use of MS Office. Last year saw the launch of the $25 Raspberry Pi computer to encourage young people to tinker, play, and experiment.

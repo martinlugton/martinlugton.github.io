@@ -6,8 +6,6 @@ redirect_from:
   - /resolving-team-tension/
 ---
 
-# Resolving team tension
-
 *Summary of some recent training that I attended on resolving team tension. Trust and psychological safety are central to my leadership style, so I was pleased to learn about Lencioni’s 5 dysfunctions of a team and how trust is at the foundation of effective teams.*
 
 ## Healthy tension and unhealthy tension

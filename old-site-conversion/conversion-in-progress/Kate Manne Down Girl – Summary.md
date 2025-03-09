@@ -6,8 +6,6 @@ redirect_from:
   - /kate-manne-down-girl-summary/
 ---
 
-#Kate Manne: Down Girl – Summary
-
 ### Patriarchy is supported by misogyny and sexism
 
 Misogyny is a system of hostile forces that polices and enforces patriarchal order.

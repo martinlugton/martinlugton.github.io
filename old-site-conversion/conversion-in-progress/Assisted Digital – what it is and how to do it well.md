@@ -6,8 +6,6 @@ redirect_from:
   - /assisted-digital-what-it-is-and-how-to-do-it-well/
 ---
 
-# Assisted Digital – what it is and how to do it well
-
 ## What is Assisted Digital?
 
 There will always be people who won’t or can’t use digital services:

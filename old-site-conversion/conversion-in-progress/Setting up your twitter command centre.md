@@ -6,8 +6,6 @@ redirect_from:
   - /setting-up-your-twitter-command-centre/
 ---
 
-# Setting up your twitter command centre
-
 If you’re following more than fifty people on twitter, watching everything in a single stream of activity on twitter.com is probably tiring and frustrating.
 
 The constant rush of messages can feel overwhelming, and it’s hard to make sense of what’s most important. If you follow accounts covering different topics, the diverse tweets can blend together into a confusing and unhelpful sludge.

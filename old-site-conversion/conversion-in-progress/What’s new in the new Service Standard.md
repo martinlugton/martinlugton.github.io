@@ -6,8 +6,6 @@ redirect_from:
   - /whats-new-in-the-new-service-standard/
 ---
 
-# What’s new in the new Service Standard
-
 The Government Digital Service recently launched a new version of the [Service Standard](https://www.gov.uk/service-manual/service-standard). What’s changed?
 
 - It’s now called the Service Standard, not the Digital Service Standard. This reflects the desire to create end-to-end services. This is better than creating digital services, and then (if you’re lucky) [considering assisted digital as an afterthought](https://www.martinlugton.com/assisted-digital-what-it-is-and-how-to-do-it-well/). People are encouraged to provide a joined up experience across channels. What’s the user experience like if a user phones or emails you?

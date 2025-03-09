@@ -6,8 +6,6 @@ redirect_from:
   - /achieving-extraordinary-results-with-ordinary-people-marty-cagan/
 ---
 
-# Achieving Extraordinary Results with Ordinary People – Marty Cagan
-
 *Notes from a talk by Marty Cagan, at a Product People meetup hosted at [Geovation](https://geovation.uk/) on 19 October. Marty Cagan is from Silicon Valley Product Group has worked at places like Netscape and eBay back in the day, and advises lots of startups on how to do tech product management.*
 
 ### Empowered teams
