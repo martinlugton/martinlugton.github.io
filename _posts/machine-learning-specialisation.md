@@ -1,6 +1,8 @@
 ---
 title: "Summary of Machine Learning Specialisation from Stanford and DeepLearning.AI"
 permalink: /machine-learning-specialisation
+layout: post
+date: 2024-28-12T18:30:00+00:00
 ---
 
 _This year I completed [Stanford / DeepLearning.AI’s Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction). In this post I summarise the high-level points, glossing over the technical complexity._
