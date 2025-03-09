@@ -1,4 +1,3 @@
-
 ---
 title: "Why I disagree with GamerGate"
 permalink: /why-i-disagree-with-gamergate
