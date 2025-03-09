@@ -1,5 +1,5 @@
 ---
-title: "Testing two WordPress Gutenberg prototypes – Martin Lugton"
+title: "Testing two WordPress Gutenberg prototypes"
 permalink: /testing-two-wordpress-gutenberg-prototypes
 date: 2017-02-18T21:15:27+00:00
 redirect_from:

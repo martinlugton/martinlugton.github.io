@@ -1,5 +1,5 @@
 ---
-title: "How to change the world – Mike Monteiro – Martin Lugton"
+title: "How to change the world – Mike Monteiro"
 permalink: /how-to-change-the-world-mike-monteiro-martin-lugton
 date: 2017-02-25T14:55:54+00:00
 redirect_from:

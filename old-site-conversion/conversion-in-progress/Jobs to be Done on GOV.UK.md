@@ -1,5 +1,5 @@
 ---
-title: "Jobs to be Done on GOV.UK – Martin Lugton"
+title: "Jobs to be Done on GOV.UK"
 permalink: /jobs-to-be-done-on-gov-uk
 date: 2018-12-23T21:07:55+00:00
 redirect_from:

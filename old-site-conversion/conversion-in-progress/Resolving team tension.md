@@ -1,5 +1,5 @@
 ---
-title: "Resolving team tension – Martin Lugton"
+title: "Resolving team tension"
 permalink: /resolving-team-tension
 date: 2022-03-02T11:56:01+00:00
 redirect_from:

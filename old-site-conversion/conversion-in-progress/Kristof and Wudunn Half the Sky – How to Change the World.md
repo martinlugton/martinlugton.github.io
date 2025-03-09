@@ -1,5 +1,5 @@
 ---
-title: "Kristof and Wudunn: Half the Sky – How to Change the World – Martin Lugton"
+title: "Kristof and Wudunn: Half the Sky – How to Change the World"
 permalink: /kristof-and-wudunn-half-the-sky-how-to-change-the-world-martin-lugton
 date: 2015-07-31T22:44:31+00:00
 redirect_from:

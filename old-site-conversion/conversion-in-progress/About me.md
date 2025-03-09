@@ -1,5 +1,5 @@
 ---
-title: "About me – Martin Lugton"
+title: About me
 permalink: /about-me
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Page load speed of top 10 UK charity brand websites – Martin Lugton"
+title: "Page load speed of top 10 UK charity brand websites"
 permalink: /page-load-speed-of-top-10-uk-charity-brand-websites
 date: 2015-08-12T11:02:28+00:00
 redirect_from:

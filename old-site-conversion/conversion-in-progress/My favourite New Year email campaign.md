@@ -1,5 +1,5 @@
 ---
-title: "My favourite New Year email campaign – Martin Lugton"
+title: "My favourite New Year email campaign"
 permalink: /my-favourite-new-year-email-campaign
 date: 2013-01-08T10:00:00+00:00
 redirect_from:
