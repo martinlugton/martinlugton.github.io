@@ -6,8 +6,6 @@ redirect_from:
   - /cognitive-technologies-real-opportunities-business-course-notes/
 ---
 
-# Cognitive Technologies – the real opportunities for business – course notes
-
 *In late 2015 I completed an [online course on cognitive technology](https://novoed.com/cognitive-technology). Here’s a summary of my notes. (NB the course is free to take, and is running again from 14 March to 13 June 2016)*
 
 ### What is AI?
