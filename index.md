@@ -3,7 +3,7 @@ title: "Martin Lugton"
 permalink: /
 ---
 
-I work in tech-for-good and digital government. I'm Head of Product for Digital Service Platforms at the Government Digital Service.
+I work in tech for good and digital government. I'm Head of Product for Digital Service Platforms at the Government Digital Service.
 
 I enjoy both launching new products and the challenges of driving value from established, large-scale products.
 
