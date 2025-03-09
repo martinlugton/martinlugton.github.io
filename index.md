@@ -33,7 +33,7 @@ Want a flavour of my thinking? Here are some sample posts:
 
 - [Turn the Ship around, and intent-based leadership](https://www.martinlugton.com/turn-the-ship-around-summary)
 - [Operations Management](https://www.martinlugton.com/what-i-learnt-from-courseras-operations-management-course)
-- [Resolvoing team tension](www.martinlugton.com/resolving-team-tension)
+- [Resolving team tension](https://www.martinlugton.com/resolving-team-tension)
 
 ## Technical skills
 
