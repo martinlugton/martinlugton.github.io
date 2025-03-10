@@ -38,7 +38,7 @@ Want a flavour of my thinking? Here are some sample posts:
 
 ## Technical skills
 
-- [What I learnt by building a side project](www.martinlugton.com/what-i-learnt-by-building-a-side-project)
+- [What I learnt by building a side project](https://www.martinlugton.com/what-i-learnt-by-building-a-side-project)
 - [Building a food bank API](https://www.martinlugton.com/build-a-food-bank-api-part-1)
 - [Building a build pipeline in gitlab and heroku](https://www.martinlugton.com/how-to-create-review-apps-in-heroku-from-gitlab)
 - [Check me out on github](https://github.com/martinlugton/)
@@ -47,7 +47,7 @@ Want a flavour of my thinking? Here are some sample posts:
 
 - [A summary of Orientalism](https://www.martinlugton.com/edward-said-orientalism-summary)
 - [Pedagogy of the Oppressed](https://www.martinlugton.com/paulo-freire-pedagogy-oppressed-banking-and-libertarian-models-of-education)
-- [Play with your Music](www.martinlugton.com/play-with-your-music-module-1-analyse-your-favourite-tune-and-share-it)
+- [Play with your Music](https://www.martinlugton.com/play-with-your-music-module-1-analyse-your-favourite-tune-and-share-it)
 
 
 If you'd like to get in touch, reach me on [Linkedin](https://www.linkedin.com/in/martin-lugton)
