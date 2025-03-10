@@ -1,6 +1,7 @@
 ---
 title: "Summary of Continuous Discovery Habits by Teresa Torres"
 permalink: /continuous-discovery-habits
+date: 2024-03-18T18:00:00+00:00
 ---
 
 ## The problem

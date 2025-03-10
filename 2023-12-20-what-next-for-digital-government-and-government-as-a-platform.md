@@ -1,6 +1,7 @@
 ---
 title: "What next for digital government and Government as a Platform?"
 permalink: /what-next-for-digital-government-and-government-as-a-platform
+date: 2023-12-20T00:00:00+00:00
 ---
 
 _GDS is thinking about its strategy for 2025-30. I’m Head of Product in the Digital Service Platforms part of GDS - you might have previously known it as ‘Government as a Platform’, or ‘GaaP’. I’m having some conversations with my SMT colleagues and other well-wishers, and wanted to share some early thoughts-in-progress to elicit feedback from the many excellent thinkers on digital government. This is some early thinking about our platforms from one perspective, and not an official GDS blog post._
