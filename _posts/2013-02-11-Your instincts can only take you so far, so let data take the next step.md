@@ -14,7 +14,7 @@ When writing ad copy for pay-per click adverts, it can be impossible to predict 
 
 Who would have known that “Tips and info on ear wax / Access our expert information / on ear wax and other conditions” (3.54% clickthroughs) would be so much more effective than “Tips on ear wax / Access our expert information /on ear wax and other conditions.” (1.72% clickthroughs)? Your instincts can set up the environment for success; analytics help you focus in and achieve it.
 
-![a selection of ppc adverts for information on ear wax](Your%20instincts%20can%20only%20take%20you%20so%20far,%20so%20let%20data%20take%20the%20next%20step%20%E2%80%93%20Martin%20Lugton_files/ear-wax-adverts.png)
+![a selection of ppc adverts for information on ear wax](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/old/ear-wax-adverts.png?raw=true)
 
 Similarly, for our marathon adverts, my main idea was to produce three main types of copy: one focusing around the challenge itself, another focusing around our organisation’s mission, and another focusing on the attraction of guaranteed places. The data triangulated the best theme and the best wording.
 

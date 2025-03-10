@@ -52,7 +52,7 @@ If you connect the work to its larger purpose, and focus on doing a great job of
 
 If you give people more control to make decisions, but their technical competence isn’t strong, chaos will result. You need to build people’s technical competence to allow them to go from expecting to be told what to do, to being able to take authority and control. As competence increases, you can increase control.
 
-![A graph showing Competence on the X axis and Control on the Y axis. They scale in a linear way. More competence than control and you have wasted talent. More control than competence and you have chaos.](Turn%20the%20Ship%20Around%20%E2%80%93%20summary%20%E2%80%93%20Martin%20Lugton_files/Competence-and-Control.png)
+![A graph showing Competence on the X axis and Control on the Y axis. They scale in a linear way. More competence than control and you have wasted talent. More control than competence and you have chaos.](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Competence-and-Control.png?raw=true)
 
 Marquet advises that if you want a training programme that people actually want to go to, focus it on increasing technical competence. And delegate increased decision making as a result of passing the training.
 

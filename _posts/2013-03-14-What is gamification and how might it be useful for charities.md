@@ -8,8 +8,6 @@ redirect_from:
 
 Gamify This! – NFP Tweetup 18, 13 March 2013. I’ve picked 10 or so tweets to summarise the evening, and added in some of my own notes.
 
-![NFPtweetup](What%20is%20gamification%20and%20how%20might%20it%20be%20useful%20for%20charities%20%E2%80%93%20Martin%20Lugton_files/nfptweetuplogo_normal.jpg)
-
 ## Gamification is making an activity more like a game.
 
 The definition of ‘game’ used here encompasses rewards, external markers of success, and (often) competition; but it also incorporates play, fun and collaboration.

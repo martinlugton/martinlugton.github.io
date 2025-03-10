@@ -18,17 +18,17 @@ The key point is that you have scaled daily scrums going up the organisational h
 
 You have scrums, scrums of scrums and (if you need it) scrums of scrums of scrums. The scrums above the normal scrum are delivery focused – so made up of Scrum Masters or Delivery Managers. Focused on the ‘How’.
 
-![Scrum of Scrums](What%20is%20Scrum@Scale%20%E2%80%93%20Martin%20Lugton_files/Scrum-of-Scrums.png)
+![Scrum of Scrums](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Scrum-of-Scrums.png?raw=true)
 
 The highest scrum is at executive level. This Executive Action Team has the political and financial power to unblock impediments. So if a team needs a policy change it can get senior attention on it that same day. (Of course, that senior level chooses what it wants to do with that escalated issue.)
 
-![Executive Action Team](What%20is%20Scrum@Scale%20%E2%80%93%20Martin%20Lugton_files/Executive-Action-Team.png)
+![Executive Action Team](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Executive-Action-Team.png?raw=true)
 
 This Executive Action Team has a transparent backlog and ideally daily standups. It’s responsible for the transformation backlog and for the quality implementation of Scrum in the organisation.
 
 There’s an equivalent Product Owner / Product Manager framework, focused on the ‘What’ and the ‘Why’. It includes key stakeholders, not just Product people. On a sprint by sprint basis you have coordination of backlog prioritization at each of these levels.
 
-![MetaScrum](What%20is%20Scrum@Scale%20%E2%80%93%20Martin%20Lugton_files/MetaScrum.png)
+![MetaScrum](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/MetaScrum.png?raw=true)
 
 The MetaScrum exists to:
 
@@ -43,4 +43,4 @@ MetaScrums can scale up like Scrums of Scrums can.
 
 You get up to the executive meta scrum level. At this level, organizational vision and strategy is set, aligning all teams around common goals.
 
-![Executive MetaScrum](What%20is%20Scrum@Scale%20%E2%80%93%20Martin%20Lugton_files/Executive-MetaScrum.png)
+![Executive MetaScrum](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Executive-MetaScrum.png?raw=true)

@@ -38,6 +38,6 @@ Just behind it in the mix sit the distant, tranquil, male vocals; wavering sligh
 
 There are other instruments too – a smooth, firm and unobtrusive bass guitar part in the centre of the mix, additional guitar and vocal parts in left and right channels, vocal harmonies, an acoustic guitar, backing vocals later and a symbol – but the track is defined by this interplay of vocal and guitar over the bass. The parts where the guitar climbs up one channel, and the vocals climb up another, and the two intertwine, are particularly pretty.
 
-![Perceived Space Graph for Sur l'océan couleur de fer](Play%20with%20Your%20Music%20%E2%80%93%20Module%201%20Analyse%20your%20favourite%20tune%20and%20share%20it%20%E2%80%93%20Martin%20Lugton_files/%2523PWYM%2520Perceived%2520Space%2520Graph%2520for%2520Sur%2520l'oc%25C3%25A9.png)
+![Perceived Space Graph for Sur l'océan couleur de fer](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/%23PWYM%20Perceived%20Space%20Graph%20for%20Sur%20l'oc%C3%A9.png?raw=true)
 
 I enjoyed this exercise, and it’s helped me to be more attentive to what I’m listening to. I hadn’t noticed the acoustic guitar that is used towards the end of the track, for example.

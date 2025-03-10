@@ -12,9 +12,9 @@ I’ve surveyed the websites of the top 10 UK charity brands, as identified by t
 
 Here’s how the sites compare:
 
-![Graph displaying load time of the top 10 UK charity brand websites](Page%20load%20speed%20of%20top%2010%20UK%20charity%20brand%20websites%20%E2%80%93%20Martin%20Lugton_files/Load-time-of-the-top-10-UK-charity-websites.png)
+![Graph displaying load time of the top 10 UK charity brand websites](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Load-time-of-the-top-10-UK-charity-websites.png?raw=true)
 
-![Graph displaying page weight of the top 10 UK charity brand websites](Page%20load%20speed%20of%20top%2010%20UK%20charity%20brand%20websites%20%E2%80%93%20Martin%20Lugton_files/Page-weight-of-the-top-10-UK-charity-websites.png)
+![Graph displaying page weight of the top 10 UK charity brand websites](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Page-weight-of-the-top-10-UK-charity-websites.png?raw=true)
 
 - **BBC Children in Need and Comic Relief had the fastest home pages.**
 - If you’re commissioning a new website, or want to improve the performance of your existing site, aim to beat the average performance of these sites. **Aim for pages that**:

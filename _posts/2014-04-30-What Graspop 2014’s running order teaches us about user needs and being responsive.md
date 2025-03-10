@@ -27,13 +27,13 @@ This guide went against both of these assumptions:
 
 1. As we go further down the page, as a general rule the hour does increase. But each stage goes at its own pace, so it’s hard to compare between stages.
    
-   ![meshuggah and megadeth timing old graspop 2014 running order](What%20Graspop%202014%E2%80%99s%20running%20order%20teaches%20us%20about%20user%20needs%20and%20being%20responsive%20%E2%80%93%20Martin%20Lugton_files/meshuggah-and-megadeth-timing-old-graspop-2014-running-order.png)
+   ![meshuggah and megadeth timing old graspop 2014 running order](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/meshuggah-and-megadeth-timing-old-graspop-2014-running-order.png?raw=true)
    
    Meshuggah are further down than Megadeth, but go on stage nearly 3 hours earlier.
    
 2. Bands on the same horizontal level are often playing at very different times.
    
-   ![sabaton and unida timing old graspop 2014 running order](What%20Graspop%202014%E2%80%99s%20running%20order%20teaches%20us%20about%20user%20needs%20and%20being%20responsive%20%E2%80%93%20Martin%20Lugton_files/sabaton-and-unida-timing-old-graspop-2014-running-order.png)
+   ![sabaton and unida timing old graspop 2014 running order](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/sabaton-and-unida-timing-old-graspop-2014-running-order.png?raw=true)
    
    On first glance it looks like Unida and Sabaton are playing at the same time. But if you look at the times, Sabaton actually starts 2.5 hours after Unida has finished. Plenty of time to see both.
 
@@ -57,11 +57,11 @@ The extent to which the document has changed underlines just how hard it was to 
 
 We can now compare Meshuggah and Megadeth much more easily:
 
-![graspop 2014 improved running order meshuggah megadeth](What%20Graspop%202014%E2%80%99s%20running%20order%20teaches%20us%20about%20user%20needs%20and%20being%20responsive%20%E2%80%93%20Martin%20Lugton_files/graspop-2014-improved-running-order-meshuggah-megadeth.png)
+![graspop 2014 improved running order meshuggah megadeth](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/graspop-2014-improved-running-order-meshuggah-megadeth.png?raw=true)
 
 And we can see that Unida play their set a long time before Sabaton:
 
-![new and improved graspop 2014 running order](What%20Graspop%202014%E2%80%99s%20running%20order%20teaches%20us%20about%20user%20needs%20and%20being%20responsive%20%E2%80%93%20Martin%20Lugton_files/new-and-improved-graspop-2014-running-order.png)
+![new and improved graspop 2014 running order](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/new-and-improved-graspop-2014-running-order.png?raw=true)
 
 The [new running order](https://www.graspop.be/sites/default/files/GMM14-TimeSchedule.pdf?d=29042014) is so much easier to use:
 

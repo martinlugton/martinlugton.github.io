@@ -12,9 +12,9 @@ I’ve surveyed the social sharing options on a number of news publication websi
 - **Google+ is reluctantly included**. Given [recent announcements about Google deprioritising Google+](http://www.theguardian.com/technology/2015/jul/28/google-plus-downsize-youtube), it seems likely to be even less of a focus in future designs.
 - **Most publishers aren’t using whatsapp sharing yet**. It seems to me like a good opportunity, and Buzzfeed and The Atlantic are leading the way. Some [info on setting up whatsapp sharing](http://whatsapp-sharing.com/). Note that Whatsapp desktop isn’t currently widely used.
 
-![buzzfeed social sharing options mobile](Social%20sharing%20%E2%80%93%20observations%20and%20recommendations%20%E2%80%93%20Martin%20Lugton_files/buzzfeed-social-sharing-options-mobile.png)
+![buzzfeed social sharing options mobile](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/buzzfeed-social-sharing-options-mobile.png?raw=true)
 
-![the atlantic social sharing options mobile](Social%20sharing%20%E2%80%93%20observations%20and%20recommendations%20%E2%80%93%20Martin%20Lugton_files/the-atlantic-social-sharing-options-mobile.png)
+![the atlantic social sharing options mobile](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/the-atlantic-social-sharing-options-mobile.png?raw=true)
 
 - **Few publishers are using share by text.** Again, Buzzfeed and The Atlantic lead the way. With mobile such an important part of the web traffic mix, we should plan for mobile-specific sharing options.
 - If comments are permitted, sometimes the option to comment, and the number of comments, are shown alongside social sharing options. Other times these are separate.
@@ -27,13 +27,13 @@ I’ve surveyed the social sharing options on a number of news publication websi
 - **Prioritise your top actions by making them larger.**  
   The Daily Mail has a Facebook share as its largest button, and iMore’s Facebook and twitter buttons are the largest by far.
 
-![iMore social sharing options desktop](Social%20sharing%20%E2%80%93%20observations%20and%20recommendations%20%E2%80%93%20Martin%20Lugton_files/iMore-social-sharing-options-desktop.png)
+![iMore social sharing options desktop](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/iMore-social-sharing-options-desktop.png?raw=true)
 
-![daily mail social sharing options desktop - top of article](Social%20sharing%20%E2%80%93%20observations%20and%20recommendations%20%E2%80%93%20Martin%20Lugton_files/daily-mail-social-sharing-options-desktop-top-of-article.png)
+![daily mail social sharing options desktop - top of article](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/daily-mail-social-sharing-options-desktop-top-of-article.png?raw=true)
 
 The Washington Posts’s social sharing options are quite cluttered. Perhaps some of these (e.g. tumblr and Google+) could be deprioritised or removed entirely.
 
-![washington post social sharing options mobile](Social%20sharing%20%E2%80%93%20observations%20and%20recommendations%20%E2%80%93%20Martin%20Lugton_files/washington-post-social-sharing-options-mobile.png)
+![washington post social sharing options mobile](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/washington-post-social-sharing-options-mobile.png?raw=true)
 
 - **Design with different sharing contexts in mind – e.g. mobile as well as desktop.**  
   Try out whatsapp and text sharing for mobile users only. Most people will be printing from a Desktop.

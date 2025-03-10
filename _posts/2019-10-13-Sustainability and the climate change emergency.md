@@ -28,7 +28,7 @@ Mapping cod volumes and fishing locations over time, using publicly-available da
 
 Open Seas tries to take data and turn it into public awareness and better decision-making. They also use data to spot illegal fishing.
 
-![Using boat beacon data along with geospatial data on protected areas to spot boats that have fished illegally.](Sustainability%20and%20the%20climate%20change%20emergency%20%E2%80%93%20Martin%20Lugton_files/SoundOfMull_26012019-1024x545.jpg)
+![Using boat beacon data along with geospatial data on protected areas to spot boats that have fished illegally.](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/SoundOfMull_26012019-1024x545.jpg?raw=true)
 
 ### Chris Jarvis, Environment Agency
 

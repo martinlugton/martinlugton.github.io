@@ -14,7 +14,7 @@ redirect_from:
 
 A large number of the reported causes for failed agile projects are management-related.
 
-![ranking of leading causes for agile failure, highlighting cultural factors](Management%20and%20Leadership%20of%20the%20Agile%20Organisation%20%E2%80%93%20Martin%20Lugton_files/cultural-causes-for-agile-failure.png)
+![ranking of leading causes for agile failure, highlighting cultural factors](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/cultural-causes-for-agile-failure.png?raw=true)
 
 This is down to management’s way of thinking.
 
@@ -76,9 +76,9 @@ So a superior management approach is to establish alignment on intent and give a
 - Allow each level to define how they will achieve the intent of the next level up and ‘backbrief’
 - Give individuals freedom to adjust their actions in line with intent.
 
-![diagram showing how the knowledge, alignment and effects gaps can be resolved](Management%20and%20Leadership%20of%20the%20Agile%20Organisation%20%E2%80%93%20Martin%20Lugton_files/directed-opportunism.png)
+![diagram showing how the knowledge, alignment and effects gaps can be resolved](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/directed-opportunism.png?raw=true)
 
-![graph showing impact of high and low alignment and autonomy in combination](Management%20and%20Leadership%20of%20the%20Agile%20Organisation%20%E2%80%93%20Martin%20Lugton_files/alignment-and-autonomy-axes.png)
+![graph showing impact of high and low alignment and autonomy in combination](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/alignment-and-autonomy-axes.png?raw=true)
 
 ### Some examples of this approach
 
@@ -110,4 +110,4 @@ Divest control within teams. Give teams autonomy and boundaries to work unimpede
 Encourage people to explore and challenge their personal beliefs. They’ll leave if they don’t like it.
 
 Command and and control versus team-based approaches to work:
-![diagram showing the difference between top-down and team-based approaches to work](Management%20and%20Leadership%20of%20the%20Agile%20Organisation%20%E2%80%93%20Martin%20Lugton_files/top-down-teams-versus-self-managing.png)
+![diagram showing the difference between top-down and team-based approaches to work](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/top-down-teams-versus-self-managing.png?raw=true)

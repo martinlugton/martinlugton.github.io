@@ -28,7 +28,7 @@ Searching for keywords rather than just hashtags can be a great way to come acro
 
 At Deafness Research UK I have a list of the most important accounts in hearing research, but there are always new voices to discover. So I have a search set up for: deafness OR hearing OR tinnitus OR ear AND research OR science OR breakthrough.
 
-![a hootsuite twitter stream searching for deafness OR hearing OR tinnitus OR ear AND research OR science OR breakthrough](Setting%20up%20your%20twitter%20command%20centre%20%E2%80%93%20Martin%20Lugton_files/big-deafness-and-hearing-search.png)
+![a hootsuite twitter stream searching for deafness OR hearing OR tinnitus OR ear AND research OR science OR breakthrough](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/big-deafness-and-hearing-search.png?raw=true)
 
 The OR and AND are logical operators. In this case they mean that the content of the message needs to include at least one of: deafness, hearing, tinnitus or ear, and to also include at least one of research, science or breakthrough.
 
@@ -40,9 +40,9 @@ Of course, you can’t be perfect with these more prospective searches, and you�
 
 Being able to see multiple lists and streams (for example a search) at once is massively helpful. Here’s my home hootsuite dashboard (in 2 parts):
 
-![the main section of my hootsuite dashboard](Setting%20up%20your%20twitter%20command%20centre%20%E2%80%93%20Martin%20Lugton_files/the-main-section-of-my-home-dashboard.png)
+![the main section of my hootsuite dashboard](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/the-main-section-of-my-home-dashboard.png?raw=true)
 
-![the second part of my home hootsuite dashboard](Setting%20up%20your%20twitter%20command%20centre%20%E2%80%93%20Martin%20Lugton_files/my-main-hootsuite-dashboard-part-2.png)
+![the second part of my home hootsuite dashboard](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/my-main-hootsuite-dashboard-part-2.png?raw=true)
 
 – I track mentions to make sure that I can respond to people and keep up conversations. Standard practice I’m sure.
 – If I spot something that looks fun but don’t have time to read it now, I’ll often favourite it for later. Or if I’m at an event and planning to storify it, I’ll favourite tweets as I go.

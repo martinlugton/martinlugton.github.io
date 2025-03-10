@@ -28,7 +28,7 @@ Reviews on technology sites are similarly complex, and these sites face the same
 
 View an [example article](http://www.tomshardware.co.uk/gaming-cpu-review-overclock,review-32885.html). Click on the screenshot below to see a full-size version.
 
-![a screenshot showing a multi-section article on tom's hardware, with navigation elements highlighted](How%20to%20design%20usable%20multi-page%20articles%20%E2%80%93%20Martin%20Lugton_files/toms-hardware-multi-section-articles-with-navigation-highlig.png)
+![a screenshot showing a multi-section article on tom's hardware, with navigation elements highlighted](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/toms-hardware-multi-section-articles-with-navigation-highlig.png?raw=true)
 
 I think Tom’s hardware is very effective at helping people understand and navigate its multi-section articles:
 
@@ -49,7 +49,7 @@ There are a couple of small points for improvement:
 
 View an [example article](http://www.techpowerup.com/reviews/ASUS/R9_280X_Direct_Cu_II_TOP/1.html).
 
-![a screenshot showing a multi-section article on Tech Power Up](How%20to%20design%20usable%20multi-page%20articles%20%E2%80%93%20Martin%20Lugton_files/Tech-Power-Up-multi-section-articles-with-navigation-highlig.png)
+![a screenshot showing a multi-section article on Tech Power Up](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Tech-Power-Up-multi-section-articles-with-navigation-highlig.png?raw=true)
 
 I think this design is less effective:
 
@@ -63,7 +63,7 @@ I think this design is less effective:
 
 View an [example article](http://www.overclock3d.net/reviews/cases_cooling/nanoxia_deep_silence_ds4/1).
 
-![multi section navigation highlighted, from overclock3d.net](How%20to%20design%20usable%20multi-page%20articles%20%E2%80%93%20Martin%20Lugton_files/overclock3d-multi-section-articles-with-navigatio-highlighte.png)
+![multi section navigation highlighted, from overclock3d.net](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/overclock3d-multi-section-articles-with-navigatio-highlighte.png?raw=true)
 
 - The page title, and the next and previous section buttons aren’t very clear. The “previous” button on the first page is ‘greyed-out’ (lightened in colour to show that it’s not functional in this context), but the difference in colour is so slight as to be potentially missed.
 - At the bottom of the page, sections are numbered, and previous and next navigation is used as well (it’s ‘greyed-out’ when not relevant) on the left hand side, and a dropdown showing section contents is displayed on the right hand side.
@@ -72,7 +72,7 @@ View an [example article](http://www.overclock3d.net/reviews/cases_cooling/nanox
 
 View an [example article](http://hexus.net/tech/reviews/graphics/61013-asus-radeon-r9-280x-directcu-ii-top/).
 
-![hexus multi section articles with navigation highlighted](How%20to%20design%20usable%20multi-page%20articles%20%E2%80%93%20Martin%20Lugton_files/hexus-multi-section-articles-with-navigation-highlighted.png)
+![hexus multi section articles with navigation highlighted](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/hexus-multi-section-articles-with-navigation-highlighted.png?raw=true)
 
 - Advertising distracts attention from the top navigation. Confusingly, it’s in the same colour as the bottom navigation.
 - The hierarchy of overall article heading, and the heading of the individual pages, is nice and clear. The same is the case with Tweak Town, below.
@@ -81,7 +81,7 @@ View an [example article](http://hexus.net/tech/reviews/graphics/61013-asus-rade
 
 View an [example article](http://www.tweaktown.com/reviews/5905/asus-radeon-r9-280x-directcu-ii-top-3gb-overclocked-video-card-review/index.html).
 
-![screenshot of a multi-section article on Tweak Town, with navigation highlighted](How%20to%20design%20usable%20multi-page%20articles%20%E2%80%93%20Martin%20Lugton_files/Tweak-Town-multi-section-articles-with-navigation-highlighte.png)
+![screenshot of a multi-section article on Tweak Town, with navigation highlighted](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Tweak-Town-multi-section-articles-with-navigation-highlighte.png?raw=true)
 
 - The use of colour around the top navigation is quite distracting, which is a shame, as otherwise this design is good.
 
@@ -89,7 +89,7 @@ View an [example article](http://www.tweaktown.com/reviews/5905/asus-radeon-r9-2
 
 View an [example article](http://www.hardocp.com/article/2013/12/29/asus_rog_matrix_platinum_r9_280x_video_card_review/1#.UxDKMvk0Ol4).
 
-![screenshot of a hard ocp multi-section article highlighting the navigation](How%20to%20design%20usable%20multi-page%20articles%20%E2%80%93%20Martin%20Lugton_files/hard-ocp-multi-section-articles-with-navigation-highlighted.png)
+![screenshot of a hard ocp multi-section article highlighting the navigation](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/hard-ocp-multi-section-articles-with-navigation-highlighted.png?raw=true)
 
 - The navigation might need to be more prominent to be visible to new visitors.
 
@@ -97,7 +97,7 @@ View an [example article](http://www.hardocp.com/article/2013/12/29/asus_rog_mat
 
 View an [example article](http://www.anandtech.com/show/7400/the-radeon-r9-280x-review-feat-asus-xfx).
 
-![screnshoot of a multi-section article on anandtech, with the navigation highlighted](How%20to%20design%20usable%20multi-page%20articles%20%E2%80%93%20Martin%20Lugton_files/anandtech-multi-section-articles-with-navigation-highlighted.png)
+![screnshoot of a multi-section article on anandtech, with the navigation highlighted](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/anandtech-multi-section-articles-with-navigation-highlighted.png?raw=true)
 
 - The top doesn’t feature any navigation options.
 - The top doesn’t make it clear that you’re in a section of a larger article through use of headings.
@@ -109,6 +109,6 @@ View an [example article](http://www.anandtech.com/show/7400/the-radeon-r9-280x-
 
 View an [example article](http://www.vortez.net/articles_pages/asus_gtx_770_directcu_ii_oc_review,1.html).
 
-![screenshot of a vortez multi-section article, highlighting the navigation](How%20to%20design%20usable%20multi-page%20articles%20%E2%80%93%20Martin%20Lugton_files/vortez-multi-section-articles-with-navigation-highlighted.png)
+![screenshot of a vortez multi-section article, highlighting the navigation](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/vortez-multi-section-articles-with-navigation-highlighted.png?raw=true)
 
 - There’s a breadcrumb at the bottom of the page, which makes it clear that you’re in page one of a larger article, even if there isn’t an easily scannable summary of the other sections and their contents.

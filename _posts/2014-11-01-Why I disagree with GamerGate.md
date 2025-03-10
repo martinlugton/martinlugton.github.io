@@ -25,7 +25,7 @@ GamerGate did not arise in response to the following ethical breaches:
 * A retail chain owning a gaming publication. (The same company owns Game Informer magazine and Game Stop games stores.)
 * Journalists being fired for standing up to the demands of a publisher. (Jeff Gertsmann being sacked from GameSpot after posting a negative review of Kane & Lynch)
 * Product placement in Youtube reviews. (Geoff Keighley being interviewed by Pixel Perfect with product placements for Halo 4, Doritos and Mountain Dew)
-    ![Geoff Keighley product placement](Why%20I%20disagree%20with%20GamerGate%20%E2%80%93%20Martin%20Lugton_files/Geoff-Keighley-with-doritos-and-halo-4-and-mountain-dew.jpg)
+    ![Geoff Keighley product placement](https://github.com/martinlugton/martinlugton.github.io/blob/main/Geoff-Keighley-with-doritos-and-halo-4-and-mountain-dew.jpg?raw=true)
 * PR companies controlling the editorial output of reviews. (Plaid Social requiring Youtube reviewers of Middle Earth Shadows of Mordor to submit their reviews for [approval before publication](http://www.forbes.com/sites/erikkain/2014/10/08/middle-earth-shadow-of-mordor-paid-branding-deals-should-have-gamergate-up-in-arms/).)
 * Certain publications being granted exclusive early preview access, incentivizing them to produce positive copy. (Eg IGN First.)
 * (See also Leigh Alexander’s [list of ethical concerns](http://leighalexander.net/list-of-ethical-concerns-in-video-games-partial/) that have not led to furious activity.)
@@ -40,7 +40,7 @@ So far I haven’t seen GamerGate seriously engage with ethical questions in gam
 
 Gamergaters have attempted to punish sites that they disagree with, by acting to remove their advertising revenue. As a result of Operation Disrespectful Nod, Gamasutra lost advertising from Intel; Gawker lost advertising BMW, Mercedes (later reinstated, I believe) and Adobe.
 
-If GamerGaters are unhappy that the press is not sufficiently independent and principled, attempting to influence publications by lobbying advertisers to&nbsp;withdraw their adverts seems like an odd move. The aim of Operation Disrespectful Nod appears to be to make the press less independent and to intimidate journalists who hold opinions that GamerGate supporters disagree with. In other words, this course of action suggests that GamerGate is opposed to ethics in games journalism.
+If GamerGaters are unhappy that the press is not sufficiently independent and principled, attempting to influence publications by lobbying advertisers to withdraw their adverts seems like an odd move. The aim of Operation Disrespectful Nod appears to be to make the press less independent and to intimidate journalists who hold opinions that GamerGate supporters disagree with. In other words, this course of action suggests that GamerGate is opposed to ethics in games journalism.
 
 I want to look at sexism now, as it’s a dominant theme of GamerGate.
 

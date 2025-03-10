@@ -12,7 +12,7 @@ A service starts with a need and an idea of the outcome, but no clear idea of ho
 
 Service design is the process of designing this set of touchpoints to meet the given goal.
 
-![Good services are verbs](What%20is%20Service%20Design%20%E2%80%93%20Martin%20Lugton_files/good-services-are-verbs-louise-downe.jpg)
+![Good services are verbs](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/good-services-are-verbs-louise-downe.jpg?raw=true)
 *Image credit: Lou Downe. See [Lou’s great post on service design](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/)*
 
 <blockquote class="twitter-tweet">

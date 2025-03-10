@@ -83,7 +83,7 @@ You can use the triangle to outline desires or preferences, or for more pragmati
 
 An example [futures triangle on China’s futures](https://jfsdigital.org/wp-content/uploads/2014/01/142-A02.pdf) (N.B. much of this article seems suspect, and likely [orientalist](https://www.martinlugton.com/edward-said-orientalism-summary/)):
 
-![Futures Triangle](Futures%20Thinking%20and%20Strategic%20Foresight%20%E2%80%93%20Summary%20of%20Become%20a%20futurist,%20by%20the%20Metafuture%20School%20%E2%80%93%20Martin%20Lugton_files/pasted%20image%200.png)
+![Futures Triangle](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Futures%20Thinking%20and%20Strategic%20Foresight%20%E2%80%93%20Summary%20of%20Become%20a%20futurist,%20by%20the%20Metafuture%20School%20%E2%80%93%20Martin%20Lugton_files/pasted%20image%200.png?raw=true)
 
 #### Tool two: Futures Landscape
 

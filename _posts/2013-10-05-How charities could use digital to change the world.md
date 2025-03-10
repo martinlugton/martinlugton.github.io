@@ -34,7 +34,7 @@ UNICEF’s network seems to exist mainly in specific discrete geographical locat
 
 [Oxfam lets you choose to take part in an action](https://www.oxfam.org.uk/get-involved/campaign-with-us/find-an-action), but doesn’t seem to be focused on letting you set direction. Just like with UNICEF, [Oxfam’s campaign groups seem to mainly exist as an email address on a map](https://www.oxfam.org.uk/get-involved/campaign-with-us/how-to-campaign/find-a-local-campaign-group), rather than a live conduit into a trouble-making world transforming network of energetic activists. I wonder if these groups could be in touch with each other more powerfully, and work together more ambitiously?
 
-![oxfam find a local campaign group](How%20charities%20could%20use%20digital%20to%20change%20the%20world%20%E2%80%93%20Martin%20Lugton_files/oxfam-find-a-local-campaign-group.png)
+![oxfam find a local campaign group](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/oxfam-find-a-local-campaign-group.png?raw=true)
 
 The [Oxfam supporter panel](https://www.oxfam.org.uk/get-involved/volunteer-with-us/on-our-supporter-panel) seems like an opportunity to contribute to the organisation’s direction, but it looks quite one-sided. The organisation asks you about what you think about what it’s doing, so that it can decide on improvements to make to what it does:
 
@@ -52,11 +52,11 @@ My main experiences of Avaaz have been receiving an email telling you to fill in
 
 [Avaaz](http://www.avaaz.org/) has made moves towards empowering its network. I’ve been impressed to see the [annual objective setting questionnaire](https://secure.avaaz.org/en/poll_results_2014/?slideshow), through which members contribute to the prioritisation of campaigning activity.
 
-![avaaz's campaigning priorities for 2014](How%20charities%20could%20use%20digital%20to%20change%20the%20world%20%E2%80%93%20Martin%20Lugton_files/avaaz-priorities-2014.png)
+![avaaz's campaigning priorities for 2014](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/avaaz-priorities-2014.png?raw=true)
 
 I’m also intrigued by the newer [Start your Own Petition](https://secure.avaaz.org/en/petition/start_a_petition/) functionality. I don’t know how much organisational intervention or vetting there is on these petitions.
 
-![avaaz community petition - landing page form](How%20charities%20could%20use%20digital%20to%20change%20the%20world%20%E2%80%93%20Martin%20Lugton_files/avaaz-community-petitions.png)
+![avaaz community petition - landing page form](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/avaaz-community-petitions.png?raw=true)
 
 ### Metaphors of control and power; insiders and outsiders; sailing ships and motor boats.
 

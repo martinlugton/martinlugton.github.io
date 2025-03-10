@@ -12,7 +12,7 @@ In May this year I obtained the BCS Agile Foundation certification. Here are som
 
 In a digital project, you have a set of variables that you can control.
 
-![Project-triangle-en](Agile%20Foundation%20%E2%80%93%20some%20key%20insights%20from%20the%20BCS%20course%20%E2%80%93%20Martin%20Lugton_files/Project-triangle-en.svg.png)
+![Project-triangle-en](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Project-triangle-en.svg.png?raw=true)
 
 In a Waterfall project, you attempt to deliver a fixed scope. To meet this, the time and cost may have to change – and the quality may also be undermined.
 

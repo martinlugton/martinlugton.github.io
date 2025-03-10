@@ -30,4 +30,4 @@ This is the type of “playing with my music” that I’d been waiting for, and
 
 Have a listen to [my divergent mix of “Air Traffic”](http://tinyurl.com/owpv5xf).
 
-![divergent mix of air traffic, by martin lugton](Play%20with%20Your%20Music%20%E2%80%93%20Module%203%20Reverse%20Engineering%20a%20Multitrack%20Mix%20%E2%80%93%20Martin%20Lugton_files/mix-of-air-traffic-martin-lugton.png)
+![divergent mix of air traffic, by martin lugton](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/mix-of-air-traffic-martin-lugton.png?raw=true)

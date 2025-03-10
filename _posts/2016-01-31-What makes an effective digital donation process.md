@@ -25,7 +25,7 @@ The [Macmillan homepage](http://www.macmillan.org.uk/) focuses on people and the
 The donation ask comes either in the rotating carousel or through the site-wide donation button at the top right of each page.
 This provides a clear, route to making a donation for those who want to, but the site as a whole leads with support.
 
-![macmillan 1](What%20makes%20an%20effective%20digital%20donation%20process%20%E2%80%93%20Martin%20Lugton_files/macmillan-1.png)
+![macmillan 1](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/macmillan-1.png?raw=true)
 
 The [donate page](https://www.macmillan.org.uk/donate):
 
@@ -43,9 +43,9 @@ Two ideas for how this page might be made even more effective:
 
 Here’s what you see if you choose to make a [single donation page](https://donation.macmillan.org.uk/Donation/MakeWith):
 
-![macmillan 2](What%20makes%20an%20effective%20digital%20donation%20process%20%E2%80%93%20Martin%20Lugton_files/macmillan-2.png)
+![macmillan 2](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/macmillan-2.png?raw=true)
 
-![macmillan 3](What%20makes%20an%20effective%20digital%20donation%20process%20%E2%80%93%20Martin%20Lugton_files/macmillan-3.png)
+![macmillan 3](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/macmillan-3.png?raw=true)
 
 - From the user’s perspective, the entire process happens on the Macmillan website, and with the Macmillan brand.
 - Emotional reinforcement through the form.
@@ -55,7 +55,7 @@ Here’s what you see if you choose to make a [single donation page](https://don
 
 After the 3d secure step, which I won’t show here, you’re taken to the thank you page:
 
-![macmillan 5](What%20makes%20an%20effective%20digital%20donation%20process%20%E2%80%93%20Martin%20Lugton_files/macmillan-5.png)
+![macmillan 5](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/macmillan-5.png?raw=true)
 
 The thank-you page:
 
@@ -63,7 +63,7 @@ The thank-you page:
 - Gives additional actions – sharing through different channels, or campaigning.
 - Isn’t the end of the journey – the user also receives a thank-you email:
 
-![macmillan 6](What%20makes%20an%20effective%20digital%20donation%20process%20%E2%80%93%20Martin%20Lugton_files/macmillan-6.png)
+![macmillan 6](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/macmillan-6.png?raw=true)
 
 The thank-you email:
 
@@ -73,7 +73,7 @@ The thank-you email:
 
 ## Cancer Research UK’s single donation process
 
-![cancer research uk 0](What%20makes%20an%20effective%20digital%20donation%20process%20%E2%80%93%20Martin%20Lugton_files/cancer-research-uk-0.png)
+![cancer research uk 0](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/cancer-research-uk-0.png?raw=true)
 
 The Cancer Research UK homepage:
 
@@ -81,7 +81,7 @@ The Cancer Research UK homepage:
 - Features a clear box for people who have already decided to donate before coming to the site.
 - Incorporates the site-wide donate button.
 
-![cancer research uk 0.5](What%20makes%20an%20effective%20digital%20donation%20process%20%E2%80%93%20Martin%20Lugton_files/cancer-research-uk-0.5.png)
+![cancer research uk 0.5](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/cancer-research-uk-0.5.png?raw=true)
 
 The Cancer Research UK donate page:
 
@@ -89,7 +89,7 @@ The Cancer Research UK donate page:
 - Is focused and calm, despite including a range of options. Clearly the different options have been prioritised.
 - Prioritises regular giving.
 
-![cancer research uk 1](What%20makes%20an%20effective%20digital%20donation%20process%20%E2%80%93%20Martin%20Lugton_files/cancer-research-uk-1.png)
+![cancer research uk 1](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/cancer-research-uk-1.png?raw=true)
 
 The single donation form:
 
@@ -100,21 +100,21 @@ The single donation form:
 
 After taking payment, I then had the opportunity to choose my communications preferences:
 
-![cancer research uk 4](What%20makes%20an%20effective%20digital%20donation%20process%20%E2%80%93%20Martin%20Lugton_files/cancer-research-uk-4.png)
+![cancer research uk 4](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/cancer-research-uk-4.png?raw=true)
 
 I was then taken to the thank-you page:
 
-![cancer research uk 5](What%20makes%20an%20effective%20digital%20donation%20process%20%E2%80%93%20Martin%20Lugton_files/cancer-research-uk-5.png)
+![cancer research uk 5](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/cancer-research-uk-5.png?raw=true)
 
 As with Macmillan, the email thank-you message was used to drive multi-channel digital engagement:
 
-![cancer research uk 6](What%20makes%20an%20effective%20digital%20donation%20process%20%E2%80%93%20Martin%20Lugton_files/cancer-research-uk-6.png)
+![cancer research uk 6](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/cancer-research-uk-6.png?raw=true)
 
 The email shows the difference that your donation makes, but also has secondary actions: taking an exciting quiz on improving lifestyle; an opportunity to get support or to connect; and an invitation to deepen engagement with research.
 
 ## charity:water’s single donation process
 
-![charity water 1](What%20makes%20an%20effective%20digital%20donation%20process%20%E2%80%93%20Martin%20Lugton_files/charity-water-1.png)
+![charity water 1](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/charity-water-1.png?raw=true)
 
 The donate page:
 
@@ -125,22 +125,22 @@ The donate page:
 
 Marvel at the ease of use of the Stripe popup. Why aren’t more charities following the lead of ecommerce and using Stripe?
 
-![charity water card 1](What%20makes%20an%20effective%20digital%20donation%20process%20%E2%80%93%20Martin%20Lugton_files/charity-water-card-1.png)
+![charity water card 1](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/charity-water-card-1.png?raw=true)
 
 The payment form only asks for the bare minimum it needs to take your payment
 
-![charity water card 2](What%20makes%20an%20effective%20digital%20donation%20process%20%E2%80%93%20Martin%20Lugton_files/charity-water-card-2.png)
+![charity water card 2](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/charity-water-card-2.png?raw=true)
 
-![charity water card 3](What%20makes%20an%20effective%20digital%20donation%20process%20%E2%80%93%20Martin%20Lugton_files/charity-water-card-3.png)
+![charity water card 3](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/charity-water-card-3.png?raw=true)
 
-![charity water card 4](What%20makes%20an%20effective%20digital%20donation%20process%20%E2%80%93%20Martin%20Lugton_files/charity-water-card-4.png)
+![charity water card 4](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/charity-water-card-4.png?raw=true)
 
 The thank-you page:
 
 - is focused, and shows the impact of your donation.
 - upsells to a bigger supporting action – using the principle of consistency.
 
-![charity water card 5](What%20makes%20an%20effective%20digital%20donation%20process%20%E2%80%93%20Martin%20Lugton_files/charity-water-card-5.png)
+![charity water card 5](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/charity-water-card-5.png?raw=true)
 
 The email thank-you leads with an image, and articulates the impact of the cause.
 

@@ -68,7 +68,7 @@ Profession: Administrator for a small healthcare company
 
 We ​tested a [clickable digital prototype](https://www.martinlugton.com/wp-content/uploads/2017/03/ideo-prototype-ideologicaly-diverse-news-aggregator-for-user-testing.pdf)​ made using the Balsamiq mockup tool.
 
-![Prototype](How%20might%20we%20broaden%20political%20discourse%20and%20understanding%20in%20people%20age%2025-35%20in%20the%20UK%20%E2%80%93%20Design%20project%20from%20the%20Design%20Kit%20course%20%E2%80%93%20Martin%20Lugton_files/West-London-Digital-Explorers_Challenge4_FinalPrototype.png)
+![Prototype](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/West-London-Digital-Explorers_Challenge4_FinalPrototype.png?raw=true)
 
 The most important question to research was:
 

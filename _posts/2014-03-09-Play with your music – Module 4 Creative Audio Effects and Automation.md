@@ -22,7 +22,7 @@ Here are some things that I wanted to do with my mix:
 
 Along the way I found a few artifacts or clicks in the original wav files. It didn’t seem like I could directly edit the audio files that made up each track, so instead I went in and dropped the volume on the relevant track to nothing for the split second where the distracting noise appeared. (I used Soundation’s automation setting here, as shown below). This took a bit of work soloing each instrument to check which track needed fixing.
 
-![removing artifacts in soundation](Play%20with%20your%20music%20%E2%80%93%20Module%204%20Creative%20Audio%20Effects%20and%20Automation%20%E2%80%93%20Martin%20Lugton_files/removing-artefacts-in-soundation.png)
+![removing artifacts in soundation](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/removing-artefacts-in-soundation.png?raw=true)
 
 For anyone else working on this mix, I found artifacts on the following tracks and locations: bar 27 on the bass track (2 clicks), bar 28 in EFX (I’d muted this track anyway), bar 34 and 39 bass, bar 40 backing vocals, bar 42 in the steel guitar, bar 46 lead vocals, bar 56 on the steel guitar, bar 68 bass, bar 73 bass.
 

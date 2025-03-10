@@ -41,7 +41,7 @@ Connect the output of ‘Fetch Feed’ to this module. (Connect modules by dragg
 
 Now it’s time to specify the filter we want. This looks a little intimidating at first, but if you click on the left-hand column Yahoo Pipes makes some suggestions. In this case we want the filter to only allow through content whose title contains ‘whiteboard friday’.
 
-![yahoo pipes being used to filter whiteboard fridays](Filtering%20RSS%20feeds%20for%20a%20more%20useful%20inbound%20content%20stream%20%E2%80%93%20Martin%20Lugton_files/yahoo-pipes-filtering-whiteboard-fridays.png)
+![yahoo pipes being used to filter whiteboard fridays](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/yahoo-pipes-filtering-whiteboard-fridays.png?raw=true)
 
 [Have a look at this pipe](http://pipes.yahoo.com/pipes/pipe.info?_id=a55fecb80478269b76b19029d1dfaeeb) and make a copy of your own – or remix it!
 
@@ -55,7 +55,7 @@ I’m a leftie Guardian reader, but I want to make sure that I’m presented wit
 
 I don’t want to read all the Comment pieces in the Telegraph, though. I’d rather just read the editorial. The naming convention on the Telegraph’s Comment feed seems to be that editorials are written by the author ‘Telegraph View’. So I set up a filter to only let through this content:
 
-![yahoo pipes filtering the telegraph comment feed to only display editorial content](Filtering%20RSS%20feeds%20for%20a%20more%20useful%20inbound%20content%20stream%20%E2%80%93%20Martin%20Lugton_files/yahoo-pipes-filtering-telegraph-comment-feed-to-just-display.png)
+![yahoo pipes filtering the telegraph comment feed to only display editorial content](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/yahoo-pipes-filtering-telegraph-comment-feed-to-just-display.png?raw=true)
 
 Head over to yahoo pipes to [see this pipe in action](http://pipes.yahoo.com/pipes/pipe.info?_id=079c8ada98ef396cb2e0b86aec4418dc).
 

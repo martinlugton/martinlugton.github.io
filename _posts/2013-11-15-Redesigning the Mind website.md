@@ -29,7 +29,7 @@ People’s top tasks were:
 
 People told us that they want a greater focus on their most important tasks. They wanted less clutter, a calmer and more sparing visual design, with a greater focus on people. They really resonated with Mind’s values: real, personal, compassionate, courageous.
 
-![Notes from a discussion about Mind's brand values and their relevance to Mind's website](Redesigning%20the%20Mind%20website%20%E2%80%93%20Martin%20Lugton_files/Mind-brand-values-from-creative-concepts-workshop.jpg)
+![Notes from a discussion about Mind's brand values and their relevance to Mind's website](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Mind-brand-values-from-creative-concepts-workshop.jpg?raw=true)
 
 Using this information alongside other information about our web visitors – eg from Google Analytics – we were able to draw up a clear, shared understanding of what our project was trying to achieve, and what the most important tasks were. This was crucial, as design is about prioritisation, and that often means telling people that their area is less important. Being upfront about your top tasks – and getting these tasks from users – helps with these discussions.
 
@@ -57,7 +57,7 @@ We did this as part of following an agile methodology.
 
 We encouraged participants to think aloud as they went so that we could better understand their thought processes. We took notes and for one of the sessions participants agreed to have their screen and faces recorded, using a tool called Silverback.
 
-![user testing the mind prototype](Redesigning%20the%20Mind%20website%20%E2%80%93%20Martin%20Lugton_files/mind-prototype-testing.png)
+![user testing the mind prototype](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/mind-prototype-testing.png?raw=true)
 
 ### Some key learning points
 

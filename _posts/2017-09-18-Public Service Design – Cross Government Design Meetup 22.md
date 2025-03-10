@@ -18,13 +18,13 @@ In the future, **“Services will shape government, not the other way round.”*
 
 **The contrasting experience of two social housing projects shows the need for service design:**
 
-![Wohnpark Alt-Erlaa, Viennna; image by Thomas Ledl – Own work, CC BY-SA 3.0, Link](Public%20Service%20Design%20%E2%80%93%20Cross%20Government%20Design%20Meetup%2022%20%E2%80%93%20Martin%20Lugton_files/Alterlaa_Pflanztr%C3%B6ge.jpg)
+![Wohnpark Alt-Erlaa, Viennna; image by Thomas Ledl – Own work, CC BY-SA 3.0, Link](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Alterlaa_Pflanztr%C3%B6ge.jpg?raw=true)
 *Wohnpark Alt-Erlaa, Viennna; image by Thomas Ledl – Own work, CC BY-SA 3.0, Link*
 
-![By Thomas Ledl – Own work, CC BY-SA 3.0, Link](Public%20Service%20Design%20%E2%80%93%20Cross%20Government%20Design%20Meetup%2022%20%E2%80%93%20Martin%20Lugton_files/1200px-Alterlaa_Kunstwerk.jpg)
+![By Thomas Ledl – Own work, CC BY-SA 3.0, Link](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/1200px-Alterlaa_Kunstwerk.jpg?raw=true)
 *By Thomas Ledl – Own work, CC BY-SA 3.0, Link*
 
-![The Robin Hood Estate; image by stevecadman – Flickrtik hartua, CC BY-SA 2.0, Link](Public%20Service%20Design%20%E2%80%93%20Cross%20Government%20Design%20Meetup%2022%20%E2%80%93%20Martin%20Lugton_files/Robin_Hood_Gardens_AP_Smithson.jpg)
+![The Robin Hood Estate; image by stevecadman – Flickrtik hartua, CC BY-SA 2.0, Link](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Robin_Hood_Gardens_AP_Smithson.jpg?raw=true)
 *The Robin Hood Estate; image by stevecadman – Flickrtik hartua, CC BY-SA 2.0, Link*
 
 Hill argues that the key difference between the success of the former, and the demolition of the latter is the ongoing maintenance, service and engagement.

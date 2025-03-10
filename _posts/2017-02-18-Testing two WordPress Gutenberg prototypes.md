@@ -24,7 +24,7 @@ redirect_from:
 
 [Prototype: “A beautiful thing about Apple…”](https://wordpress.github.io/gutenberg/tinymce-per-block/)
 
-![prototype of a new editor for wordpress](Testing%20two%20WordPress%20Gutenberg%20prototypes%20%E2%80%93%20Martin%20Lugton_files/Screenshot-2017-02-18-21.10.23.png)
+![prototype of a new editor for wordpress](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Screenshot-2017-02-18-21.10.23.png?raw=true)
 
 Clicks into a block and sees and instantly understands the alignment options.
 
@@ -61,7 +61,7 @@ Wonders how valuable constant HTML visibility is to the average content editor. 
 
 [“1.0 Is The Loneliest Number”](https://wordpress.github.io/gutenberg/)
 
-![An early prototype of the new wordpress gutenberg editor](Testing%20two%20WordPress%20Gutenberg%20prototypes%20%E2%80%93%20Martin%20Lugton_files/Screenshot-2017-02-18-21.13.41.png)
+![An early prototype of the new wordpress gutenberg editor](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Screenshot-2017-02-18-21.13.41.png?raw=true)
 
 ##### Tester 1
 

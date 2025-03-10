@@ -12,6 +12,6 @@ Most people going to a train station are interested in leaving, and aren’t the
 
 Hence the relative size of the departure and arrival boards.
 
-![departure boards at euston station](What%20train%20station%20arrival%20boards%20teach%20us%20about%20top%20tasks%20design%20%E2%80%93%20Martin%20Lugton_files/departure-boards-at-euston-station.jpg)
+![departure boards at euston station](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/departure-boards-at-euston-station.jpg?raw=true)
 
 Design is a decision about priorities, and as such is generally political. But having the courage to upset some internal stakeholders, you can focus on what’s most important to your customers, and therefore to your organisation and its bottom line.

@@ -31,7 +31,7 @@ CSVW lets you add metadata describing structure and schema
 
 ODI have produced a [canvas to help you think about researching and designing a standard](http://standards.theodi.org/useful-tools/how-to-use-the-open-standards-for-data-canvas/). The technical bit is the easy bit – the hard bit is getting people to agree on things.
 
-![Open Standards for Data Canvas](Open%20standards-%20a%20cross%20government%20technical%20architecture%20workshop%20%E2%80%93%20Martin%20Lugton_files/Screen-Shot-2019-07-29-at-10.40.51.png)
+![Open Standards for Data Canvas](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Screen-Shot-2019-07-29-at-10.40.51.png?raw=true)
 
 Some advice if you’re building a new open standard:
 

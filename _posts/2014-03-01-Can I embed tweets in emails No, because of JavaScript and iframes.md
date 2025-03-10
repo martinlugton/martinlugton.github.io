@@ -44,6 +44,6 @@ I haven’t created anything better, I’m afraid, but here’s one idea to inve
 
 If our aim is to take the useful features of embedded tweets – aesthetics and functionality – and to get them into email, I think that Twitter’s “Do you know…” emails could help:
 
-![a screenshot of an automated email from twitter suggesting some accounts I might want to follow](Can%20I%20embed%20tweets%20in%20emails%20No,%20because%20of%20JavaScript%20and%20iframes%20%E2%80%93%20Martin%20Lugton_files/some-people-you-may-know-on-twitter.png)
+![a screenshot of an automated email from twitter suggesting some accounts I might want to follow](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/some-people-you-may-know-on-twitter.png?raw=true)
 
 You could take the inline HTML from these emails (I’ve [copied the HTML code here](http://www.martinlugton.com/wp-content/uploads/2014/03/html-for-you-may-know-twitter-email.html)) and use them to style up embedded tweets in an HTML email. You’d need to check in with [twitter’s brand policies](https://about.twitter.com/press/twitter-brand-policy) though, as this may not be within their terms of use.

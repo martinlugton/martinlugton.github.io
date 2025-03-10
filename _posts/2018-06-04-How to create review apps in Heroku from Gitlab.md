@@ -16,12 +16,12 @@ To [create](https://devcenter.heroku.com/articles/platform-api-reference#app-cre
 2. Create a new app with a URL derived from the name of the code branch
 3. Get the right git branch, then push it to Heroku.
 
-![YAML section on creating a review app in Heroku via its API](How%20to%20create%20review%20apps%20in%20Heroku%20from%20Gitlab%20%E2%80%93%20Martin%20Lugton_files/how-to-start-a-review-app-in-heroku-with-gitlab.png)
+![YAML section on creating a review app in Heroku via its API](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/how-to-start-a-review-app-in-heroku-with-gitlab.png?raw=true)
 
 To [delete](https://devcenter.heroku.com/articles/platform-api-reference#app-delete) the review app:
 
 1. Delete the app
 
-![Code snippet to stop review app. Use the hyperlink to access the full snippet](How%20to%20create%20review%20apps%20in%20Heroku%20from%20Gitlab%20%E2%80%93%20Martin%20Lugton_files/stop_review.png)
+![Code snippet to stop review app. Use the hyperlink to access the full snippet](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/stop_review.png?raw=true)
 
 [View this build pipeline in full](https://gitlab.com/snippets/1716930).

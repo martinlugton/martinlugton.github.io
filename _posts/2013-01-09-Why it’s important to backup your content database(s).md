@@ -8,13 +8,13 @@ redirect_from:
 
 I went to share an [exciting hearing research story](http://www.deafnessresearch.org.uk/blog/new-research-on-regenerating-sensory-hair-cells-in-mammals/) on twitter this evening and found that the link wasn’t working properly. Rather than a short blog post on an impressive piece of research, however, I arrived at the following screen:
 
-![could not complete the search - error message](Why%20it%E2%80%99s%20important%20to%20backup%20your%20content%20database(s)%20%E2%80%93%20Martin%20Lugton_files/could-not-complete-the-search.png)
+![could not complete the search - error message](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/old/could-not-complete-the-search.png?raw=true)
 
 This isn’t the type of message any digital communications manager wants to see on their website shortly before 11pm, and certainly not the state I’d left the site in at 5:45pm. Thankfully I’d planned for problems like this.
 
 I remembered seeing this error message near the top of a php template (line 16):
 
-![could not complete the search - the php code that led to this error message](Why%20it%E2%80%99s%20important%20to%20backup%20your%20content%20database(s)%20%E2%80%93%20Martin%20Lugton_files/could-not-complete-the-search-in-the-php.png)
+![could not complete the search - the php code that led to this error message](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/old/could-not-complete-the-search-in-the-php.png?raw=true)
 
 So I suspected that our main content database had become corrupted somehow. I started by attempting to view the control panel login page. That was working fine, which confirmed that the server itself was up and running happily. (Indeed, if it wasn’t, you wouldn’t have been able to see the error message in the first place).
 
@@ -26,7 +26,7 @@ My next step was to put on some chilled prog rock (Camel’s [Mystic Queen](http
 
 I jumped in to cPanel, Backup Wizard > Restore > MySQL Databases, and then uploaded the main content database:
 
-![restoring database](Why%20it%E2%80%99s%20important%20to%20backup%20your%20content%20database(s)%20%E2%80%93%20Martin%20Lugton_files/restoring-database.png)
+![restoring database](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/old/restoring-database.png?raw=true)
 
 I had the problem sorted before the song had finished.
 
