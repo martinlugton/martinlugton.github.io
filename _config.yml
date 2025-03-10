@@ -5,6 +5,7 @@ plugins:
 - jekyll-remote-theme
 - jekyll-redirect-from
 - jekyll-feed
+- jekyll-paginate
 author: Martin Lugton
 title: Martin Lugton
 description: Tech for good and digital government
