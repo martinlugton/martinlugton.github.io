@@ -17,13 +17,7 @@ Why is this? You can’t display embedded tweets in emails because embedded twee
 
 Both of these features are blocked by most email clients for very sensible security reasons.
 
-So an embedded tweet that should look something like this:
-
-<div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;"><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 550px; height: 272px; display: block; flex-grow: 1;" title="Twitter Tweet" src="Can%20I%20embed%20tweets%20in%20emails%20No,%20because%20of%20JavaScript%20and%20iframes%20%E2%80%93%20Martin%20Lugton_files/Tweet.htm" data-tweet-id="433769038783594496"></iframe></div>
-
-<script async="" src="Can%20I%20embed%20tweets%20in%20emails%20No,%20because%20of%20JavaScript%20and%20iframes%20%E2%80%93%20Martin%20Lugton_files/widgets.js" charset="utf-8"></script>
-
-… ends up looking like this instead:
+So an embedded tweet … ends up looking like this instead:
 
 > [#ed473](https://twitter.com/search?q=%23ed473&src=hash) this is really thought-provoking. [@anildash](https://twitter.com/anildash) on gender privilege & social networks: The Year I Didn't RT Men. [https://t.co/qZXGCdv545](https://t.co/qZXGCdv545)
 > 
