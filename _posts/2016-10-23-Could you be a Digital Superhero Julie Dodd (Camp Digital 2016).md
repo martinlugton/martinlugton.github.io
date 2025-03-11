@@ -6,9 +6,7 @@ redirect_from:
   - /digital-superhero-julie-dodd-camp-digital-2016/
 ---
 
-*Here's a summary of Julie Dodd's talk at this year's [Camp Digital conference](http://campdigital.wearesigma.com/).*
-
-<iframe title="Could you be a Digital Superhero? Julie Dodd (Camp Digital 2016)" width="640" height="360" src="Could%20you%20be%20a%20Digital%20Superhero%20Julie%20Dodd%20(Camp%20Digital%202016)%20%E2%80%93%20Martin%20Lugton_files/nNKUxL9G0qc.htm" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+*Here's a summary of Julie Dodd's talk at this year's Camp Digital conference.*
 
 Julie argues that digital superheroes…:
 
