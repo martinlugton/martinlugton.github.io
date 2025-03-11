@@ -6,9 +6,7 @@ redirect_from:
   - /hard-work-make-simple-tom-loosemore/
 ---
 
-Below is a video and summary of a [talk by Tom Loosemore at the Camp Digital conference, 2016](http://www.wearesigma.com/campdigital/archive/2016/tom-loosemore/).
-
-<iframe title="Doing the hard work to make it simple - Tom Loosemore (Camp Digital 2016)" width="640" height="360" src="https://www.youtube.com/embed/PRwsxNHGC8Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Below is a video and summary of a talk by Tom Loosemore at the Camp Digital conference, 2016.
 
 ### Design is inherently political, and we must not ignore this
 
