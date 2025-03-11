@@ -10,7 +10,7 @@ I’m going to try and build an API that tells you the items needed by nearby fo
 
 An API is a tool that lets you quickly interface between bits of technology. If a tool has an API, it means that web developers can quickly interact with it: either taking information out of it or sending information or instructions to it. Using an API to interact with a bit of software is generally quick and easy, meaning that you can spend your time and energy working on doing something special and interesting with the interaction, rather than spending your effort working out how to get the things to talk to each other in the first place. [Twitter has an API](https://developer.twitter.com/en/docs) which lets you search, view or post tweets; [Google Maps has an API](https://developers.google.com/maps/documentation) that lets you build maps into your website or software. [I built a tool around the twitter API a few years ago](https://mysocialsummary.com/) and found it a real thrill.
 
-The idea for this API came from [Steve Messer](http://visitmy.website/). I haven’t worked on a creative/web development project for about a year, and I’ve been feeling eager to take one on. I know that [I learn a lot working on a personal project](https://www.martinlugton.com/learnt-building-side-project/). I also experience a fantastic sense of flow.
+The idea for this API came from [Steve Messer](http://visitmy.website/). I haven’t worked on a creative/web development project for about a year, and I’ve been feeling eager to take one on. I know that [I learn a lot working on a personal project](https://www.martinlugton.com/what-i-learnt-by-building-a-side-project). I also experience a fantastic sense of flow.
 
 Inspired by the Weeknotes movement, I’m going to write a series of blog posts about how I get on.
 
@@ -45,4 +45,4 @@ If I can’t, can I at least work out how much it’s polluting and offset it so
 
 I’m going to start by working on the first risky assumption – “If I know the [URL of a given foodbank’s page on food donations](https://harrow.foodbank.org.uk/give-help/donate-food/), I can work out what items they need.”
 
-*Read part 2 of this project to find out what I did next.*
+*[Read part 2 of this project](https://www.martinlugton.com/build-a-food-bank-api-part-2) to find out what I did next.*
