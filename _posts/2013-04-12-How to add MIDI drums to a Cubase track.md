@@ -6,7 +6,7 @@ redirect_from:
   - /how-to-add-midi-drums-to-a-cubase-track/
 ---
 
-* A quick guide to adding MIDI drums to a track in Cubase. Works with or without an external MIDI controller.*
+*A quick guide to adding MIDI drums to a track in Cubase. Works with or without an external MIDI controller.*
 
 Add an Instrument track, and select HALion Sonic SE.
 

@@ -14,8 +14,6 @@ What’s the difference between a Job and a Problem that a user has? It adds con
 
 This kind of contextual understanding helps you improve your product to better solve some known jobs.
 
-<iframe title="Understanding the Job" width="640" height="360" src="Jobs%20to%20be%20Done%20on%20GOV.UK%20%E2%80%93%20Martin%20Lugton_files/sfGtw2C95Ms.htm" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
 So in the case of selling milkshake to people visiting a fast food restaurant, optimising the product in its own right – making it chunkier or improving the flavour – was missing the point. When the business started solving for the underlying problem – the real ‘job’ the milkshake was being ‘hired’ to carry out – then sales went up.
 
 Jobs to be Done is about user motivations and situations, rather than attributes and characteristics. This is good because those things change, and may not be important. ‘Specialist’ users of GOV.UK are often not very different to ‘Mainstream’ users. I found the same thing at NDCS – the imagined differences between “Professional” and “Parent” users didn’t really hold up to scrutiny.

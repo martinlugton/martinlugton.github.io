@@ -8,8 +8,6 @@ redirect_from:
 
 *Below is a video and summary of a recent talk by Mike Monteiro. A [transcript](https://beyondtellerrand.com/events/berlin-2016/speakers/mike-monteiro) is available. N.B. NSFW language.*
 
-<iframe title="Let Us Now Praise Ordinary People &amp;ndash; Mike Monteiro &amp;ndash; btconfBER2016" src="How%20to%20change%20the%20world%20%E2%80%93%20Mike%20Monteiro%20%E2%80%93%20Martin%20Lugton_files/190834270.htm" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
-
 The world is bad because we made it this way. “The world is designed to work this way.”
 
 When people talk about changing the world, ask: “How? For who?”

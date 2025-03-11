@@ -6,7 +6,7 @@ redirect_from:
   - /how-to-record-electric-guitar-using-steinberg-ur12-cubase-ai/
 ---
 
-* A quick guide to recording guitar through a Steinberg UR12 in the Cubase AI DAW. I produced this to help other people, and to remind myself in case I ever forget, because the Cubase software is not very intuitive.*
+*A quick guide to recording guitar through a Steinberg UR12 in the Cubase AI DAW. I produced this to help other people, and to remind myself in case I ever forget, because the Cubase software is not very intuitive.*
 
 I’ll assume that you’ve plugged and installed in the Steinberg, installed the Cubase AI Software, and opened up Cubase AI.
 

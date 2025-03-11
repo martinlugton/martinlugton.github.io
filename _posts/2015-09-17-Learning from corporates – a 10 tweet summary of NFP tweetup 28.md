@@ -53,8 +53,6 @@ Broadly speaking, Alex has found that the corporate sector has more money, and i
 
 > — NFPtweetup (@NFPtweetup) [September 17, 2015](https://twitter.com/NFPtweetup/status/644580348731461633?ref_src=twsrc%5Etfw)
 
-<iframe src="https://www.youtube.com/embed/127156576" width="500" height="281" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-
 WWF wouldn’t say how much money the campaign raised, but the primary objective was awareness not fundraising.
 
 > I do love this campaign. Tweeting emojis is fun and people did it lots. But we're all waiting to hear if it raised 💰, right? [#NFPtweetup](https://twitter.com/hashtag/NFPtweetup?src=hash&ref_src=twsrc%5Etfw)
