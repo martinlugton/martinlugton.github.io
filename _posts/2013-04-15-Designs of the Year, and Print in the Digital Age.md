@@ -1,7 +1,7 @@
 ---
 title: "Designs of the Year, and Print in the Digital Age"
 permalink: /designs-year-print-digital-age
-date: 2013-04-15T15:45:00+00:00
+date: 2018-04-15T15:45:00+00:00
 redirect_from:
   - /designs-year-print-digital-age/
 ---
