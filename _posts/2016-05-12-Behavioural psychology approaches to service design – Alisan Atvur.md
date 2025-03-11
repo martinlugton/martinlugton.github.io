@@ -6,9 +6,7 @@ redirect_from:
   - /behavioural-psychology-approaches-service-design-alisan-atvur/
 ---
 
-*Below is a video and summary of a [talk by Alisan Atvur at the Camp Digital conference](http://campdigital.wearesigma.com/alisan-atvur.html).*
-
-<iframe title="Behavioural psychology approaches to service design - Alisan Atvur (Camp Digital 2016)" width="640" height="360" src="https://www.youtube.com/embed/ETCJyKjIp7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*Below is a video and summary of a talk by Alisan Atvur at the Camp Digital conference.*
 
 Psychology knows that behaviour is seldom rational. So we need to study behaviour.
 
