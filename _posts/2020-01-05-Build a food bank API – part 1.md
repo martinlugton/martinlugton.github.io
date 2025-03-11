@@ -45,4 +45,4 @@ If I can’t, can I at least work out how much it’s polluting and offset it so
 
 I’m going to start by working on the first risky assumption – “If I know the [URL of a given foodbank’s page on food donations](https://harrow.foodbank.org.uk/give-help/donate-food/), I can work out what items they need.”
 
-*[Read part 2 of this project](https://www.martinlugton.com/build-a-food-bank-api-part-2) to find out what I did next.*
+*[Read part 2 of this project](https://www.martinlugton.com/build-a-food-bank-api-part-2) to find out what I did next. See also [Part 3](https://www.martinlugton.com/build-a-food-bank-api-part-3)*

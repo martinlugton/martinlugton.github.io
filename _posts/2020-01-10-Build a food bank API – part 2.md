@@ -34,4 +34,4 @@ The next step is to get it running online so that anyone can use it.
   *[I’ve built an API that runs locally](https://github.com/martinlugton/foodbank_api). Hosting it online as a real webserver should be reasonably straightforward. That’s the next step.*  
   *I’ve found an [entirely-renewably-powered web host](https://datacenterlight.ch/), which might help me meet my extra goal of running this API entirely renewably.*
 
-*Read part 3 of this project to find out what I did next.*
+*[Read part 1 of this project](https://www.martinlugton.com/build-a-food-bank-api-part-1). See [Part 3](https://www.martinlugton.com/build-a-food-bank-api-part-3) to find out what I did next*
