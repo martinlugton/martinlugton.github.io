@@ -6,7 +6,7 @@ redirect_from:
   - /best-practices-lessons-learned-30000-ab-multivariate-tests-summary-optimizely-video/
 ---
 
-Optimizely’s Best Practices & Lessons Learned from 30,000 A/B and Multivariate Tests video is an advert for A/B testing in general, and for Optimizely [Optimizely](https://www.optimizely.com/) as a tool for running and creating tests.
+Optimizely’s Best Practices & Lessons Learned from 30,000 A/B and Multivariate Tests video is an advert for A/B testing in general, and for [Optimizely](https://www.optimizely.com/) as a tool for running and creating tests.
 
 This video (no longer available) features some useful examples of multivariate tests done during the Obama campaign. Here’s my summary:
 
