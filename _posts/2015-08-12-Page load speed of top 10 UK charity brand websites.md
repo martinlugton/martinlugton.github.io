@@ -23,5 +23,3 @@ Here’s how the sites compare:
 - **If your pages load in 2 seconds or under, and if your page weight is 1MB or less, you’re doing very well**.
 
 *This data was obtained by running 4 unthrottled desktop speed tests using [GTMetrix](http://www.gtmetrix.com/) between 16 August and 22 August 2015 and averaging the results. An interesting follow-up would be to look at mobile performance: set a mobile browser and throttle the connection to a common mobile download speed.*
-
-[Download the data (ODS)](http://www.martinlugton.com/wp-content/uploads/2015/08/Page-load-speed-of-top-10-UK-charity-websites.ods)

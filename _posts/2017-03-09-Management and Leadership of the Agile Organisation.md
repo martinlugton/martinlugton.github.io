@@ -6,9 +6,7 @@ redirect_from:
   - /management-leadership-agile-organisation/
 ---
 
-*Notes from a talk on [Agile management and leadership culture at the Digital Project Managers meetup](https://www.meetup.com/agileDPML/events/236872368/) on 9 March by [Chris Davies](http://www.aterny.co.uk/). [Video available](https://skillsmatter.com/skillscasts/9614-dpml-march).*
-
-<iframe title="Agile leadership" src="Management%20and%20Leadership%20of%20the%20Agile%20Organisation%20%E2%80%93%20Martin%20Lugton_files/w52AEUPYatItrU.htm" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen=""> </iframe>
+*Notes from a talk on [Agile management and leadership culture at the Digital Project Managers meetup](https://www.meetup.com/agileDPML/events/236872368/) on 9 March by Chris Davies.
 
 <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/ChrisDavies59/agile-leadership-73088974" title="Agile leadership" target="_blank">Agile leadership</a> </strong> from <strong><a href="https://www.slideshare.net/ChrisDavies59" target="_blank">Chris Davies</a></strong> </div>
 
@@ -84,10 +82,6 @@ So a superior management approach is to establish alignment on intent and give a
 
 - A BA check-in staff member was presented with a gold customer running late for a flight that was taking off in 20 minutes. All the formal rules suggested that nothing could be done, and she couldn’t get in touch with her manager or with customer services. So she took the initiative to hold up the flight and personally escort a gold customer to the gate, allowing him to make his flight. This was against formal rules, but in alignment with the company’s values “To ensure that BA is the customer’s first choice through the delivery of an unbeatable travel experience.”
 - Netflix avoid top-down decision-making. They focus on ‘context, not control’.
-
-<iframe loading="lazy" title="Culture" src="Management%20and%20Leadership%20of%20the%20Agile%20Organisation%20%E2%80%93%20Martin%20Lugton_files/vAdYqTSGuIDFig.htm" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen=""> </iframe>
-
-<div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/reed2001/culture-1798664" title="Culture" target="_blank">Culture</a> </strong> from <strong><a href="https://www.slideshare.net/reed2001" target="_blank">Reed Hastings</a></strong> </div>
 
 - Submarine Captain David Marquet (author of [Turn the ship around](http://www.davidmarquet.com/our-story/)) divested control to his subordinates. Instead of giving orders, he’d ask people to tell him what they intended to do. He’d then potentially ask a few questions. He’d then give assent. Subordinates would internalise the required diligence, and grow in their own competence and professionalism. His focus was on providing clarity of purpose.
 - Buurtzorg – a nursing company predicated on empowered, independent teams of nurses. Teams hire their own people, and decide how to operate. Patients love it because nurses spend more time with them. And yet the need for care is 40% less than it is in other organisations. The US would save $49 billion a year if it had this system.

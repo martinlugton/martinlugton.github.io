@@ -6,7 +6,7 @@ redirect_from:
   - /paul-boag-digital-adaptation-summary/
 ---
 
-*Paul Boag outlines how to adapt your organisation to meet the challenges presented by digital, in the excellent [Digital Adaptation](https://www.smashingmagazine.com/2014/03/the-digital-adaptation-book/). Further resources are available on the [Digital Adaptation website](http://www.digital-adaptation.com/).*
+*Paul Boag outlines how to adapt your organisation to meet the challenges presented by digital, in Digital Adaptation. Further resources are available on the [Digital Adaptation website](http://www.digital-adaptation.com/).*
 
 ### User expectations are set by industry leaders
 
