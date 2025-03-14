@@ -12,8 +12,6 @@ I’m currently taking a 6-week open online course in mixing and remixing music,
 
 I’ve chosen a track from Alcest’s second album, Écailles de lune, called Sur l’océan couleur de fer. I particularly like its sorrowful and slightly mysterious lyrics (they work better in French, but I’ve pasted a translation below). I think the track is about 30% longer than it needs to be, but I still really like it.
 
-<iframe title="Alcest - Sur L'Océan Couleur De Fer" width="640" height="480" src="Play%20with%20Your%20Music%20%E2%80%93%20Module%201%20Analyse%20your%20favourite%20tune%20and%20share%20it%20%E2%80%93%20Martin%20Lugton_files/waGDKnFv_Vg.htm" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
 **Lyrics:**
 
 On The Iron-Coloured Ocean

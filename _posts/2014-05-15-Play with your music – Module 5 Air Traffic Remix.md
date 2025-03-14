@@ -8,11 +8,11 @@ redirect_from:
 
 For this module in the Play With Your Music course, I’ve been remixing ‘Air traffic’ by Clara Berry and Wooldog. Here’s the original track:
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="Play%20with%20your%20music%20%E2%80%93%20Module%205%20Air%20Traffic%20Remix%20%E2%80%93%20Martin%20Lugton_files/a.htm"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/68155247&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/claraberry" title="Clara Berry" target="_blank" style="color: #cccccc; text-decoration: none;">Clara Berry</a> · <a href="https://soundcloud.com/claraberry/air-traffic" title="Air Traffic" target="_blank" style="color: #cccccc; text-decoration: none;">Air Traffic</a></div>
 
 And here’s my remix:
 
-<iframe loading="lazy" width="100%" height="166" scrolling="no" frameborder="no" src="Play%20with%20your%20music%20%E2%80%93%20Module%205%20Air%20Traffic%20Remix%20%E2%80%93%20Martin%20Lugton_files/a_002.htm"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/132181893&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/martinlugton" title="martinlugton" target="_blank" style="color: #cccccc; text-decoration: none;">martinlugton</a> · <a href="https://soundcloud.com/martinlugton/air-traffic-remix" title="Air Traffic remix" target="_blank" style="color: #cccccc; text-decoration: none;">Air Traffic remix</a></div>
 
 I started by listening through the original mix and picking out some samples I liked.  
 Because we have access to the master mix, it’s possible to isolate a single voice or instrument.  

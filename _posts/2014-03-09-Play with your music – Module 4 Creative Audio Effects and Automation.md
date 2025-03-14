@@ -8,7 +8,7 @@ redirect_from:
 
 This week in Play with your music we’ve been looking at a few basic effects that you can apply to individual tracks of audio while mixing: delay, reverb, EQ and compression. This week’s assignment was to create a version of “Air Traffic” with some effects applied. An optional task was to use this to create a new dynamic mix of air traffic. The optional task sounded like a fun extension so I tackled this too.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="Play%20with%20your%20music%20%E2%80%93%20Module%204%20Creative%20Audio%20Effects%20and%20Automation%20%E2%80%93%20Martin%20Lugton_files/a.htm"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/123840716&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/martinlugton" title="martinlugton" target="_blank" style="color: #cccccc; text-decoration: none;">martinlugton</a> · <a href="https://soundcloud.com/martinlugton/air-traffic-mix" title="Air Traffic mix" target="_blank" style="color: #cccccc; text-decoration: none;">Air Traffic mix</a></div>
 
 Here are some things that I wanted to do with my mix:
 
