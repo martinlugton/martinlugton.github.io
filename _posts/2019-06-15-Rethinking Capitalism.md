@@ -8,7 +8,7 @@ redirect_from:
 
 *Notes on a lecture by Eric Beinhocker on ‘The economy as a complex and evolving system’*
 
-<iframe title="W5 academic lecture - Eric Beinhocker: The economy as a complex and evolving system" width="640" height="360" src="Rethinking%20Capitalism%20%E2%80%93%20Martin%20Lugton_files/7-RdnoxSZiM.htm" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7-RdnoxSZiM?si=fzC36MJVVVPUBAUl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The income of the bottom 90% of earners in the US has stagnated from 1973 onwards.
 
@@ -131,7 +131,7 @@ Human cooperation is fundamental to problem solving.
 
 To demonstrate this, Thomas Thwaites tried to build a toaster from scratch.
 
-<iframe loading="lazy" title="Thomas Thwaites: How I built a toaster -- from scratch" width="640" height="360" src="Rethinking%20Capitalism%20%E2%80%93%20Martin%20Lugton_files/5ODzO7Lz_pw.htm" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ODzO7Lz_pw?si=l4B5gsZhaU9oqIuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Because cooperation is crucial, and because capitalism exists to solve human problems, then inclusion and a fair social contract are fundamental to capitalist prosperity.
 
