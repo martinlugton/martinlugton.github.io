@@ -16,7 +16,7 @@ I love planning activities within constraints to maximise my enjoyment, so I was
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-But I was soon disappointed, as I [downloaded the document](http://www.martinlugton.com/wp-content/uploads/2014/04/graspop-2014-original-running-order-time-schedule-originally-called-graspop-running-order-schedule-GMM14-TimeSchedule.pdf) and tried to start planning which bands to see.
+But I was soon disappointed, as I downloaded the document and tried to start planning which bands to see.
 
 In looking at this document I made two basic visual assumptions:
 

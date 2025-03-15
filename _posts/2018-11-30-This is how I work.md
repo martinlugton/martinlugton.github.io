@@ -6,11 +6,11 @@ redirect_from:
   - /this-is-how-i-work/
 ---
 
-**Location**: London
-**Current Gig: **Senior Product Manager, GOV.UK, Government Digital Service.<br>
+**Location**: London<br>
+**Current Gig:** Senior Product Manager, GOV.UK, Government Digital Service.<br>
 **Current mobile device**: Samsung Galaxy S8<br>
 **Current computer**: At home: A self-assembled [desktop](https://uk.pcpartpicker.com/user/martinlugton/saved/#view=f4pKHx) from 2014, optimised for quiet acoustics and now with a 1070 graphics card, or a Asus ZenBook UX305CA laptop. At work: A 13″ Macbook Air.<br>
-**One word that best describes how you work: **Spiritedly<br>
+**One word that best describes how you work:** Spiritedly<br>
 
 #### First of all, tell us a little about your background and how you got to where you are&nbsp;today.
 
@@ -60,12 +60,37 @@ Sometimes not doing a thing is the best approach.
 
 I insist that every card on my team’s trello board has a ‘What’ and a ‘Why’in its description, so that anyone can understand the purpose of the work. “Can you get a What and a Why on that?” has become a sort of joke catch phrase but I’m okay with that. It makes sure that everyone in a multi-disciplinary team understands the purpose of everything that is being worked on, and it trains people in communicating beyond their own specialism.
 
-#### How do you keep track of what you have to&nbsp;do?
+#### How do you keep track of what you have to do?
 
 Google calendar for solo tasks. Trello cards for things I’m working on with my teams.
 
 I’ve tried the Getting Things Done framework, but when things get busy I’ve found it too brittle.
 
-I take notes of&nbsp; things to do on post-its and stick them to my laptop. I triage them to something electronic within the hour.
+I take notes of things to do on post-its and stick them to my laptop. I triage them to something electronic within the hour.
 
-#### What’s your favourite side&nbsp;project?
+#### What’s your favourite side project?
+
+[My Social Summary](https://mysocialsummary.com/). I built it from the ground up (that’s why the front-end looks rubbish ;)) and I [learnt loads](https://www.martinlugton.com/learnt-building-side-project/). It’s now a paid-for product. For £3 a month you get a daily (or twice daily) summary of the best material shared by your twitter network.
+
+I’m also proud of the technical work I did on a creative project with my ex-girlfriend. I set up most of the standard things that a competent developer would do: version control, automated testing, a decent build pipeline, programmatic creation and destruction of review applications. The product idea was a fun and interesting one, and I got to play around with a few different APIs.
+
+#### What are you currently reading, or what do you recommend?
+
+For work-type reading, I’d recommend “Turn the Ship around” by David Marquet. It’s about intent-based leadership and how you can give people space to do great things. In knowledge work you need to lead this way, not in a command-and-control fashion.
+
+The novels that have impressed me most as an adult are probably Nabokov’s Pale Fire and Paul Auster’s New York Trilogy.
+
+#### Who else would you like to see answer these questions?
+
+Some of the Lead Product Managers and Heads of Product at GDS and across government.
+
+#### What’s the best advice you’ve ever received?
+
+“Time’s short, your life’s your own. And in the end we are just dust and bones.”
+
+“Work smarter not harder”
+
+“Love is letting go of fear”
+
+“Just Fucking Do It”
+

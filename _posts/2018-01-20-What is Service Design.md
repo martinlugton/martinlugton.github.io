@@ -57,7 +57,7 @@ The two most important things to do when designing a service:
 Understand user needs
 Prototype and iterate
 
-Check out [IDEO’s Design Kit](http://www.designkit.org/methods) for service design techniques you can use. (And [read about the design project I worked on](https://www.martinlugton.com/might-broaden-political-discourse-understanding-people-age-25-35-uk-design-project-design-kit-course/) if you’re interested.)
+Check out [IDEO’s Design Kit](http://www.designkit.org/methods) for service design techniques you can use. (And [read about the design project I worked on](https://www.martinlugton.com/how-might-we-broaden-political-discourse-understanding-people-age-25-35-uk-design-project-design-kit-course) if you’re interested.)
 
 To improve an existing service, this flow of activities is useful:
 

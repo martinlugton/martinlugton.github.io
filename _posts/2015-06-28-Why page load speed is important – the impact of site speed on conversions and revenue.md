@@ -20,9 +20,7 @@ Visitors expect your website to load quickly, and will leave if you make them wa
 - **Mozilla:** reducing average load time by 2.2 seconds increased conversions by 15.4%. ([Reference](http://www.webperformancetoday.com/2011/11/23/case-study-slow-page-load-mobile-business-metrics/))
 - **AutoAnything.com:** 50% reduction in page load times increased sales by 13%. ([Reference](http://www.webperformancetoday.com/2011/11/23/case-study-slow-page-load-mobile-business-metrics/))
 
-<iframe title="Pedal to the Metal: Speed up your load times for more conversions" src="Why%20page%20load%20speed%20is%20important%20%E2%80%93%20the%20impact%20of%20site%20speed%20on%20conversions%20and%20revenue%20%E2%80%93%20Martin%20Lugton_files/qEbNWeTCp5AC54.htm" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen=""> </iframe>
-
-<div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/tammyeverts/pedal-to-the-metal-speed-up-your-load-times-for-more-conversions" title="Pedal to the Metal: Speed up your load times for more conversions" target="_blank">Pedal to the Metal: Speed up your load times for more conversions</a> </strong> from <strong><a href="https://www.slideshare.net/tammyeverts" target="_blank">Tammy Everts</a></strong> </div>
+See <a href="https://www.slideshare.net/tammyeverts/pedal-to-the-metal-speed-up-your-load-times-for-more-conversions" title="Pedal to the Metal: Speed up your load times for more conversions" target="_blank">Pedal to the Metal: Speed up your load times for more conversions</a> from Tammy Everts
 
 - **Obama campaign:** reducing load time by 60% increased donation conversions by 14%.
 

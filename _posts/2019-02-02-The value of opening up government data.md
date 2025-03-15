@@ -113,8 +113,6 @@ Publishing open data is a crucial start. But it isn’t enough.
 
 We need to optimise for use and value.
 
-We need to optimise for use and value.
-
 > “It is not enough to have open data; quality, reliability and accessibility are also required.”  
 > Theresa May, December 2017
 
