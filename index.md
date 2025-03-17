@@ -24,11 +24,11 @@ Want a flavour of my thinking? Here are some sample posts:
 - [Continuous Discovery Habits](https://www.martinlugton.com/continuous-discovery-habits)
 - [Futures thinking and strategic foresight](https://www.martinlugton.com/futures-thinking-strategic-foresight-summary-become-futurist-metafuture-school)
 
-## Artificial intelligence and machine learning
+## Artificial Intelligence and machine learning
 
 - [My first attempts learning about machine learning in 2015](https://www.martinlugton.com/cognitive-technologies-real-opportunities-business-course-notes)
 - [A deeper specialisation I took on machine learning in 2024](https://www.martinlugton.com/machine-learning-specialisation)
-- AI for Good (specialisation completed in early 2025; writeup to follow)
+- [AI for Good specialisation, 2025](https://www.martinlugton.com/AI-for-good-specialisation)
 
 ## Leadership and management
 
