@@ -1,6 +1,7 @@
 ---
 title: "Summary of AI for Good Specialisation from DeepLearning.AI"
 permalink: /AI-for-good-specialisation
+date: 2025-03-17T08:30:53+00:00
 ---
 
 _I recently completed [DeepLearning.AI’s AI for Good Specialization](https://www.deeplearning.ai/courses/ai-for-good/). In this post I summarise some of the key points.
@@ -14,11 +15,11 @@ Some things to be wary of from the outset when thinking about harnessing AI:
 So be wary of falling into an AI-first mindset and seeing every problem as an AI problem. 
 E.g. covid swab tests were quick and cheap. So even though researchers showed that you could use AI and medical imaging to test for covid, that would have been much more expensive, and impractical.2. 
 
-TODO: AI FIRST MINDSET IMAGE
+![AI first mindset](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Al first mindset.png?raw=true)
 
 Rather, AI is one potential tool in your toolkit:
 
-TODO: AI IS ONLY A POTENTIAL SOLUTION IMAGE
+![AI is only a potential solution](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/AI is only a potential solution.png?raw=true)
 
 2. Be careful with personally identifiable information. It can be used by authoritarian regimes to crackdown on dissidents.
 
@@ -34,7 +35,7 @@ Most AI projects, and most for-good projects, fail to achieve a demonstrable pos
 
 "The majority of ideas, however well intentioned, are not going to work out. Being able to recognise that you are not likely to be able to reach a successful outcome is one of the most important leadership and design skills that you can develop"
 
-TODO: AI FOR GOOD FRAMEWORK IMAGE
+![AI for Good framework](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/AI for Good framework.png?raw=true)
 
 At the end of the Explore phase, you should be able to answer the following questions:
 - What is the specific problem you are addressing?
@@ -75,12 +76,13 @@ Neonatal asphyxia is one of the top causes of sudden death and disability in inf
 Ubenwa Health created an app to detect signs of asphyxia from a baby’s cry.
 It uses an algorithm trained on a labelled dataset of labelled cry recordings, to output ‘healthy’ or ‘not healthy’. They used a large and diverse dataset, with input from Brazil, Canada and Nigeria.
 
+-The average number of premature deaths from air pollution globally each year is similar to the number of annual deaths from covid at the peak of the pandemic.
 
-The average number of premature deaths from air pollution globally each year is similar to the number of annual deaths from covid at the peak of the pandemic.
-The death rate due to air pollution is 50% higher today than 20 years ago.
+-The death rate due to air pollution is 50% higher today than 20 years ago.
 
-98% of urban areas in developing countries don’t meet accepted air quality standards
-Every $1 invested in preventing air pollution has an estimated $30 benefit
+-98% of urban areas in developing countries don’t meet accepted air quality standards
+
+-Every $1 invested in preventing air pollution has an estimated $30 benefit
 
 The type of air pollution that causes the most deaths globally is particulate matter less than 2 microns in diameter (“PM 2.5”).
 
@@ -88,7 +90,7 @@ Robert Monarch recommends [Purple Air](https://map.purpleair.com/air-quality-sta
 
 # AI and Climate Change
 
-TODO: ADD 2100 Warming Projection
+![2100 warming projection](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/2100 warming projection.png?raw=true)
 
 Some examples of how AI can help with climate change:
 
@@ -116,7 +118,7 @@ It's important to be able to do this, because we need to generate enough power o
 
 DeepMind found that they could [increase the value of wind power by about 20%](https://blog.google/technology/ai/machine-learning-can-boost-value-wind-energy/) by increasing the reliability of forecasting wind power output up to 36 hours in advance. This allowed them to make advance commitments to the grid that were not previously possible.
 
-TODO: ADD DEEPMIND WIND POWER IMAGE
+![DeepMind wind power predictions](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/DeepMind wind power predictions.png?raw=true)
 
 To help manage fluctuations in renewable output over time, you have to keep coal power plants running at a low % utilisation (because they take hours to go from 0 to some % output, so you generally run them at a small % output and then ramp up when you need them, as you can do that much more quickly). But running at low % utilisation is inefficient - they are more energy efficient at high utilisation.
 
@@ -124,11 +126,11 @@ Large-scale energy storage doesn’t exist yet, hence the importance of forecast
 
 A comparison of the potential quality of machine learning versus simple linear models:
 
-TODO: ADD WIND POWER FORECASTING LINEAR REGRESSION
+![Wind power forecasting - linear regression](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/\Wind power forecasting - linear regression.png?raw=true)
 
 A neural network, capable of describing non-linear relationships between variables, does a much better job:
 
-TODO: ADD WIND POWER FORECASTING NEURAL NETWORK
+![Wind power forecasting - neural network](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Wind power forecasting - neural network.png?raw=true)
 
 ## Climate change and biodiversity
 
@@ -145,17 +147,17 @@ How can AI help monitor biodiversity?
 
 - Bioacoustic monitoring - set up microphones in lots of locations, and then use AI to identify the different creatures that you can hear over time.
 
-TODO: ADD IMAGE ON BIOACOUSTIC MONITORING
+![Bioacoustic monitoring](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Bioacoustic monitoring.png?raw=true)
 
 - Overhead imaging of natural ecosystems. E.g. NASA’s Earth Observatory tracking deforestation, or Sen2Coral project monitoring coral bleaching
 - Citizen science: iNaturalist platform allows people to upload pictures. E.g. European Plants project
 - Camera traps triggered by motion (Use the Megadetector project, which classifies things as animal, vehicle, human or empty, to filter out empty images, or ones containing humans)
 
-TODO: ADD CAMERA TRAP DATA IMAGE
+![Camera trap data](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Camera trap data.png?raw=true)
 
 Given the amount of data we’re collecting, manual data processing does not scale. So you need to use AI:
 
-TODO: ADD IMAGE: MANUAL DATA PROCESSING DOES NOT SCALE
+![Manual data processing does not scale](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Manual Data Processing Doesn't Scale.png?raw=true)
 
 There’s a data bias issue: most global biodiversity is in SouthEast Asia, sub-Saharan Africa, and Southern America. But most data we have is of Europe and North America.
 
@@ -219,7 +221,7 @@ Helping communities help themselves is generally the most impactful intervention
 
 “I believe that some of the work that I have done helping large companies deploy technologies in more languages has probably had a bigger impact on disaster response, than some of the time that I've spent working in refugee camps for the UN.” - Robert Monarch
 
-TODO: ADD IMAGE ON LOW RESOURCE LANGUAGES
+![Low resource languages](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Low-resource languages.png?raw=true)
 
 Haitian Kreyol was underserved by AI translation after the 2010 earthquake. This meant that the large volume of requests for help couldn’t be understood by outside workers. 
 Project 4636 - text 4636 with requests for help. Diaspora population manually translated messages from Haitian Kreyol. The labelled corpus that they created formed the basis of the first machine translation services from Google to Haitian Kreyol.
@@ -248,7 +250,7 @@ Metrics: accuracy, precision and recall:
 - precision: true positives / all positive predictions
 - recall: true positives / all actual positives
 
-TODO: ADD IMAGE ON EVALUATION METRICS
+![Evaluation metrics - accuracy, precision and recall](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/Evaluation metrics - accuracy, precision and recall.png?raw=true)
 
 # Harm and getting involved
 

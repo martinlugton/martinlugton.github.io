@@ -6,7 +6,7 @@ redirect_from:
   - /how-might-we-broaden-political-discourse-understanding-people-age-25-35-uk-design-project-design-kit-course/
 ---
 
-*This is a writeup of the design project I carried out with [Tamsyn Hyatt](https://twitter.com/tamsynhyatt) as part of Ideo and +Acumen’s [Design Kit: The Course for Human-Centered Design](https://www.martinlugton.com/%E2%80%8B%E2%80%8Bdesign-kit-course-human-centered-design-summarised/). Check out the [prototype](https://www.martinlugton.com/wp-content/uploads/2017/03/ideo-prototype-ideologicaly-diverse-news-aggregator-for-user-testing.pdf) we produced.*
+*This is a writeup of the design project I carried out with [Tamsyn Hyatt](https://twitter.com/tamsynhyatt) as part of Ideo and +Acumen’s [Design Kit: The Course for Human-Centered Design](https://www.martinlugton.com/design-kit-course-human-centered-design-summarised).*
 
 ### Inspiration
 
@@ -66,9 +66,7 @@ Profession: Administrator for a small healthcare company
 
 #### What did you prototype? What question(s) were you trying to answer?
 
-We ​tested a [clickable digital prototype](https://www.martinlugton.com/wp-content/uploads/2017/03/ideo-prototype-ideologicaly-diverse-news-aggregator-for-user-testing.pdf)​ made using the Balsamiq mockup tool.
-
-![Prototype](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/West-London-Digital-Explorers_Challenge4_FinalPrototype.png?raw=true)
+We ​tested a clickable digital prototype​ made using the Balsamiq mockup tool.
 
 The most important question to research was:
 
