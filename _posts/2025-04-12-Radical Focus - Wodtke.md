@@ -1,7 +1,7 @@
 ---
 title: "Radical Focus - Christina Wodtke - summary"
 permalink: /radical-focus-wodtke-summary
-date: 2025-04-12T20:43:00+00:00
+date: 2025-04-12T19:43:00+00:00
 ---
  
 > "We start our journey to our dreams by wanting, but we arrive by focusing, planning, and learning."
