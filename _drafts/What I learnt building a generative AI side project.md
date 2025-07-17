@@ -58,31 +58,31 @@ I was happy testing out the idea on a small scale, but didn't like the idea of b
 
 - Developing a pricing and business model for a B2C startup. I was able to work out how much it would cost me to save a user an hour of their time, and then I could work out how much I'd charge for that. Charging people for the outcome - the time saved - is a key principle of product-led growth, and it fit well with how the economics of per-user LLM API calls work, and aligned nicely with the core value proposition of the product.
 
-- The nuance of working out price, combining a range of different considerations: the go-to-market approach and product-led growth approach (freemium or free trial), the different LLMs and their associated costs, and different price points for paying users to drive adoption of some and discourage others. It was the most complex part of the whole development (even more so than my interlocking bash scripts). I built a spreadsheet to model these dimensions to help me plan this product as a business, and work out whether I thought I could make a profit. It included foundational factors like:
+- The nuance of working out price, combining a range of considerations: the go-to-market and product-led growth approach, the different LLMs and their associated costs, and different price points to encourage paid subscriptions. It was the most complex part of the whole development. I built a spreadsheet to model these dimensions to help me plan this product as a business, and work out whether I thought I could make a profit. It included foundational factors like:
   - Transcription and summarisation cost for 1 hour (GPT 3.5 16k)
-  -Transcription and summarisation cost for 1 hour (Claude 2)
-  -% of non-paying users that we expect to convert (from an industry benchmark)
-  -Number of free hours that non-paying users get per month
-  -Number of hours that a paid user gets each month
-  -Price charged to paying user per month
-  -Expected card payment fee
-Some of these factors were fixed, and others I could vary at will. I used the modelling spreadsheet to play around with the variables that I could control (such as price charged to the user), and updated the other details like cost of transcribing an hour's material as these factors changed over time.
+  - Transcription and summarisation cost for 1 hour (Claude 2)
+  - % of non-paying users that we expect to convert (from an industry benchmark)
+  - Expected card payment fee
+  - Number of free hours that non-paying users get per month
+  - Number of hours that a paid user gets each month
+  - Price charged to paying user per month
+Some of these factors were fixed, and others I could vary at will. I used the modelling spreadsheet to play around with the variables that I could control (such as price), and updated the other details like cost of transcribing an hour's material as these factors changed over time.
 
-I explored different levels of free offering to freemium users, in terms of the number of hours, and at different pricing levels for different numbers of hours of time saved that a user could purchase each month. The spreadsheet calculated a 'profit per user per month' value for a given price level.
+I explored different levels of generosity in the free offering, and different tiers of payment and the number of hours of time saved that the user would get each month for that price. The spreadsheet calculated a 'profit per user per month' value for a given price level.
 This modelling helped me explore a range of different options and think more widely and creatively than before - whilst being grounded in my current best understanding of the economics of things like API costs, likely conversion rates from freemium use, and payment provider fees.
 
 I created different tabs, exploring freemium and free trial options, testing them against each other, before arriving on the freemium model.
 
 - Calling out and testing risky assumptions and hypotheses in a commercial startup context, as opposed to my day job in government, where this activity is quite different
 
-Overall, my two takeaways were the enjoyment of the product capabilities of LLMs, and the excitement of the hard graft of interacting between a compelling idea and the rigours of working out how to design a successful software business.
+Overall, my two takeaways were the clear product capabilities opened up by LLMs, and the excitement of the challenge of interacting between a compelling product idea and the rigours of working out how to design a viable software business around it.
 
 # What I'd do differently next time
 
-Have a cleaner approach to the infrastructure. Using whisper locally was economically fantastic - I could essentially transcribe podcast episodes at zero cost. This made the business viable, as whisper AP pricing was expensive. But it also came at a cost: running the product off my regular desktop was messy. If I went back in time to do this again, I would take a disciplined container-based approach to orchestrating the infrastructure running locally. If I was building the product again _today_, I'd probably just use whisper and incorporate it into my pricing model, doing some optimisations upstream of sending the data to the LLM (e.g. trimming out silence) to reduce costs.
+- Have a cleaner approach to the infrastructure. Using Whisper locally was economically fantastic - I could essentially transcribe podcast episodes at zero cost. This made the business viable, as Whisper API pricing was prohibitively expensive. But it also came at a cost: running the product off my regular desktop was messy, with the code running alongside everything else. If I built this again, I would take a container-based approach to orchestrating the infrastructure running locally, so that it was split off. Or I'd just use Whisper via API and incorporate it into my pricing model, doing some optimisations upstream of sending the data to it (e.g. trimming out silence) to reduce costs.
 
-Bake in a formal evaluation approach to ensure quality. I eyeballed a range of difficult cases early on, and monitored a % of the emails going out by hand. This quickly became unsustainable. If I was doing this again, I'd want to review summary quality in a reproducible way on each significant change (e.g. for each pull request, like you'd do in other software as part of a suite of automated tests).
+- Bake in a formal evaluation approach to ensure quality. I eyeballed a range of difficult cases early on, and monitored a % of the emails going out by hand. This quickly became unsustainable. If I was doing this again, I'd want to review summary quality in a reproducible way on each significant change (e.g. for each pull request, like you'd do in other software as part of a suite of automated tests).
 
 # What's next?
 
-LLMs are better and cheaper than when I built this product, and they have longer context windows. I want to use these capabilities to help people in the charity sector carry out parliamentary work more effectively. I'll likely do this as a side project with my brother, drawing on some ideas we've been discussing for a couple of years. My hope will be to take the idea through to production.
+LLMs are better and cheaper than when I built this product, and they have longer context windows. I want to use these capabilities to help people in the charity sector carry out parliamentary work more effectively.
