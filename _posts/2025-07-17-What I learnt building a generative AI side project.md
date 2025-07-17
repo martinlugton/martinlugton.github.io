@@ -1,7 +1,7 @@
 ---
 title: "What I learnt building a generative AI side project"
 permalink: /what-I-learnt-building-generative-AI-side-project
-date: 2025-07-17T23:00:00+00:00
+date: 2025-07-17T22:00:00+00:00
 ---
 
 _Back in 2023 I built a generative AI side project using a couple of large language models (LLMs). This post explains what I built, what I learnt, and what I'd do differently next time._
