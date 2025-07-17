@@ -28,7 +28,7 @@ I build a product that transcribed and summarised each new podcast episode for a
 
 The email contained a summary of the new podcast episode, and also made it clear to the user how much time they'd saved by using the product.
 
-![An example podcast summary email. Sections include a summary, a key quote, and potential limitations and divergent views](https://github.com/martinlugton/martinlugton.github.io/blob/main/example-summacast.png?raw=true)
+![An example podcast summary email. Sections include a summary, a key quote, and potential limitations and divergent views](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/example-summacast.png?raw=true)
 
 I planned the business model, cost model and pricing approach.
 
