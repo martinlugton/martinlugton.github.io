@@ -26,6 +26,7 @@ Want a flavour of my thinking? Here are some sample posts:
 
 ## Artificial Intelligence and machine learning
 
+- [What I learnt building a generative AI side project](https://www.martinlugton.com/what-I-learnt-building-generative-AI-side-project)
 - [My first attempts learning about machine learning in 2015](https://www.martinlugton.com/cognitive-technologies-real-opportunities-business-course-notes)
 - [A deeper specialisation I took on machine learning in 2024](https://www.martinlugton.com/machine-learning-specialisation)
 - [AI for Good specialisation, 2025](https://www.martinlugton.com/AI-for-good-specialisation)
@@ -38,7 +39,6 @@ Want a flavour of my thinking? Here are some sample posts:
 
 ## Technical skills
 
-- [What I learnt building a generative AI side project](https://www.martinlugton.com/what-I-learnt-building-generative-AI-side-project)
 - [What I learnt by building a side project](https://www.martinlugton.com/what-i-learnt-by-building-a-side-project)
 - [Building a food bank API](https://www.martinlugton.com/build-a-food-bank-api-part-1)
 - [Building a build pipeline in gitlab and heroku](https://www.martinlugton.com/how-to-create-review-apps-in-heroku-from-gitlab)
