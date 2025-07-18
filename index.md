@@ -38,6 +38,7 @@ Want a flavour of my thinking? Here are some sample posts:
 
 ## Technical skills
 
+- [What I learnt building a generative AI side project](https://www.martinlugton.com/what-i-learnt-building-a-generative-ai-side-project)
 - [What I learnt by building a side project](https://www.martinlugton.com/what-i-learnt-by-building-a-side-project)
 - [Building a food bank API](https://www.martinlugton.com/build-a-food-bank-api-part-1)
 - [Building a build pipeline in gitlab and heroku](https://www.martinlugton.com/how-to-create-review-apps-in-heroku-from-gitlab)
