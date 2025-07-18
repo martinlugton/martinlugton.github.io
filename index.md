@@ -10,7 +10,7 @@ I enjoy both launching new products and the challenges of driving value from est
 
 Some recent highlights include:
 - launching [GOV.UK Forms](https://www.forms.service.gov.uk/) into beta, and growing it from 0 services to over 180
-- growing [GOV.UK Notify](https://www.notifications.service.gov.uk/) at a record pace of 232 new services in March 2025, using a product-led growth model
+- growing [GOV.UK Notify](https://www.notifications.service.gov.uk/) at a record pace (for example, onboarding 232 new services in March 2025) using a product-led growth model
 - securing 3 billion pieces of PPE for the UK during covid
 - helping boost staff satisfaction and trust in leadership in my deputy-directorate at GDS
 
