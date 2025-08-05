@@ -1,6 +1,6 @@
 ---
 title: "What I learnt using generative AI to build a generative AI product"
-permalink: /what-I-learnt-using-generative-AI-to-build-generative-AI-side-project
+permalink: /what-I-learnt-using-generative-AI-to-build-a-generative-AI-product
 date: 2025-08-05T22:00:00+00:00
 ---
 
