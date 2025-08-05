@@ -4,11 +4,11 @@ permalink: /what-I-learnt-using-generative-AI-to-build-generative-AI-side-projec
 date: 2025-08-05T22:00:00+00:00
 ---
 
-_Back in 2023 [I built a side project that used generative AI to transcribe and summarise podcast episodes](https://www.martinlugton.com/what-I-learnt-building-generative-AI-side-project). I built it by hand, in Python and Bash scripts, using Whisper running locally and API calls to GPT 3.5 and Claude 2.
+_Back in 2023 [I built a side project that used generative AI to transcribe and summarise podcast episodes](https://www.martinlugton.com/what-I-learnt-building-generative-AI-side-project). I built it by hand, in Python and Bash scripts, using Whisper running locally and API calls to GPT 3.5 and Claude 2._
 
 _I've been intrigued by coding agents like [Claude Code](https://www.anthropic.com/claude-code) and [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/), so decided to try and build the entire product again by pairing with Gemini CLI. I set myself a rule of only interacting via the command line interface, and not making any direct edits to the code myself. Everything would go through the agent_
 
-_I defined a [set of instructions and rules of engagement for the agent to follow](https://github.com/martinlugton/summacast-rebuild/blob/main/gemini.md) and then interacted with the agent via in the command line interface.
+_I defined a [set of instructions and rules of engagement for the agent to follow](https://github.com/martinlugton/summacast-rebuild/blob/main/gemini.md) and then interacted with the agent via in the command line interface._
 
 ![The Gemini CLI splash screen, showing the GEMINI logo in blue and green on a black background](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/gemini-cli-splash-screen.png?raw=true)
 
