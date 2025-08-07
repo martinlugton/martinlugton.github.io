@@ -50,14 +50,7 @@
     {% endif %}
   </author>
   {% endif %}
-  {% if page.tags %}
-    {% assign posts = site.tags[page.tags] %}
-  {% else %}
-    {% assign posts = site[page.collection] %}
-  {% endif %}
-  {% if page.category %}
-    {% assign posts = posts | where: "categories", page.category %}
-  {% endif %}
+  {% assign posts = site.posts %}
   {% unless site.show_drafts %}
     {% assign posts = posts | where_exp: "post", "post.draft != true" %}
   {% endunless %}
