@@ -46,7 +46,7 @@ _Here's an example of how Gemini handled a small change and the associated eleme
 2. **It allowed me to take a more strategic cognitive focus**  
 When things were going smoothly, the agent  handled the mechanical side of development. It managed dependencies, wrote tests, and handled file operations. My role was more about big-picture, strategy and review.
 I noted that "I've found myself mostly checking the commit messages when it's been working well". This freed me from the details and allowed me to focus on the bigger picture.
-3. **It helped me iterate more quickly**
+3. **It helped me iterate more quickly**  
 At one point, I wanted to dramatically improve the summary format, requesting a detailed list, concrete examples, a key quote, and a section on divergent views, all formatted in HTML. 
 I noted that "It did this in less than 2 minutes. And it worked quite well!"
 
@@ -70,7 +70,7 @@ _Gemini sneakily messing up my .gitignore file. In a production context, pushing
 The agent kept hitting problems when trying to add a feature to view and summarise historic podcast episodes. It kept getting into infinite loops when adding tests.
 4. **You can't reliably see the console output**  
 Most console output was visible as normal, but certain operations weren't displayed properly. I'm not sure why this was - presumably something with how the output stream is rendered after being piped to the Gemini CLI.
-This was sometimes an issue when trying to debug failing tests, or to watch the progress of a running script or installer - Gemini could see things that I couldn't. Writing logs to file was a useful workaround.
+This was sometimes an issue when trying to debug failing tests, or to watch the progress of a running script or installer - Gemini could see things that I couldn't. Writing logs to file was a useful workaround.  
 ![](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/example-of-illegible-console-output.png?raw=true)  
 _Any idea how this dependency installation is going? Me neither!_
 5. **It didn't pay close attention to the [GEMINI.md](https://github.com/martinlugton/summacast-rebuild/blob/main/gemini.md) file**  
