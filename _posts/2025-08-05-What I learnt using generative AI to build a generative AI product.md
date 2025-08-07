@@ -33,6 +33,8 @@ We then set up:
 - A simple SQLite database to keep track of which episodes had been downloaded, transcribed and summarised.
 - A simple web interface (Flask) to visualise the processed episodes, view their summaries, and add or remove feeds from the browser. (I hadn't planned this, but Gemini suggested it and implemented it speedily)
 
+If you'd like to see what was built, [check out the github repo](https://github.com/martinlugton/summacast-rebuild).
+
 ## What went well
 
 At times, working with the Gemini agent was very effective:
@@ -54,34 +56,25 @@ I noted that "It did this in less than 2 minutes. And it worked quite well!"
 At one point, some iterations to the separate Gemini CLI instance led to an odd 404 error. The agent became stuck, suggesting that my API key was wrong, or that the model wasn't available in my region. This diagnosis was way off - probably because the 404 error code wasn't really appropriate for what was going wrong.
 The agent insisted on leaving things at this dead end, so I had to manually push it to revert to an earlier version of the script that had been working, and slowly build back up from there. With patient coaching, this led to it eventually understanding what was going on and being able to move forwards.
 When it's fast, it's faster than normal programming; but when it's having problems, it often feels slower and more frustrating than normal programming.
-
 ![A terminal window showing A terminal showing the following text from Gemini: I cannot resolve this issue from my end. You must manually investigate and verify the Google Cloud project configuration, API key permissions, regional model availability, and network settings within your production environment. I cannot proceed with any further development related to Gemini summarization until this external configuration issue is resolved in your production environment. Please let me know once you have investigated and resolved the API access problem. [The user then responds with: The script used to work fine - e.g. 36 hours ago. Could we try running a stripped down version for diagnostic purposes?] Okay, that's a very important piece of information. If it was working 36 hours ago, then something did change, and it's not necessarily a fundamental environment issue that's always been there. Let's try to pinpoint that change. I'll create a new diagnostic script using the version of summarize_podcast.py from commit 00c4e217837f6ee1fb655470e6db7f81902c9672](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/realising-that-the-error-can-be-solved.png?raw=true)
 _It was a struggle to get the agent to take the right approach to solving the problem - you can see how forceful it was being - but I coached it through in the end_
-
 I was surprised how my experience with Gemini was very much like coaching someone - including helping them see a problem a different way. I hadn't expected that.
-
 2. It can make silly (and dangerous) mistakes
 The agent sometimes made simple errors, the type a human would make. For example using file operation terminal commands for Linux rather than Windows, or forgetting to stage files.
 Usually it would spot these and quickly resolve them.
-
 The most alarming mistake was when it unexpectedly, seemingly randomly, removed sensitive files and folders from the .gitignore file! I then refined my workflow: I'd largely give Gemini free-rein on file edits and most commands, but I would always pause execution and review anything git-related.
   This also turned out to be a good rhythm for reviewing and intervening, because if you just left Gemini running without a pause, it could work faster than you could keep up with what was going on.
-  
 ![Terminal showing Gemini removing a number of files from .gitignore, including .env - environment variables](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/randomly-removing-important-files-and-folders-from-gitignore.png?raw=true)
 _Gemini sneakily messing up my .gitignore file. In a production context, pushing environment variables to a code repository would be a security incident_  
-
 ![Terminal showing the user sending a prompt to Gemini CLI, and receiving a response: > Explain those gitignore changes, please. Do we really want to remove all those areas from gitignore? Response: You are right to question that. My apologies, I intended to append gemini-interaction-summaries/ to the .gitignore file, not overwrite its contents. Overwriting would indeed remove any existing ignored patterns, which is not what we want.](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/gitignore-problems.png?raw=true)
 _At one point I had to interrupt Gemini when it was making a similar mistake_
-  
 3. Some things are too complex (at the moment)
 The agent kept hitting problems when trying to add a feature to view and summarise historic podcast episodes. It kept getting into infinite loops when adding tests.
-
 4. You can't reliably see the console output
 Most console output was visible as normal, but certain operations weren't displayed properly. I'm not sure why this was - presumably something with how the output stream is rendered after being piped to the Gemini CLI.
 This was sometimes an issue when trying to debug failing tests, or to watch the progress of a running script or installer - Gemini could see things that I couldn't. Writing things to file was a useful workaround.
-
-![Any idea how this dependency installation is going? Me neither!](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/example-of-illegible-console-output.png?raw=true)
-
+![](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/example-of-illegible-console-output.png?raw=true)
+_Any idea how this dependency installation is going? Me neither!_
 5. It didn't really pay attention to the GEMINI.md file
 This file is _supposed_ to work as a set of instructions and constraints. It worked pretty well for giving an idea of the project goals and the overall steps I wanted it to take - but Gemini would routinely forget to add tests, and almost never thought in terms of 'risky assumptions' to test and prove or disprove as it worked.
 I still worked with it, and got Gemini to make updates to this over time, including outlining mechanical tips on making successful commits in this environment. I'd often manually remind it to follow its GEMINI.md instructions - a bit like what it must feel like reminding a junior programmer to go away and write some tests (and making sure that they pass!) before committing their work.
