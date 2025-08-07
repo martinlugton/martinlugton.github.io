@@ -39,14 +39,11 @@ At times, working with the Gemini agent was very effective:
 
 1. It connected my code more quickly than I could
 At one point I noted that "It's really been flying this evening. Lots of pace in what it's built." We went from four separate scripts to a fully-integrated service with a database and web UI in a remarkably short time. Tasks that would have involved tedious boilerplate coding, like creating the initial Flask app structure, or adding new database columns or functions, were completed in minutes.
-
 ![A terminal window showing the following response from Gemini: Okay, I understand. We'll change the summary approach to be "up to 10% of the original transcript length". Here's the plan: 1. Modify `summarize_podcast.py`: * Remove the length parameter from summarize_text. * Adjust the prompt to instruct Gemini to summarize to approximately 10% of the input text. 2. Modify `main_workflow.py`: * Remove the summary_length retrieval. 3. Modify `podcast_config.json`: * Remove the summary_length field. 4. Modify `app.py`: * Remove summary_length from the add_podcast route. 5. Modify `templates/add_podcast.html`: * Remove the summary length selection dropdown. 6. Update Tests: * Adjust tests/test_summarize_podcast.py to test the new 10% summary logic. * Adjust tests/test_main_workflow.py to reflect the changes in summarize_text's signature.](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/I-would-like-to-change-the-summary-length-approach.png?raw=true)
 _Here's an example of how Gemini handled a small change and the associated elements of the codebase very quickly_
-
 2. It allowed me to take a more strategic cognitive focus
 When things were going smoothly, the agent  handled the mechanical side of development. It managed dependencies, wrote test, and handled file operations. My role was more about big-picture, strategy and review.
 I noted that "I've found myself mostly checking the commit messages when it's been working well". This freed me from the nitty-gritty details and allowed me to focus on the bigger picture.
-
 3. It helped me iterate more quickly
 At one point, I wanted to dramatically improve the summary format, requesting a detailed list, concrete examples, a key quote, and a section on divergent views, all formatted in HTML. 
 I noted that "It did this in less than 2 minutes. And it worked quite well!"
