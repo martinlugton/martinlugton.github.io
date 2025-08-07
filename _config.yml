@@ -10,7 +10,5 @@ author: Martin Lugton
 title: Martin Lugton
 description: Tech for good and digital government
 show_downloads: false
-feed:
-  post_limit: 50
 paginate: 5
 paginate_path: "/page:num/"
