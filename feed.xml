@@ -1,3 +1,5 @@
+---
+---
 <?xml version="1.0" encoding="utf-8"?>
 {% if page.xsl %}
 <?xml-stylesheet type="text/xml" href="{{ '/feed.xslt.xml' | absolute_url }}"?>
@@ -25,14 +27,14 @@
   {% endif %}
   {% if site.feed.icon %}
     {% assign feed_icon = site.feed.icon %}
-    {% unless feed_icon contains "://" %}
+    {% unless feed_icon contains ":://" %}
       {% assign feed_icon = feed_icon | absolute_url %}
     {% endunless %}
     <icon>{{ feed_icon | xml_escape }}</icon>
   {% endif %}
   {% if site.feed.logo %}
     {% assign feed_logo = site.feed.logo %}
-    {% unless feed_logo contains "://" %}
+    {% unless feed_logo contains ":://" %}
       {% assign feed_logo = feed_logo | absolute_url %}
     {% endunless %}
     <logo>{{ feed_logo | xml_escape }}</logo>
@@ -102,7 +104,7 @@
     {% endif %}
     {% assign post_image = post.image.path | default: post.image %}
     {% if post_image %}
-    {% unless post_image contains "://" %}
+    {% unless post_image contains ":://" %}
       {% assign post_image = post_image | absolute_url %}
     {% endunless %}
     <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ post_image | xml_escape }}" />
