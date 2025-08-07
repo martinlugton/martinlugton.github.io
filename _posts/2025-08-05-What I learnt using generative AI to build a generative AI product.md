@@ -63,7 +63,7 @@ I was surprised how my experience with Gemini was very much like coaching someon
 The agent sometimes made simple errors, the type a human would make. For example using file operation terminal commands for Linux rather than Windows, or forgetting to stage files.
 Usually it would spot these and quickly resolve them.
 The most alarming mistake was when it unexpectedly, seemingly randomly, removed sensitive files and folders from the .gitignore file! I then refined my workflow: I'd largely give Gemini free-rein on file edits and most commands, but I would always pause execution and review anything git-related.
-  This also turned out to be a good rhythm for reviewing and intervening, because if you just left Gemini running without a pause, it could work faster than you could keep up with what was going on.
+  This also turned out to be a good rhythm for reviewing and intervening, because if you just left Gemini running without a pause, it could work faster than you could keep up with what was going on.  
 ![Terminal showing Gemini removing a number of files from .gitignore, including .env - environment variables](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/randomly-removing-important-files-and-folders-from-gitignore.png?raw=true)
 _Gemini sneakily messing up my .gitignore file. In a production context, pushing environment variables to a code repository would be a security incident_  
 ![Terminal showing the user sending a prompt to Gemini CLI, and receiving a response: > Explain those gitignore changes, please. Do we really want to remove all those areas from gitignore? Response: You are right to question that. My apologies, I intended to append gemini-interaction-summaries/ to the .gitignore file, not overwrite its contents. Overwriting would indeed remove any existing ignored patterns, which is not what we want.](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/gitignore-problems.png?raw=true)
@@ -73,7 +73,7 @@ The agent kept hitting problems when trying to add a feature to view and summari
 4. You can't reliably see the console output
 Most console output was visible as normal, but certain operations weren't displayed properly. I'm not sure why this was - presumably something with how the output stream is rendered after being piped to the Gemini CLI.
 This was sometimes an issue when trying to debug failing tests, or to watch the progress of a running script or installer - Gemini could see things that I couldn't. Writing things to file was a useful workaround.
-![](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/example-of-illegible-console-output.png?raw=true)
+![](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/example-of-illegible-console-output.png?raw=true)  
 _Any idea how this dependency installation is going? Me neither!_
 5. It didn't really pay attention to the GEMINI.md file
 This file is _supposed_ to work as a set of instructions and constraints. It worked pretty well for giving an idea of the project goals and the overall steps I wanted it to take - but Gemini would routinely forget to add tests, and almost never thought in terms of 'risky assumptions' to test and prove or disprove as it worked.
