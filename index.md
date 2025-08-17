@@ -4,7 +4,7 @@ permalink: /
 layout: home
 ---
 
-I work in tech for good and digital government. I'm Head of Product for [Digital Service Platforms](https://platforms.service.gov.uk/) at the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service).
+I work in tech for good and digital government. I'm Head of Product for Digital Service Platforms at the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service).
 
 I enjoy both launching new products and the challenges of driving value from established, large-scale products.
 
