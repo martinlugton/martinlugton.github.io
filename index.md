@@ -9,8 +9,8 @@ I work in tech for good and digital government. I'm Head of Product for Digital 
 I enjoy both launching new products and the challenges of driving value from established, large-scale products.
 
 Some recent highlights include:
-- launching [GOV.UK Forms](https://www.forms.service.gov.uk/) into beta, and growing it from 0 services to over 180
-- growing [GOV.UK Notify](https://www.notifications.service.gov.uk/) at a record pace (for example, onboarding 232 new services in March 2025) using a product-led growth model
+- launching [GOV.UK Forms](https://www.forms.service.gov.uk/) into beta, and growing it from 0 services to over 200
+- growing [GOV.UK Notify](https://www.notifications.service.gov.uk/) at a record pace (for example, onboarding 232 new services in March 2025) using a product-led growth model, whilst achieving the highest ever user satisfaction (88%)
 - securing 3 billion pieces of PPE for the UK during covid
 - helping boost staff satisfaction and trust in leadership in my deputy-directorate at GDS
 
@@ -26,6 +26,7 @@ Want a flavour of my thinking? Here are some sample posts:
 
 ## Artificial Intelligence and machine learning
 
+- [What I learnt using generative AI to build a generative AI product](https://www.martinlugton.com/what-I-learnt-using-generative-AI-to-build-a-generative-AI-product)
 - [What I learnt building a generative AI side project](https://www.martinlugton.com/what-I-learnt-building-generative-AI-side-project)
 - [My first attempts learning about machine learning in 2015](https://www.martinlugton.com/cognitive-technologies-real-opportunities-business-course-notes)
 - [A deeper specialisation I took on machine learning in 2024](https://www.martinlugton.com/machine-learning-specialisation)
