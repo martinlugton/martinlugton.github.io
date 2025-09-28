@@ -4,8 +4,6 @@ permalink: /how-to-evaluate-AI-agents
 date: 2025-09-28T08:30:53+00:00
 ---
 
-# Summary of Notes: Evaluating AI Agents Course
-
 _I recently took a course on [Evaluating AI Agents](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/). This is a summary of what I learnt_
 
 
