@@ -1,7 +1,7 @@
 ---
 title: "Agentic AI - Deeplearning.AI course summary"
 permalink: /agentic-ai-deeplearning
-date: 2026-01-08T19:00:00+00:00
+date: 2026-01-08T17:50:00+00:00
 ---
 
 _I recently took a course on agentic AI, taught by Andrew Ng at [DeepLearning.AI](http://deeplearning.ai). This blog post is a summary of what I learnt._
