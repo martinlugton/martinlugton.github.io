@@ -210,7 +210,7 @@ Cost:
 
    This area is quite cutting-edge.
 
-4. Multi-agent collaboration (can be harder to control, but can result in better outcomes for complex tasks)  
+4. **Multi-agent collaboration** (can be harder to control, but can result in better outcomes for complex tasks)  
    ![A diagram titled "Example: Planning with multiple agents". It shows a system prompt instructing a "marketing manager" LLM to use a team of agents ("researcher", "graphic designer", "writer"). The user request "Create a summer marketing campaign for sunglasses" leads to a 3-step plan: 1. Ask researcher to find trends. 2. Ask graphic designer to create images. 3. Ask writer to create a report. The diagram visually connects the text output of each step to the corresponding specific agent in a sequential chain.](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/example%20-%20planning%20with%20multiple%20agents.png?raw=true)  
    Common inter-agent communication approaches are to have a sequence of agents, or to have a managing agent calling the others as needed. You can also have deeper hierarchies. There are frameworks for setting up multi-agent systems.
 
