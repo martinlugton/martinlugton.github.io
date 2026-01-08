@@ -156,8 +156,8 @@ Cost:
 
       Advice for reflection prompts:
 
-1. Clearly indicate the reflection action  
-2. Specify the criteria to check  
+		1. Clearly indicate the reflection action  
+		2. Specify the criteria to check  
    ![A diagram titled "Reflection with a different LLM". It depicts a two-LLM system. "LLM 1" generates code to create a visualization based on a user prompt. "LLM 2" acts as a reflector/critic. It receives the code, the generated plot, and the conversation history, and is instructed to "Critique the attached chart for readability..." and then "Write new code to implement your improvements."](https://github.com/martinlugton/martinlugton.github.io/blob/main/images/reflection%20with%20a%20different%20LLM.png?raw=true)
 
    You can compare performance of your workflow before and after implementing reflection.
