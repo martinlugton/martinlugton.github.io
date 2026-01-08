@@ -4,7 +4,7 @@ permalink: /agentic-ai-deeplearning
 date: 2026-01-08T17:50:00+00:00
 ---
 
-_I recently took a course on agentic AI, taught by Andrew Ng at [DeepLearning.AI](http://deeplearning.ai). This blog post is a summary of what I learnt._
+_I recently took a [course on agentic AI](https://www.deeplearning.ai/courses/agentic-ai/), taught by Andrew Ng at [DeepLearning.AI](http://deeplearning.ai). This blog post is a summary of what I learnt._
 
 An agentic AI workflow is a process whereby an LLM-based application executes multiple steps to complete a task. 
 
