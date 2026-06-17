@@ -1,0 +1,61 @@
+name: Update GOV.UK Forms count
+
+on:
+  schedule:
+    - cron: '0 8 * * 1'  # Every Monday at 8am UTC
+  workflow_dispatch:       # Manual trigger for testing
+
+permissions:
+  contents: write
+
+jobs:
+  update-forms-count:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install requests beautifulsoup4
+
+      - name: Update forms count in index.md
+        run: |
+          python - <<'EOF'
+          import requests
+          from bs4 import BeautifulSoup
+          import re
+          import sys
+
+          response = requests.get("https://www.forms.service.gov.uk/performance", timeout=10)
+          soup = BeautifulSoup(response.content, 'html.parser')
+          match = re.search(r'(\d+)\s+forms \(live and archived\)', soup.get_text())
+          if not match:
+              print("ERROR: Could not find forms count on page")
+              sys.exit(1)
+          count = int(match.group(1).replace(',', ''))
+          rounded = (count // 50) * 50
+
+          with open('index.md') as f:
+              content = f.read()
+
+          updated = re.sub(
+              r'growing it from 0(?: \w+)? to (?:over )?\d+(?: (?:forms|services))?',
+              f'growing it from 0 to over {rounded} forms',
+              content
+          )
+
+          if updated == content:
+              print(f"No change (still over {rounded} forms)")
+          else:
+              with open('index.md', 'w') as f:
+                  f.write(updated)
+              print(f"Updated to over {rounded} forms (raw count: {count})")
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git add index.md && git commit -m "Update GOV.UK Forms count" && git push)
