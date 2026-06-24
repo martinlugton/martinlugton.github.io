@@ -1,20 +1,20 @@
 {
-  "last_updated": "Not yet fetched",
+  "last_updated": "24 Jun 2026 12:29 BST",
   "forms": {
-    "organisations": "Error",
-    "forms_published": "Error",
-    "submissions_processed": "Error"
+    "organisations": "82",
+    "forms_published": "486",
+    "submissions_processed": "690,443"
   },
   "notify": {
-    "messages_total": "Error",
-    "messages_within_10s": "Error",
-    "organisations": "Error",
-    "services": "Error"
+    "messages_total": "12.9 billion",
+    "messages_within_10s": "100.00%",
+    "organisations": "1,754",
+    "services": "12,356"
   },
   "pay": {
-    "total_value": "Error",
-    "payment_volume": "Error",
-    "organisations": "Error",
-    "services": "Error"
+    "total_value": "9.3 billion",
+    "payment_volume": "139.3 million",
+    "organisations": "610",
+    "services": "1,726"
   }
 }
