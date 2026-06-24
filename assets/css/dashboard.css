@@ -2,6 +2,16 @@ body {
     font-family: "GDS Transport", arial, sans-serif;
 }
 
+.govuk-service-navigation__service-name {
+    font-size: 1.5rem;
+}
+
+.govuk-grid-column-one-third h2 {
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1.1;
+}
+
 .app-stat {
     margin-bottom: 25px;
 }
@@ -21,6 +31,12 @@ body {
     font-size: 1rem;
     color: #505a5f;
     margin-top: 4px;
+}
+
+@media (max-width: 40.0525em) {
+    .govuk-grid-column-one-third + .govuk-grid-column-one-third {
+        margin-top: 30px;
+    }
 }
 
 .app-last-updated {
