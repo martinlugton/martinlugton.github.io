@@ -6,7 +6,7 @@ layout: home
 
 I work in tech for good and digital government. I'm Head of Product for Digital Service Platforms at the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service).
 
-I enjoy both launching new products and the challenges of driving value from established, large-scale products. You can see the live performance of the platforms I lead on my [Digital Service Platforms Performance Dashboard](https://govuk-dashboard-64065936016.us-central1.run.app).
+I enjoy both launching new products and the challenges of driving value from established, large-scale products. You can see the live performance of the platforms I lead on my [Digital Service Platforms Performance Dashboard](/dashboard).
 
 Some recent highlights include:
 - launching [GOV.UK Forms](https://www.forms.service.gov.uk/) into beta, and growing it from 0 to over 450 forms

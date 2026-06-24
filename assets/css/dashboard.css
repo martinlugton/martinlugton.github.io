@@ -1,0 +1,31 @@
+body {
+    font-family: "GDS Transport", arial, sans-serif;
+}
+
+.app-stat {
+    margin-bottom: 25px;
+}
+
+.app-stat__value {
+    display: block;
+    font-family: "GDS Transport", arial, sans-serif;
+    font-size: 2.25rem;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #0b0c0c;
+}
+
+.app-stat__label {
+    display: block;
+    font-family: "GDS Transport", arial, sans-serif;
+    font-size: 1rem;
+    color: #505a5f;
+    margin-top: 4px;
+}
+
+.app-last-updated {
+    font-family: "GDS Transport", arial, sans-serif;
+    font-size: 0.875rem;
+    color: #505a5f;
+    margin-top: 30px;
+}

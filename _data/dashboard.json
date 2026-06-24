@@ -1,0 +1,20 @@
+{
+  "last_updated": "Not yet fetched",
+  "forms": {
+    "organisations": "Error",
+    "forms_published": "Error",
+    "submissions_processed": "Error"
+  },
+  "notify": {
+    "messages_total": "Error",
+    "messages_within_10s": "Error",
+    "organisations": "Error",
+    "services": "Error"
+  },
+  "pay": {
+    "total_value": "Error",
+    "payment_volume": "Error",
+    "organisations": "Error",
+    "services": "Error"
+  }
+}
