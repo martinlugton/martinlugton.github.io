@@ -1,5 +1,5 @@
 {
-  "last_updated": "26 Jun 2026 20:46 BST",
+  "last_updated": "27 Jun 2026 03:50 BST",
   "forms": {
     "organisations": "82",
     "forms_published": "486",
@@ -7,7 +7,7 @@
   },
   "notify": {
     "messages_total": "12.9 billion",
-    "messages_within_10s": "100.00%",
+    "messages_within_10s": "99.92%",
     "organisations": "1,755",
     "services": "12,372"
   },
