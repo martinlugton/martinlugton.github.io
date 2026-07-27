@@ -1,5 +1,5 @@
 {
-  "last_updated": "27 Jul 2026 03:37 BST",
+  "last_updated": "27 Jul 2026 10:44 BST",
   "forms": {
     "organisations": "83",
     "forms_published": "501",
@@ -9,12 +9,12 @@
     "messages_total": "13.1 billion",
     "messages_within_10s": "100.00%",
     "organisations": "1,754",
-    "services": "12,507"
+    "services": "12,508"
   },
   "pay": {
     "total_value": "9.5 billion",
-    "payment_volume": "141.7 million",
-    "organisations": "616",
-    "services": "1,741"
+    "payment_volume": "142.3 million",
+    "organisations": "618",
+    "services": "1,746"
   }
 }
