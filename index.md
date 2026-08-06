@@ -31,6 +31,10 @@ Want a flavour of my thinking? Here are some sample posts:
 - [My first attempts learning about machine learning in 2015](https://www.martinlugton.com/cognitive-technologies-real-opportunities-business-course-notes)
 - [A deeper specialisation I took on machine learning in 2024](https://www.martinlugton.com/machine-learning-specialisation)
 - [AI for Good specialisation, 2025](https://www.martinlugton.com/AI-for-good-specialisation)
+- [How to evaluate generative AI output, 2025](https://www.martinlugton.com/how-to-evaluate-generative-AI-output)
+- [How to evaluate AI agents, 2025](https://www.martinlugton.com/how-to-evaluate-AI-agents)
+- [Agentic AI, a course from DeepLearning.AI, 2026](https://www.martinlugton.com/agentic-ai-deeplearning)
+- [Building a multi-agent AI Objectives and Key Results coach, 2026](https://www.martinlugton.com/multi-agent-ai-okr-coach)
 
 ## Leadership and management
 
