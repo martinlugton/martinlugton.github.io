@@ -1,12 +1,12 @@
 {
-  "last_updated": "10 Sep 2026 21:23 BST",
+  "last_updated": "11 Sep 2026 03:53 BST",
   "forms": {
     "organisations": "90",
     "forms_published": "559",
     "submissions_processed": "822,360"
   },
   "notify": {
-    "messages_total": "13.4 billion",
+    "messages_total": "13.5 billion",
     "messages_within_10s": "100.00%",
     "organisations": "1,755",
     "services": "12,683"
