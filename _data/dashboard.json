@@ -1,15 +1,15 @@
 {
-  "last_updated": "06 Oct 2026 05:44 BST",
+  "last_updated": "06 Oct 2026 13:42 BST",
   "forms": {
     "organisations": "92",
-    "forms_published": "587",
-    "submissions_processed": "887,515"
+    "forms_published": "634",
+    "submissions_processed": "899,041"
   },
   "notify": {
     "messages_total": "13.7 billion",
     "messages_within_10s": "100.00%",
     "organisations": "1,760",
-    "services": "12,829"
+    "services": "12,835"
   },
   "pay": {
     "total_value": "9.9 billion",
