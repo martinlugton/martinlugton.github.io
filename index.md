@@ -3,14 +3,14 @@ title: "Martin Lugton"
 permalink: /
 layout: home
 ---
-{% assign forms_raw = site.data.dashboard.forms.forms_published | remove: "," | plus: 0 %}{% assign forms_rounded = forms_raw | divided_by: 10 | times: 10 %}
+{% assign forms_raw = site.data.dashboard.forms.forms_published | remove: "," | plus: 0 %}{% assign forms_rounded = forms_raw | divided_by: 10 | times: 10 %}{% assign forms_display = forms_rounded | append: "" %}{% if forms_rounded >= 1000 %}{% assign forms_thousands = forms_rounded | divided_by: 1000 %}{% assign forms_rest = forms_rounded | modulo: 1000 | prepend: "00" | slice: -3, 3 %}{% assign forms_display = forms_thousands | append: "," | append: forms_rest %}{% endif %}
 
 I work in tech for good and digital government. I'm Head of Product for Digital Service Platforms at the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service).
 
 I enjoy both launching new products and the challenges of driving value from established, large-scale products. You can see the live performance of the platforms I lead on my [Digital Service Platforms Performance Dashboard](/dashboard).
 
 Some recent highlights include:
-- launching [GOV.UK Forms](https://www.forms.service.gov.uk/) into beta, and growing it from 0 to over {% if forms_rounded > 0 %}{{ forms_rounded }}{% else %}650{% endif %} forms
+- launching [GOV.UK Forms](https://www.forms.service.gov.uk/) into beta, and growing it from 0 to over {% if forms_rounded > 0 %}{{ forms_display }}{% else %}650{% endif %} forms
 - growing [GOV.UK Notify](https://www.notifications.service.gov.uk/) at a record pace (for example, onboarding 232 new services in March 2025) using a product-led growth model, whilst achieving the highest ever user satisfaction (88%)
 - securing 3 billion pieces of PPE for the UK during covid
 - helping boost staff satisfaction and trust in leadership in my deputy-directorate at GDS
