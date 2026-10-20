@@ -16,6 +16,6 @@ Pushing to `main` triggers an automatic GitHub Pages build. No manual deploy ste
 
 ## Automated content updates
 
-A GitHub Actions workflow (`.github/workflows/update-forms-count.yml`) runs every Monday at 8am UTC. It scrapes the live forms count from [www.forms.service.gov.uk/performance](https://www.forms.service.gov.uk/performance), rounds it down to the nearest 50, and updates the figure in `index.md` if it has changed. This keeps the GOV.UK Forms stat on the homepage current without manual edits.
+The GOV.UK Forms stat on the homepage is rendered by Liquid in `index.md` from `site.data.dashboard.forms.forms_published`, rounded down to the nearest 10. `_data/dashboard.json` is refreshed every 6 hours by `.github/workflows/update-dashboard.yml`, so the homepage figure updates on the same builds as the [dashboard](/dashboard). If the scrape fails ("N/A"/"Error"), the homepage falls back to a static figure in `index.md`. Counts of 1,000+ will render without a thousands separator.
 
 Source data comes from the [GOV.UK Performance Dashboard](https://github.com/martinlugton/govuk-performance-dashboard).
