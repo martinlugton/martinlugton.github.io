@@ -1,5 +1,5 @@
 {
-  "last_updated": "20 Nov 2026 00:15 GMT",
+  "last_updated": "20 Nov 2026 14:51 GMT",
   "forms": {
     "organisations": "92",
     "forms_published": "730",
@@ -8,8 +8,8 @@
   "notify": {
     "messages_total": "14.0 billion",
     "messages_within_10s": "100.00%",
-    "organisations": "1,775",
-    "services": "13,080"
+    "organisations": "1,776",
+    "services": "13,084"
   },
   "pay": {
     "total_value": "10.2 billion",
